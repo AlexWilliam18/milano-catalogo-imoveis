@@ -1,7 +1,7 @@
 {
  "atualizado": "24/09/2026",
  "fonte": "https://www.imobiliariamilano.com.br",
- "total": 94,
+ "total": 95,
  "imoveis": [
   {
    "codigo": "20",
@@ -203,6 +203,27 @@
    "descricao": "🏡 APARTAMENTO À VENDA | EDIFÍCIO CAPONI\n✨\nConforto, praticidade e uma excelente localização!\nApartamento localizado no\n6º andar do Edifício Caponi\n, com ambientes bem distribuídos e ótimos espaços para você e sua família.\nO imóvel conta com:\n03 quartos\n, sendo\n01 suíte com guarda-roupa\nSala de estar\nSala de jantar\nCozinha com armários planejados\nBanheiro social\n01 vaga de garagem\n💰\nValor de venda: R$ 400.000,00\n📲\nEntre em contato com a Milano Imóveis e agende sua visita!",
    "link": "https://www.imobiliariamilano.com.br/imoveis?codigo=30",
    "pagina": "https://www.imobiliariamilano.com.br/imovel/apartamento-3-quartos-centro-jacutinga-venda-id-113"
+  },
+  {
+   "codigo": "33",
+   "tipo": "Apartamento",
+   "finalidades": [
+    "Venda"
+   ],
+   "bairro": "Centro",
+   "cidade": "Jacutinga/MG",
+   "valor_venda": "R$ 500.000,00",
+   "valor_aluguel": null,
+   "quartos": "3",
+   "suites": "1",
+   "banheiros": "2",
+   "vagas": "1",
+   "area_total": null,
+   "area_construida": null,
+   "itens": [],
+   "descricao": "✨\nAPARTAMENTO À VENDA | EDIFÍCIO CAPONI\nEm uma localização privilegiada, este elegante apartamento no\n2º andar\noferece ambientes confortáveis, bem distribuídos e funcionais, ideal para quem busca praticidade e qualidade de vida.\nO imóvel conta com:\n•\n03 quartos\n, sendo 01 suíte com guarda-roupa;\n•\nSala de estar\naconchegante;\n•\nSala de jantar\nintegrada;\n•\nCozinha com armários planejados\n;\n•\nBanheiro social\n;\n•\n01 vaga de garagem\n.\nUm imóvel que reúne\nconforto, praticidade e funcionalidade\n, perfeito para receber a família e viver momentos especiais.\n💰\nValor: R$ 500.000,00\n📲\nEntre em contato com a Milano Imóveis e agende sua visita.",
+   "link": "https://www.imobiliariamilano.com.br/imoveis?codigo=33",
+   "pagina": "https://www.imobiliariamilano.com.br/imovel/apartamento-3-quartos-centro-jacutinga-venda-id-116"
   },
   {
    "codigo": "I9Z223",
