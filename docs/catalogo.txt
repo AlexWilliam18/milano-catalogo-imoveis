@@ -1,5 +1,5 @@
 CATÁLOGO DE IMÓVEIS — Milano Aluguel e Venda de Imóveis
-Atualizado em: 25/09/2026. Total: 95 imóveis.
+Atualizado em: 25/09/2026. Total: 93 imóveis.
 
 ============================================================
 Imóvel Cód. 20 — Casa para alugar no bairro Campo Belo, Jacutinga/MG
@@ -899,31 +899,6 @@ Informações:
 Milano Imóveis
 ☎️ (35) 3443-1347
 Fim do imóvel Cód. I9Z220.
-============================================================
-Imóvel Cód. I9Z300 — Loja / Ponto comercial para alugar no bairro Centro, Jacutinga/MG
-Código: I9Z300
-Tipo: Loja / Ponto comercial
-Finalidade: Aluguel
-Bairro: Centro
-Cidade: Jacutinga/MG
-Valor do aluguel: R$ 750,00/mês
-Link do imóvel: https://www.imobiliariamilano.com.br/imoveis?codigo=I9Z300
-Descrição (imóvel Cód. I9Z300, bairro Centro):
-🏢
-SALA COMERCIAL PARA LOCAÇÃO
-Ótima oportunidade para instalar o seu negócio!
-O imóvel conta com:
-Sala comercial com aproximadamente
-30 m²
-;
-Banheiro;
-Cozinha.
-Ideal para escritórios, consultórios, pequenos comércios e prestadores de serviços.
-💰
-Valor do aluguel:
-R$ 750,00
-📞 Entre em contato para mais informações
-Fim do imóvel Cód. I9Z300.
 ============================================================
 Imóvel Cód. I9Z301 — Loja / Ponto comercial para alugar no bairro Centro, Jacutinga/MG
 Código: I9Z301
@@ -1847,34 +1822,6 @@ COZINHA;
 BANHEIRO;
 ÁREA DE SERVIÇO.
 Fim do imóvel Cód. I9Z203.
-============================================================
-Imóvel Cód. I9Z209 — Galpão / Barracão para alugar no bairro Jardim Dea, Jacutinga/MG
-Código: I9Z209
-Tipo: Galpão / Barracão
-Finalidade: Aluguel
-Bairro: Jardim Dea
-Cidade: Jacutinga/MG
-Valor do aluguel: Sob consulta
-Link do imóvel: https://www.imobiliariamilano.com.br/imoveis?codigo=I9Z209
-Descrição (imóvel Cód. I9Z209, bairro Jardim Dea):
-ENTRADA DA LOJA:
-SALÃO DE APROXIMADAMENTE 120 MTS CONTENDO MOBILIA;
-COZINHA;
-BANHEIRO;
-01 DESPENSA.
-SEGUNDO PAVIMENTO:
-01 ESCRITÓRIO;
-SALA DE ESPERA;
-01 BANHEIRO.
-TERCEIRO PAVIMENTO:
-01 SALA DE APROXIMADAMENTE 90 MTS;
-PEQUENA VARANDA;
-COZINHA;
-BANHEIRO;
-TÉRREO:
-BARRACÃO DE APROXIMADAMENTE 115 MTS;
-ÁREA DE SERVIÇO.
-Fim do imóvel Cód. I9Z209.
 ============================================================
 Imóvel Cód. I9Z273 — Galpão / Barracão para alugar no bairro Jardim Dea, Jacutinga/MG
 Código: I9Z273

@@ -1,7 +1,7 @@
 {
  "atualizado": "25/09/2026",
  "fonte": "https://www.imobiliariamilano.com.br",
- "total": 95,
+ "total": 93,
  "imoveis": [
   {
    "codigo": "20",
@@ -677,27 +677,6 @@
    "descricao": "Sala comercial com aproximadamente\n50 m²\n, ideal para\nescritório, consultório ou atendimento profissional\n.\n📌\nO imóvel dispõe de:\n• 02 Banheiros\n• Cozinha\nAmbiente funcional e bem distribuído, perfeito para seu negócio.\n📞\nInformações:\nMilano Imóveis\n☎️ (35) 3443-1347",
    "link": "https://www.imobiliariamilano.com.br/imoveis?codigo=I9Z220",
    "pagina": "https://www.imobiliariamilano.com.br/imovel/loja-centro-jacutinga-locacao-id-20"
-  },
-  {
-   "codigo": "I9Z300",
-   "tipo": "Loja / Ponto comercial",
-   "finalidades": [
-    "Aluguel"
-   ],
-   "bairro": "Centro",
-   "cidade": "Jacutinga/MG",
-   "valor_venda": null,
-   "valor_aluguel": "R$ 750,00/mês",
-   "quartos": null,
-   "suites": null,
-   "banheiros": null,
-   "vagas": null,
-   "area_total": null,
-   "area_construida": null,
-   "itens": [],
-   "descricao": "🏢\nSALA COMERCIAL PARA LOCAÇÃO\nÓtima oportunidade para instalar o seu negócio!\nO imóvel conta com:\nSala comercial com aproximadamente\n30 m²\n;\nBanheiro;\nCozinha.\nIdeal para escritórios, consultórios, pequenos comércios e prestadores de serviços.\n💰\nValor do aluguel:\nR$ 750,00\n📞 Entre em contato para mais informações",
-   "link": "https://www.imobiliariamilano.com.br/imoveis?codigo=I9Z300",
-   "pagina": "https://www.imobiliariamilano.com.br/imovel/loja-centro-jacutinga-locacao-id-41"
   },
   {
    "codigo": "I9Z301",
@@ -1410,27 +1389,6 @@
    "descricao": "BARRACÃO:\nÁREA DE 240M²;\nESCRITÓRIO E SALA DE DESENVOLVIMENTO\n;\nCOZINHA\n;\n02 BANHEIROS;\nINSTALAÇÃO COMPLETA PARA MALHARIA: PARTE ELÉTRICA, HIDRÁULICA.\nCASA AOS FUNDOS:\nÁREA DE 55M²:\n01 QUARTO;\nSALA\nCOZINHA;\nBANHEIRO;\nÁREA DE SERVIÇO.",
    "link": "https://www.imobiliariamilano.com.br/imoveis?codigo=I9Z203",
    "pagina": "https://www.imobiliariamilano.com.br/imovel/galpao-jardim-dea-jacutinga-locacao-id-12"
-  },
-  {
-   "codigo": "I9Z209",
-   "tipo": "Galpão / Barracão",
-   "finalidades": [
-    "Aluguel"
-   ],
-   "bairro": "Jardim Dea",
-   "cidade": "Jacutinga/MG",
-   "valor_venda": null,
-   "valor_aluguel": "Sob consulta",
-   "quartos": null,
-   "suites": null,
-   "banheiros": null,
-   "vagas": null,
-   "area_total": null,
-   "area_construida": null,
-   "itens": [],
-   "descricao": "ENTRADA DA LOJA:\nSALÃO DE APROXIMADAMENTE 120 MTS CONTENDO MOBILIA;\nCOZINHA;\nBANHEIRO;\n01 DESPENSA.\nSEGUNDO PAVIMENTO:\n01 ESCRITÓRIO;\nSALA DE ESPERA;\n01 BANHEIRO.\nTERCEIRO PAVIMENTO:\n01 SALA DE APROXIMADAMENTE 90 MTS;\nPEQUENA VARANDA;\nCOZINHA;\nBANHEIRO;\nTÉRREO:\nBARRACÃO DE APROXIMADAMENTE 115 MTS;\nÁREA DE SERVIÇO.",
-   "link": "https://www.imobiliariamilano.com.br/imoveis?codigo=I9Z209",
-   "pagina": "https://www.imobiliariamilano.com.br/imovel/galpao-jardim-dea-jacutinga-locacao-id-15"
   },
   {
    "codigo": "I9Z273",
