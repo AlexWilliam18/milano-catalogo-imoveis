@@ -1,7 +1,7 @@
 {
  "atualizado": "26/09/2026",
  "fonte": "https://www.imobiliariamilano.com.br",
- "total": 93,
+ "total": 97,
  "imoveis": [
   {
    "codigo": "20",
@@ -511,6 +511,27 @@
    "pagina": "https://www.imobiliariamilano.com.br/imovel/galpao-centro-jacutinga-304m2-locacao-id-110"
   },
   {
+   "codigo": "39",
+   "tipo": "Galpão / Barracão",
+   "finalidades": [
+    "Aluguel"
+   ],
+   "bairro": "Centro",
+   "cidade": "Jacutinga/MG",
+   "valor_venda": null,
+   "valor_aluguel": "R$ 3.350,00/mês",
+   "quartos": null,
+   "suites": null,
+   "banheiros": "2",
+   "vagas": null,
+   "area_total": null,
+   "area_construida": null,
+   "itens": [],
+   "descricao": "🏢\nBARRACÃO DISPONÍVEL PARA LOCAÇÃO!\nUm espaço amplo e funcional, ideal para empresas e diferentes tipos de atividades comerciais.\n🔹\nAproximadamente 207 m²\n🔹\nCozinha\n🔹\nÁrea de serviço coberta\n🔹\n02 banheiros\n💰\nValor da locação: R$ 3.350,00\n📲 Entre em contato com a\nMilano Imóveis\ne agende sua visita!",
+   "link": "https://www.imobiliariamilano.com.br/imoveis?codigo=39",
+   "pagina": "https://www.imobiliariamilano.com.br/imovel/galpao-centro-jacutinga-locacao-id-122"
+  },
+  {
    "codigo": "I9Z252",
    "tipo": "Galpão / Barracão",
    "finalidades": [
@@ -847,6 +868,27 @@
    "pagina": "https://www.imobiliariamilano.com.br/imovel/casa-3-quartos-cesar-matile-jacutinga-venda-id-100"
   },
   {
+   "codigo": "35",
+   "tipo": "Casa",
+   "finalidades": [
+    "Aluguel"
+   ],
+   "bairro": "Cesar Matile",
+   "cidade": "Jacutinga/MG",
+   "valor_venda": null,
+   "valor_aluguel": "R$ 1.250,00/mês",
+   "quartos": "2",
+   "suites": null,
+   "banheiros": "1",
+   "vagas": "1",
+   "area_total": null,
+   "area_construida": null,
+   "itens": [],
+   "descricao": "🏡\nIMÓVEL DISPONÍVEL PARA LOCAÇÃO!\nUma ótima opção para quem busca conforto, praticidade e espaço para toda a família. ✨\n02 quartos\nSala\nCozinha\nBanheiro\nÁrea de serviço coberta\nGaragem coberta\nBanheiro externo\n💰\nValor da locação: R$ 1.250,00\n📲 Entre em contato com a\nMilano Imóveis\ne agende sua visita!",
+   "link": "https://www.imobiliariamilano.com.br/imoveis?codigo=35",
+   "pagina": "https://www.imobiliariamilano.com.br/imovel/casa-2-quartos-cesar-matile-jacutinga-locacao-id-118"
+  },
+  {
    "codigo": "I9Z9",
    "tipo": "Casa",
    "finalidades": [
@@ -910,6 +952,27 @@
    "pagina": "https://www.imobiliariamilano.com.br/imovel/galpao-cidade-jardim-jacutinga-locacao-id-63"
   },
   {
+   "codigo": "38",
+   "tipo": "Galpão / Barracão",
+   "finalidades": [
+    "Aluguel"
+   ],
+   "bairro": "Coronel Renno",
+   "cidade": "Jacutinga/MG",
+   "valor_venda": null,
+   "valor_aluguel": "R$ 3.350,00/mês",
+   "quartos": null,
+   "suites": null,
+   "banheiros": "2",
+   "vagas": null,
+   "area_total": null,
+   "area_construida": null,
+   "itens": [],
+   "descricao": "🏢\nBARRACÃO DISPONÍVEL PARA LOCAÇÃO!\nEspaço amplo e funcional, ideal para empresas e diferentes tipos de atividades comerciais.\n🔹\nAproximadamente 250 m²\n🔹\nCozinha\n🔹\n02 banheiros\n💰\nValor da locação: R$ 3.350,00\n📲 Entre em contato com a\nMilano I",
+   "link": "https://www.imobiliariamilano.com.br/imoveis?codigo=38",
+   "pagina": "https://www.imobiliariamilano.com.br/imovel/galpao-coronel-renno-jacutinga-locacao-id-121"
+  },
+  {
    "codigo": "I9Z326",
    "tipo": "Casa",
    "finalidades": [
@@ -929,6 +992,35 @@
    "descricao": "🏡\nÓtima oportunidade de locação!\n• 02 Quartos\n• Sala\n• Cozinha\n• Banheiro\n• Área de Serviço\n• Quintal\n💰\nValor: R$ 720,00\nEntre em contato para mais informações.",
    "link": "https://www.imobiliariamilano.com.br/imoveis?codigo=I9Z326",
    "pagina": "https://www.imobiliariamilano.com.br/imovel/casa-2-quartos-cristo-rei-jacutinga-locacao-id-57"
+  },
+  {
+   "codigo": "36",
+   "tipo": "Chácara",
+   "finalidades": [
+    "Aluguel"
+   ],
+   "bairro": "Estrada Jacutinga x Monte Sião",
+   "cidade": "Jacutinga/MG",
+   "valor_venda": null,
+   "valor_aluguel": "R$ 6.000,00/mês",
+   "quartos": "4",
+   "suites": "2",
+   "banheiros": "3",
+   "vagas": "3",
+   "area_total": null,
+   "area_construida": null,
+   "itens": [
+    "Área Privativa",
+    "Lavabo",
+    "Armários nos Quartos",
+    "Closet",
+    "Armários na Cozinha",
+    "Quintal",
+    "Área de Lazer"
+   ],
+   "descricao": "✨\nIMÓVEL DE ALTO PADRÃO DISPONÍVEL PARA LOCAÇÃO!\nUm imóvel amplo e sofisticado, pensado para proporcionar conforto, privacidade e momentos especiais. 🏡\n🔹\n04 suítes\n, sendo\n02 suítes master com banheira\n🔹\nLavabo\n🔹\nAmpla sala de estar\n🔹\nAmpla sala de jantar\n🔹\nCozinha\n🔹\nGaragem coberta\n🔹\nLavanderia coberta\n🔹\nÁrea de lazer com vista privilegiada\n💰\nValor da locação: R$ 6.000,00\n📲 Entre em contato com a\nMilano Imóveis\ne agende uma visita para conhecer todos os detalhes deste imóvel!",
+   "link": "https://www.imobiliariamilano.com.br/imoveis?codigo=36",
+   "pagina": "https://www.imobiliariamilano.com.br/imovel/chacara-4-quartos-estrada-jacutinga-x-monte-siao-jacutinga-locacao-id-119"
   },
   {
    "codigo": "13",
@@ -1244,48 +1336,6 @@
    "pagina": "https://www.imobiliariamilano.com.br/imovel/casa-3-quartos-jardim-colina-jacutinga-venda-id-73"
   },
   {
-   "codigo": "I9Z354",
-   "tipo": "Casa",
-   "finalidades": [
-    "Aluguel"
-   ],
-   "bairro": "Jardim Colina",
-   "cidade": "Jacutinga/MG",
-   "valor_venda": null,
-   "valor_aluguel": "R$ 1.100,00/mês",
-   "quartos": "2",
-   "suites": null,
-   "banheiros": "1",
-   "vagas": "1",
-   "area_total": null,
-   "area_construida": null,
-   "itens": [],
-   "descricao": "🏡 CASA PARA LOCAÇÃO\n02 quartos\nSala\nCozinha\nBanheiro\nGaragem coberta\nQuintal\n💰\nValor do aluguel: R$ 1.100,00",
-   "link": "https://www.imobiliariamilano.com.br/imoveis?codigo=I9Z354",
-   "pagina": "https://www.imobiliariamilano.com.br/imovel/casa-2-quartos-jardim-colina-jacutinga-locacao-id-83"
-  },
-  {
-   "codigo": "29",
-   "tipo": "Casa",
-   "finalidades": [
-    "Aluguel"
-   ],
-   "bairro": "Jardim Colina 2",
-   "cidade": "Jacutinga/MG",
-   "valor_venda": null,
-   "valor_aluguel": "R$ 1.100,00/mês",
-   "quartos": "2",
-   "suites": null,
-   "banheiros": "1",
-   "vagas": "3",
-   "area_total": null,
-   "area_construida": null,
-   "itens": [],
-   "descricao": "🏡\nCASA PARA LOCAÇÃO\n•\n02 quartos\n•\nGaragem coberta para até 03 carros\n•\nPortão eletrônico\n•\nSala\n•\nCozinha\n•\nBanheiro\n•\nLavanderia coberta\n•\nQuintal\n💰\nVALOR DA LOCAÇÃO: R$ 1.100,00",
-   "link": "https://www.imobiliariamilano.com.br/imoveis?codigo=29",
-   "pagina": "https://www.imobiliariamilano.com.br/imovel/casa-2-quartos-jardim-colina-2-jacutinga-locacao-id-112"
-  },
-  {
    "codigo": "15",
    "tipo": "Casa",
    "finalidades": [
@@ -1420,7 +1470,7 @@
    "bairro": "Jardim Nicioli",
    "cidade": "Jacutinga/MG",
    "valor_venda": null,
-   "valor_aluguel": "R$ 1.900,00/mês",
+   "valor_aluguel": "R$ 1.800,00/mês",
    "quartos": "2",
    "suites": "1",
    "banheiros": "2",
@@ -1428,7 +1478,7 @@
    "area_total": null,
    "area_construida": null,
    "itens": [],
-   "descricao": "🏠\nCASA PARA LOCAÇÃO\n• 02 quartos, sendo 01 suíte\n• Sala\n• Cozinha com móveis planejados\n• Banheiro social\n• Área de serviço\n• Área de luz\n• Entrada para carro com portão eletrônico\n• Acabamentos de primeira qualidade\n💰\nValor: R$ 1.900,00",
+   "descricao": "🏠\nCASA PARA LOCAÇÃO\n• 02 quartos, sendo 01 suíte\n• Sala\n• Cozinha com móveis planejados\n• Banheiro social\n• Área de serviço\n• Área de luz\n• Entrada para carro com portão eletrônico\n• Acabamentos de primeira qualidade\n💰\nValor: R$ 1.800,00",
    "link": "https://www.imobiliariamilano.com.br/imoveis?codigo=3",
    "pagina": "https://www.imobiliariamilano.com.br/imovel/casa-2-quartos-jardim-nicioli-jacutinga-locacao-id-86"
   },
@@ -1462,7 +1512,7 @@
    "bairro": "Jardim Niciolli",
    "cidade": "Jacutinga/MG",
    "valor_venda": null,
-   "valor_aluguel": "R$ 1.900,00/mês",
+   "valor_aluguel": "R$ 1.800,00/mês",
    "quartos": "2",
    "suites": "1",
    "banheiros": "2",
@@ -1474,7 +1524,7 @@
     "Armários na Cozinha",
     "Portão Eletrônico"
    ],
-   "descricao": "🏡\nMore com conforto, praticidade e um excelente acabamento!\nUm imóvel pensado para oferecer mais comodidade no dia a dia, com detalhes que fazem a diferença.\n• 02 quartos, sendo 01 suíte;\n• Sala;\n• Cozinha;\n• Banheiro social;\n• Entrada para carro;\n• Móveis planejados na cozinha;\n• Água quente na torneira da cozinha;\n• Armários nos banheiros.\n💰 Valor do aluguel: R$ 1.900,00",
+   "descricao": "🏡\nMore com conforto, praticidade e um excelente acabamento!\nUm imóvel pensado para oferecer mais comodidade no dia a dia, com detalhes que fazem a diferença.\n• 02 quartos, sendo 01 suíte;\n• Sala;\n• Cozinha;\n• Banheiro social;\n• Entrada para carro;\n• Móveis planejados na cozinha;\n• Água quente na torneira da cozinha;\n• Armários nos banheiros.\n💰 Valor do aluguel: R$ 1.800,00",
    "link": "https://www.imobiliariamilano.com.br/imoveis?codigo=I9Z319",
    "pagina": "https://www.imobiliariamilano.com.br/imovel/casa-2-quartos-jardim-niciolli-jacutinga-locacao-id-53"
   },
@@ -1498,6 +1548,27 @@
    "descricao": "O espaço ideal para você e sua família!\nUm imóvel amplo, funcional e com excelente área externa para proporcionar mais conforto no dia a dia.\n• 02 quartos, sendo 01 suíte;\n• Sala com cozinha integrada;\n• Banheiro social;\n• Amplo espaço de garagem para mais de 02 veículos;\n• Quintal amplo;\n• Lavanderia coberta.\n💰 Valor do aluguel: R$ 1.500,00",
    "link": "https://www.imobiliariamilano.com.br/imoveis?codigo=I9Z320",
    "pagina": "https://www.imobiliariamilano.com.br/imovel/casa-2-quartos-jardim-niciolli-jacutinga-locacao-id-54"
+  },
+  {
+   "codigo": "34",
+   "tipo": "Casa",
+   "finalidades": [
+    "Aluguel"
+   ],
+   "bairro": "Monsenhor Vieira",
+   "cidade": "Jacutinga/MG",
+   "valor_venda": null,
+   "valor_aluguel": "R$ 1.100,00/mês",
+   "quartos": "2",
+   "suites": null,
+   "banheiros": "1",
+   "vagas": "1",
+   "area_total": null,
+   "area_construida": null,
+   "itens": [],
+   "descricao": "🏡\nIMÓVEL DISPONÍVEL PARA LOCAÇÃO!\n✨ Confortável e funcional, ideal para quem busca praticidade no dia a dia!\n🔹\n02 quartos\n🔹\nSala\n🔹\nCozinha\n🔹\nBanheiro\n🔹\nGaragem coberta\n🔹\nÁrea de serviço\n💰\nValor da locação: R$ 1.100,00 + IPTU\n📲 Entre em contato conosco e\nagende sua visita!",
+   "link": "https://www.imobiliariamilano.com.br/imoveis?codigo=34",
+   "pagina": "https://www.imobiliariamilano.com.br/imovel/casa-2-quartos-monsenhor-vieira-jacutinga-locacao-id-117"
   },
   {
    "codigo": "14",
@@ -1955,6 +2026,27 @@
    "descricao": "🏠 IMÓVEL PARA LOCAÇÃO\n02 quartos\nSala\nCozinha\nBanheiro\nÁrea de serviço\nEntrada para carro\nPequeno quintal\n💰\nValor do aluguel: R$ 1.000,00",
    "link": "https://www.imobiliariamilano.com.br/imoveis?codigo=I9Z335",
    "pagina": "https://www.imobiliariamilano.com.br/imovel/casa-2-quartos-vale-das-primaveras-jacutinga-locacao-id-64"
+  },
+  {
+   "codigo": "37",
+   "tipo": "Lote / Terreno",
+   "finalidades": [
+    "Aluguel"
+   ],
+   "bairro": "Verde Vale",
+   "cidade": "Jacutinga/MG",
+   "valor_venda": null,
+   "valor_aluguel": "R$ 1.350,00/mês",
+   "quartos": null,
+   "suites": null,
+   "banheiros": null,
+   "vagas": null,
+   "area_total": null,
+   "area_construida": null,
+   "itens": [],
+   "descricao": "🚗\nESPAÇO COMERCIAL DISPONÍVEL PARA LOCAÇÃO!\nExcelente opção para quem busca um espaço que pode ser utilizado como\nestacionamento ou lava-rápido\n, oferecendo praticidade e potencial para diferentes atividades.\n🔹\nEstacionamento amplo\n🔹 Possibilidade de utilização como\nlava-rápido\n💰\nValor da locação: R$ 1.350,00\n📲 Entre em contato com",
+   "link": "https://www.imobiliariamilano.com.br/imoveis?codigo=37",
+   "pagina": "https://www.imobiliariamilano.com.br/imovel/lote-terreno-verde-vale-jacutinga-locacao-id-120"
   },
   {
    "codigo": "I9Z347",
