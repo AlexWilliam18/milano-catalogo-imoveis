@@ -1,7 +1,7 @@
 {
  "atualizado": "28/09/2026",
  "fonte": "https://www.imobiliariamilano.com.br",
- "total": 97,
+ "total": 98,
  "imoveis": [
   {
    "codigo": "20",
@@ -2089,6 +2089,27 @@
    "descricao": "🏡\nCASA PARA LOCAÇÃO\n•\n02 quartos, sendo 01 suíte\n•\nSala aconchegante\n•\nCozinha\n•\nBanheiro social\n•\nÁrea de serviço\n•\nQuintal\n•\nEntrada para carro\n💰\nValor da locação: R$ 1.300,00\n📲\nEntre em contato e agende sua visita!",
    "link": "https://www.imobiliariamilano.com.br/imoveis?codigo=28",
    "pagina": "https://www.imobiliariamilano.com.br/imovel/casa-2-quartos-vila-nicioli-jacutinga-locacao-id-111"
+  },
+  {
+   "codigo": "40",
+   "tipo": "Galpão / Barracão",
+   "finalidades": [
+    "Aluguel"
+   ],
+   "bairro": "Vila Rica",
+   "cidade": "Jacutinga/MG",
+   "valor_venda": null,
+   "valor_aluguel": "R$ 1.400,00/mês",
+   "quartos": null,
+   "suites": null,
+   "banheiros": "2",
+   "vagas": null,
+   "area_total": null,
+   "area_construida": null,
+   "itens": [],
+   "descricao": "BARRACÃO DISPONÍVEL PARA LOCAÇÃO\n📍 Barracão de aproximadamente\n70 m²\n• 02 banheiros\n• Cozinha\n• Recepção\n💰\nValor: R$ 1.400,00\nEntre em contato para mais informações e agende uma visita!",
+   "link": "https://www.imobiliariamilano.com.br/imoveis?codigo=40",
+   "pagina": "https://www.imobiliariamilano.com.br/imovel/galpao-vila-rica-jacutinga-locacao-id-123"
   },
   {
    "codigo": "I9Z266",
