@@ -1,7 +1,7 @@
 {
  "atualizado": "01/10/2026",
  "fonte": "https://www.imobiliariamilano.com.br",
- "total": 98,
+ "total": 96,
  "imoveis": [
   {
    "codigo": "20",
@@ -318,7 +318,7 @@
    "bairro": "Centro",
    "cidade": "Jacutinga/MG",
    "valor_venda": null,
-   "valor_aluguel": "R$ 4.000,00/mês",
+   "valor_aluguel": "R$ 3.300,00/mês",
    "quartos": "3",
    "suites": "3",
    "banheiros": "4",
@@ -347,7 +347,7 @@
    "bairro": "Centro",
    "cidade": "Jacutinga/MG",
    "valor_venda": null,
-   "valor_aluguel": "R$ 3.600,00/mês",
+   "valor_aluguel": "R$ 3.000,00/mês",
    "quartos": "4",
    "suites": "2",
    "banheiros": "3",
@@ -1483,27 +1483,6 @@
    "pagina": "https://www.imobiliariamilano.com.br/imovel/casa-2-quartos-jardim-nicioli-jacutinga-locacao-id-86"
   },
   {
-   "codigo": "I9Z310",
-   "tipo": "Casa",
-   "finalidades": [
-    "Venda"
-   ],
-   "bairro": "Jardim Niciolli",
-   "cidade": "Jacutinga/MG",
-   "valor_venda": "Sob consulta",
-   "valor_aluguel": null,
-   "quartos": "2",
-   "suites": "1",
-   "banheiros": "2",
-   "vagas": "3",
-   "area_total": null,
-   "area_construida": "59 m²",
-   "itens": [],
-   "descricao": "🏡 Casa disponivel para venda e locação – Excelente oportunidade!\n✨\nCaracterísticas do imóvel:\n02 quartos, sendo 01 suíte;\nSala integrada à cozinha, proporcionando um ambiente moderno e funcional;\nBanheiro social;\nAmpla garagem com espaço para mais de 02 veículos;\nQuintal espaçoso, ideal para lazer, crianças ou pets.\n📐\nDimensões:\nTerreno:\n200 m²\nÁrea construída:\n59,54 m²\n💳\nAceita financiamento bancário.\nEntre em contato: (35) 99103-1292",
-   "link": "https://www.imobiliariamilano.com.br/imoveis?codigo=I9Z310",
-   "pagina": "https://www.imobiliariamilano.com.br/imovel/casa-2-quartos-jardim-niciolli-jacutinga-venda-id-48"
-  },
-  {
    "codigo": "I9Z319",
    "tipo": "Casa",
    "finalidades": [
@@ -1527,27 +1506,6 @@
    "descricao": "🏡\nMore com conforto, praticidade e um excelente acabamento!\nUm imóvel pensado para oferecer mais comodidade no dia a dia, com detalhes que fazem a diferença.\n• 02 quartos, sendo 01 suíte;\n• Sala;\n• Cozinha;\n• Banheiro social;\n• Entrada para carro;\n• Móveis planejados na cozinha;\n• Água quente na torneira da cozinha;\n• Armários nos banheiros.\n💰 Valor do aluguel: R$ 1.800,00",
    "link": "https://www.imobiliariamilano.com.br/imoveis?codigo=I9Z319",
    "pagina": "https://www.imobiliariamilano.com.br/imovel/casa-2-quartos-jardim-niciolli-jacutinga-locacao-id-53"
-  },
-  {
-   "codigo": "I9Z320",
-   "tipo": "Casa",
-   "finalidades": [
-    "Aluguel"
-   ],
-   "bairro": "Jardim Niciolli",
-   "cidade": "Jacutinga/MG",
-   "valor_venda": null,
-   "valor_aluguel": "R$ 1.500,00/mês",
-   "quartos": "2",
-   "suites": "1",
-   "banheiros": "2",
-   "vagas": "3",
-   "area_total": null,
-   "area_construida": null,
-   "itens": [],
-   "descricao": "O espaço ideal para você e sua família!\nUm imóvel amplo, funcional e com excelente área externa para proporcionar mais conforto no dia a dia.\n• 02 quartos, sendo 01 suíte;\n• Sala com cozinha integrada;\n• Banheiro social;\n• Amplo espaço de garagem para mais de 02 veículos;\n• Quintal amplo;\n• Lavanderia coberta.\n💰 Valor do aluguel: R$ 1.500,00",
-   "link": "https://www.imobiliariamilano.com.br/imoveis?codigo=I9Z320",
-   "pagina": "https://www.imobiliariamilano.com.br/imovel/casa-2-quartos-jardim-niciolli-jacutinga-locacao-id-54"
   },
   {
    "codigo": "34",

@@ -1,5 +1,5 @@
 CATÁLOGO DE IMÓVEIS — Milano Aluguel e Venda de Imóveis
-Atualizado em: 01/10/2026. Total: 98 imóveis.
+Atualizado em: 01/10/2026. Total: 96 imóveis.
 
 ============================================================
 Imóvel Cód. 20 — Casa para alugar no bairro Campo Belo, Jacutinga/MG
@@ -429,7 +429,7 @@ Tipo: Casa
 Finalidade: Aluguel
 Bairro: Centro
 Cidade: Jacutinga/MG
-Valor do aluguel: R$ 4.000,00/mês
+Valor do aluguel: R$ 3.300,00/mês
 Quartos: 3
 Suítes: 3
 Banheiros: 4
@@ -479,7 +479,7 @@ Tipo: Casa
 Finalidade: Aluguel
 Bairro: Centro
 Cidade: Jacutinga/MG
-Valor do aluguel: R$ 3.600,00/mês
+Valor do aluguel: R$ 3.000,00/mês
 Quartos: 4
 Suítes: 2
 Banheiros: 3
@@ -1948,39 +1948,6 @@ CASA PARA LOCAÇÃO
 Valor: R$ 1.800,00
 Fim do imóvel Cód. 3.
 ============================================================
-Imóvel Cód. I9Z310 — Casa à venda no bairro Jardim Niciolli, Jacutinga/MG
-Código: I9Z310
-Tipo: Casa
-Finalidade: Venda
-Bairro: Jardim Niciolli
-Cidade: Jacutinga/MG
-Valor de venda: Sob consulta
-Quartos: 2
-Suítes: 1
-Banheiros: 2
-Vagas de garagem: 3
-Área construída: 59 m²
-Link do imóvel: https://www.imobiliariamilano.com.br/imoveis?codigo=I9Z310
-Descrição (imóvel Cód. I9Z310, bairro Jardim Niciolli):
-🏡 Casa disponivel para venda e locação – Excelente oportunidade!
-✨
-Características do imóvel:
-02 quartos, sendo 01 suíte;
-Sala integrada à cozinha, proporcionando um ambiente moderno e funcional;
-Banheiro social;
-Ampla garagem com espaço para mais de 02 veículos;
-Quintal espaçoso, ideal para lazer, crianças ou pets.
-📐
-Dimensões:
-Terreno:
-200 m²
-Área construída:
-59,54 m²
-💳
-Aceita financiamento bancário.
-Entre em contato: (35) 99103-1292
-Fim do imóvel Cód. I9Z310.
-============================================================
 Imóvel Cód. I9Z319 — Casa para alugar no bairro Jardim Niciolli, Jacutinga/MG
 Código: I9Z319
 Tipo: Casa
@@ -2008,30 +1975,6 @@ Um imóvel pensado para oferecer mais comodidade no dia a dia, com detalhes que 
 • Armários nos banheiros.
 💰 Valor do aluguel: R$ 1.800,00
 Fim do imóvel Cód. I9Z319.
-============================================================
-Imóvel Cód. I9Z320 — Casa para alugar no bairro Jardim Niciolli, Jacutinga/MG
-Código: I9Z320
-Tipo: Casa
-Finalidade: Aluguel
-Bairro: Jardim Niciolli
-Cidade: Jacutinga/MG
-Valor do aluguel: R$ 1.500,00/mês
-Quartos: 2
-Suítes: 1
-Banheiros: 2
-Vagas de garagem: 3
-Link do imóvel: https://www.imobiliariamilano.com.br/imoveis?codigo=I9Z320
-Descrição (imóvel Cód. I9Z320, bairro Jardim Niciolli):
-O espaço ideal para você e sua família!
-Um imóvel amplo, funcional e com excelente área externa para proporcionar mais conforto no dia a dia.
-• 02 quartos, sendo 01 suíte;
-• Sala com cozinha integrada;
-• Banheiro social;
-• Amplo espaço de garagem para mais de 02 veículos;
-• Quintal amplo;
-• Lavanderia coberta.
-💰 Valor do aluguel: R$ 1.500,00
-Fim do imóvel Cód. I9Z320.
 ============================================================
 Imóvel Cód. 34 — Casa para alugar no bairro Monsenhor Vieira, Jacutinga/MG
 Código: 34
