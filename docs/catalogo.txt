@@ -1,5 +1,5 @@
 CATÁLOGO DE IMÓVEIS — Milano Aluguel e Venda de Imóveis
-Atualizado em: 03/10/2026. Total: 96 imóveis.
+Atualizado em: 03/10/2026. Total: 97 imóveis.
 
 ============================================================
 Imóvel Cód. 20 — Casa para alugar no bairro Campo Belo, Jacutinga/MG
@@ -1390,37 +1390,41 @@ Terreno de 399 m² onde está localizada a casa;
 Segundo terreno de 399 m² aos fundos, proporcionando ainda mais espaço e possibilidades de aproveitamento.
 Fim do imóvel Cód. 18.
 ============================================================
-Imóvel Cód. 32 — Casa para alugar no bairro flamboyant, Jacutinga/MG
-Código: 32
+Imóvel Cód. 42 — Casa para alugar no bairro Flamboyant, Jacutinga/MG
+Código: 42
 Tipo: Casa
 Finalidade: Aluguel
-Bairro: flamboyant
+Bairro: Flamboyant
 Cidade: Jacutinga/MG
-Valor do aluguel: R$ 1.250,00/mês
-Quartos: 2
+Valor do aluguel: R$ 1.750,00/mês
+Quartos: 3
 Suítes: 1
-Banheiros: 1
+Banheiros: 2
 Vagas de garagem: 1
-Link do imóvel: https://www.imobiliariamilano.com.br/imoveis?codigo=32
-Descrição (imóvel Cód. 32, bairro flamboyant):
-🏡 CASA PARA LOCAÇÃO
+Link do imóvel: https://www.imobiliariamilano.com.br/imoveis?codigo=42
+Descrição (imóvel Cód. 42, bairro Flamboyant):
+🏡 CASA DISPONÍVEL PARA LOCAÇÃO
+Uma ótima opção para quem busca espaço, conforto e praticidade!
 •
-02 quartos, sendo 01 suíte
+03 quartos, sendo 01 suíte
 •
 Sala
 •
 Cozinha
 •
-Banheiro
+Banheiro social
 •
-Área de serviço
+Área de serviço coberta
+•
+Área de lazer
 •
 Quintal
 •
-Entrada para carro
-Valor: R$ 1.250,00
-Entre em contato conosco e faça uma visita!
-Fim do imóvel Cód. 32.
+Garagem
+💰
+Aluguel: R$ 1.750,00 + IPTU
+📲 Entre em contato para mais informações e agende sua visita!
+Fim do imóvel Cód. 42.
 ============================================================
 Imóvel Cód. I9Z117 — Casa para alugar no bairro Flamboyant, Jacutinga/MG
 Código: I9Z117
@@ -2534,6 +2538,39 @@ CASA PARA LOCAÇÃO
 Valor: R$ 1.110,00 com IPTU incluso.
 Entre em contato conosco e faça uma visita!
 Fim do imóvel Cód. 31.
+============================================================
+Imóvel Cód. 41 — Casa para alugar no bairro Vale das Primaveras, Jacutinga/MG
+Código: 41
+Tipo: Casa
+Finalidade: Aluguel
+Bairro: Vale das Primaveras
+Cidade: Jacutinga/MG
+Valor do aluguel: R$ 1.300,00/mês
+Quartos: 3
+Banheiros: 1
+Vagas de garagem: 1
+Link do imóvel: https://www.imobiliariamilano.com.br/imoveis?codigo=41
+Descrição (imóvel Cód. 41, bairro Vale das Primaveras):
+🏡 CASA DISPONÍVEL PARA LOCAÇÃO
+Imóvel espaçoso e funcional, ideal para quem busca conforto e praticidade:
+•
+03 quartos
+•
+Sala
+•
+Cozinha
+•
+Banheiro
+•
+Área de serviço coberta
+•
+Garagem
+•
+Amplo quintal
+💰
+Valor do aluguel: R$ 1.300,00
+📲 Entre em contato e agende sua visita!
+Fim do imóvel Cód. 41.
 ============================================================
 Imóvel Cód. I9Z312 — Casa para alugar no bairro Vale das Primaveras, Jacutinga/MG
 Código: I9Z312

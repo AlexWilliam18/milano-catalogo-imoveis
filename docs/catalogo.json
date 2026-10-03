@@ -1,7 +1,7 @@
 {
  "atualizado": "03/10/2026",
  "fonte": "https://www.imobiliariamilano.com.br",
- "total": 96,
+ "total": 97,
  "imoveis": [
   {
    "codigo": "20",
@@ -1079,25 +1079,25 @@
    "pagina": "https://www.imobiliariamilano.com.br/imovel/casa-3-quartos-flamboyant-jacutinga-venda-id-101"
   },
   {
-   "codigo": "32",
+   "codigo": "42",
    "tipo": "Casa",
    "finalidades": [
     "Aluguel"
    ],
-   "bairro": "flamboyant",
+   "bairro": "Flamboyant",
    "cidade": "Jacutinga/MG",
    "valor_venda": null,
-   "valor_aluguel": "R$ 1.250,00/mês",
-   "quartos": "2",
+   "valor_aluguel": "R$ 1.750,00/mês",
+   "quartos": "3",
    "suites": "1",
-   "banheiros": "1",
+   "banheiros": "2",
    "vagas": "1",
    "area_total": null,
    "area_construida": null,
    "itens": [],
-   "descricao": "🏡 CASA PARA LOCAÇÃO\n•\n02 quartos, sendo 01 suíte\n•\nSala\n•\nCozinha\n•\nBanheiro\n•\nÁrea de serviço\n•\nQuintal\n•\nEntrada para carro\nValor: R$ 1.250,00\nEntre em contato conosco e faça uma visita!",
-   "link": "https://www.imobiliariamilano.com.br/imoveis?codigo=32",
-   "pagina": "https://www.imobiliariamilano.com.br/imovel/casa-2-quartos-flamboyant-jacutinga-locacao-id-115"
+   "descricao": "🏡 CASA DISPONÍVEL PARA LOCAÇÃO\nUma ótima opção para quem busca espaço, conforto e praticidade!\n•\n03 quartos, sendo 01 suíte\n•\nSala\n•\nCozinha\n•\nBanheiro social\n•\nÁrea de serviço coberta\n•\nÁrea de lazer\n•\nQuintal\n•\nGaragem\n💰\nAluguel: R$ 1.750,00 + IPTU\n📲 Entre em contato para mais informações e agende sua visita!",
+   "link": "https://www.imobiliariamilano.com.br/imoveis?codigo=42",
+   "pagina": "https://www.imobiliariamilano.com.br/imovel/casa-3-quartos-flamboyant-jacutinga-locacao-id-125"
   },
   {
    "codigo": "I9Z117",
@@ -1942,6 +1942,27 @@
    "descricao": "🏡\nCASA PARA LOCAÇÃO\n• 02 quartos\n• Sala\n• Cozinha\n• Banheiro\n• Área de serviço coberta\n• Garagem\n• Pequeno quintal\nValor: R$ 1.110,00 com IPTU incluso.\nEntre em contato conosco e faça uma visita!",
    "link": "https://www.imobiliariamilano.com.br/imoveis?codigo=31",
    "pagina": "https://www.imobiliariamilano.com.br/imovel/casa-2-quartos-vale-das-primaveras-jacutinga-locacao-id-114"
+  },
+  {
+   "codigo": "41",
+   "tipo": "Casa",
+   "finalidades": [
+    "Aluguel"
+   ],
+   "bairro": "Vale das Primaveras",
+   "cidade": "Jacutinga/MG",
+   "valor_venda": null,
+   "valor_aluguel": "R$ 1.300,00/mês",
+   "quartos": "3",
+   "suites": null,
+   "banheiros": "1",
+   "vagas": "1",
+   "area_total": null,
+   "area_construida": null,
+   "itens": [],
+   "descricao": "🏡 CASA DISPONÍVEL PARA LOCAÇÃO\nImóvel espaçoso e funcional, ideal para quem busca conforto e praticidade:\n•\n03 quartos\n•\nSala\n•\nCozinha\n•\nBanheiro\n•\nÁrea de serviço coberta\n•\nGaragem\n•\nAmplo quintal\n💰\nValor do aluguel: R$ 1.300,00\n📲 Entre em contato e agende sua visita!",
+   "link": "https://www.imobiliariamilano.com.br/imoveis?codigo=41",
+   "pagina": "https://www.imobiliariamilano.com.br/imovel/casa-3-quartos-vale-das-primaveras-jacutinga-locacao-id-124"
   },
   {
    "codigo": "I9Z312",
