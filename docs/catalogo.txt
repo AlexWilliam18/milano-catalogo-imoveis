@@ -1,5 +1,5 @@
 CATÁLOGO DE IMÓVEIS — Milano Aluguel e Venda de Imóveis
-Atualizado em: 06/10/2026. Total: 97 imóveis.
+Atualizado em: 06/10/2026. Total: 95 imóveis.
 
 ============================================================
 Imóvel Cód. 20 — Casa para alugar no bairro Campo Belo, Jacutinga/MG
@@ -472,44 +472,6 @@ Valor da locação: R$ 4.000,00
 📲
 Entre em contato com a Milano Imóveis!
 Fim do imóvel Cód. 25.
-============================================================
-Imóvel Cód. 26 — Casa para alugar no bairro Centro, Jacutinga/MG
-Código: 26
-Tipo: Casa
-Finalidade: Aluguel
-Bairro: Centro
-Cidade: Jacutinga/MG
-Valor do aluguel: R$ 3.000,00/mês
-Quartos: 4
-Suítes: 2
-Banheiros: 3
-Vagas de garagem: 1
-Link do imóvel: https://www.imobiliariamilano.com.br/imoveis?codigo=26
-Descrição (imóvel Cód. 26, bairro Centro):
-Excelente opção para quem busca espaço, conforto e praticidade!
-O imóvel conta com
-duas casas independentes
-, sendo uma residência principal ampla e uma casa nos fundos, ideal para acomodar familiares ou proporcionar mais versatilidade de uso.
-🏠 Casa da Frente
-• 04 quartos, sendo
-02 suítes
-;
-• Sala de estar ampla;
-• Cozinha;
-• Banheiro social;
-• Garagem coberta.
-🏡 Casa dos Fundos
-• 01 quarto;
-• Sala;
-• Cozinha;
-• Banheiro;
-• Área de serviço coberta;
-• Amplo quintal.
-💰
-Valor da locação: R$ 3.600,00
-📲 Entre em contato com a
-Milano Imóveis
-Fim do imóvel Cód. 26.
 ============================================================
 Imóvel Cód. 7 — Casa para alugar no bairro Centro, Jacutinga/MG
 Código: 7
@@ -2677,41 +2639,6 @@ ENTRADA PARA CARRO
 💰
 VALOR: R$ 250.000,00
 Fim do imóvel Cód. I9Z347.
-============================================================
-Imóvel Cód. 28 — Casa para alugar no bairro Vila Nicioli, Jacutinga/MG
-Código: 28
-Tipo: Casa
-Finalidade: Aluguel
-Bairro: Vila Nicioli
-Cidade: Jacutinga/MG
-Valor do aluguel: R$ 1.300,00/mês
-Quartos: 2
-Suítes: 1
-Banheiros: 2
-Vagas de garagem: 1
-Link do imóvel: https://www.imobiliariamilano.com.br/imoveis?codigo=28
-Descrição (imóvel Cód. 28, bairro Vila Nicioli):
-🏡
-CASA PARA LOCAÇÃO
-•
-02 quartos, sendo 01 suíte
-•
-Sala aconchegante
-•
-Cozinha
-•
-Banheiro social
-•
-Área de serviço
-•
-Quintal
-•
-Entrada para carro
-💰
-Valor da locação: R$ 1.300,00
-📲
-Entre em contato e agende sua visita!
-Fim do imóvel Cód. 28.
 ============================================================
 Imóvel Cód. 40 — Galpão / Barracão para alugar no bairro Vila Rica, Jacutinga/MG
 Código: 40
