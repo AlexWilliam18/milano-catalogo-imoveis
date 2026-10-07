@@ -1,5 +1,5 @@
 CATÁLOGO DE IMÓVEIS — Milano Aluguel e Venda de Imóveis
-Atualizado em: 07/10/2026. Total: 98 imóveis.
+Atualizado em: 07/10/2026. Total: 99 imóveis.
 
 ============================================================
 Imóvel Cód. 20 — Casa para alugar no bairro Campo Belo, Jacutinga/MG
@@ -2131,6 +2131,34 @@ Garagem coberta para 02 carros
 ✨
 Entre em contato e agende sua visita para conhecer este imóvel!
 Fim do imóvel Cód. 21.
+============================================================
+Imóvel Cód. 45 — Casa para alugar no bairro Nova Jacutinga, Jacutinga/MG
+Código: 45
+Tipo: Casa
+Finalidade: Aluguel
+Bairro: Nova Jacutinga
+Cidade: Jacutinga/MG
+Valor do aluguel: R$ 1.600,00/mês
+Quartos: 2
+Banheiros: 1
+Vagas de garagem: 1
+Link do imóvel: https://www.imobiliariamilano.com.br/imoveis?codigo=45
+Descrição (imóvel Cód. 45, bairro Nova Jacutinga):
+🏠
+IMÓVEL DISPONÍVEL PARA LOCAÇÃO
+O imóvel conta com:
+• 02 quartos
+• Sala ampla
+• Cozinha ampla
+• Banheiro
+• Área de serviço
+• Garagem coberta
+• Quintal
+💰
+Aluguel: R$ 1.600,00
+📲 Entre em contato com a
+Milano Imóveis
+Fim do imóvel Cód. 45.
 ============================================================
 Imóvel Cód. I9Z11 — Casa à venda no bairro Nova Jacutinga, Jacutinga/MG
 Código: I9Z11

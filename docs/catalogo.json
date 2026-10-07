@@ -1,7 +1,7 @@
 {
  "atualizado": "07/10/2026",
  "fonte": "https://www.imobiliariamilano.com.br",
- "total": 98,
+ "total": 99,
  "imoveis": [
   {
    "codigo": "20",
@@ -1590,6 +1590,27 @@
    "descricao": "🏡\nCASA PARA LOCAÇÃO\nImóvel completo, confortável e com excelentes espaços para sua família!\n•\n03 quartos\n, sendo 01 suíte, todos com guarda-roupas;\n•\nSala de jantar\n;\n•\nSala de estar\n;\n•\nCozinha com móveis planejados\n;\n•\nBanheiro social com armário planejado\n;\n•\nÁrea de serviço coberta\n;\n•\nÁrea de lazer com lavabo\n;\n•\nGaragem coberta para 02 carros\n, com portão eletrônico.\n✨\nEntre em contato e agende sua visita para conhecer este imóvel!",
    "link": "https://www.imobiliariamilano.com.br/imoveis?codigo=21",
    "pagina": "https://www.imobiliariamilano.com.br/imovel/casa-3-quartos-nova-jacutinga-jacutinga-locacao-id-104"
+  },
+  {
+   "codigo": "45",
+   "tipo": "Casa",
+   "finalidades": [
+    "Aluguel"
+   ],
+   "bairro": "Nova Jacutinga",
+   "cidade": "Jacutinga/MG",
+   "valor_venda": null,
+   "valor_aluguel": "R$ 1.600,00/mês",
+   "quartos": "2",
+   "suites": null,
+   "banheiros": "1",
+   "vagas": "1",
+   "area_total": null,
+   "area_construida": null,
+   "itens": [],
+   "descricao": "🏠\nIMÓVEL DISPONÍVEL PARA LOCAÇÃO\nO imóvel conta com:\n• 02 quartos\n• Sala ampla\n• Cozinha ampla\n• Banheiro\n• Área de serviço\n• Garagem coberta\n• Quintal\n💰\nAluguel: R$ 1.600,00\n📲 Entre em contato com a\nMilano Imóveis",
+   "link": "https://www.imobiliariamilano.com.br/imoveis?codigo=45",
+   "pagina": "https://www.imobiliariamilano.com.br/imovel/casa-2-quartos-nova-jacutinga-jacutinga-locacao-id-128"
   },
   {
    "codigo": "I9Z11",
