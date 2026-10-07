@@ -1,5 +1,5 @@
 CATÁLOGO DE IMÓVEIS — Milano Aluguel e Venda de Imóveis
-Atualizado em: 07/10/2026. Total: 95 imóveis.
+Atualizado em: 07/10/2026. Total: 98 imóveis.
 
 ============================================================
 Imóvel Cód. 20 — Casa para alugar no bairro Campo Belo, Jacutinga/MG
@@ -27,6 +27,43 @@ VALOR: R$ 1.500,00
 📲
 Gostou? Entre em contato! Venha conhecer seu novo lar.
 Fim do imóvel Cód. 20.
+============================================================
+Imóvel Cód. 44 — Casa para alugar no bairro Campo Belo, Jacutinga/MG
+Código: 44
+Tipo: Casa
+Finalidade: Aluguel
+Bairro: Campo Belo
+Cidade: Jacutinga/MG
+Valor do aluguel: R$ 1.730,00/mês
+Quartos: 2
+Suítes: 1
+Banheiros: 2
+Vagas de garagem: 1
+Link do imóvel: https://www.imobiliariamilano.com.br/imoveis?codigo=44
+Descrição (imóvel Cód. 44, bairro Campo Belo):
+🏡
+IMÓVEL DISPONÍVEL PARA LOCAÇÃO
+Um imóvel moderno, bem acabado e pensado para oferecer conforto e praticidade no dia a dia.
+✨
+O imóvel conta com:
+•
+02 quartos, sendo 01 suíte
+• Sala
+• Cozinha
+• Banheiro social
+• Área de serviço
+• Garagem para
+01 veículo com portão eletrônico
+•
+Acabamentos de primeira qualidade
+• Janelas em alumínio com vidro
+Blindex
+• Portões em alumínio
+💰
+Valor do aluguel: R$ 1.730,00
+📲 Entre em contato com a
+Milano Imóveis
+Fim do imóvel Cód. 44.
 ============================================================
 Imóvel Cód. I9Z13 — Casa à venda no bairro Campo Belo, Jacutinga/MG
 Código: I9Z13
@@ -472,6 +509,42 @@ Valor da locação: R$ 4.000,00
 📲
 Entre em contato com a Milano Imóveis!
 Fim do imóvel Cód. 25.
+============================================================
+Imóvel Cód. 43 — Casa para alugar no bairro Centro, Jacutinga/MG
+Código: 43
+Tipo: Casa
+Finalidade: Aluguel
+Bairro: Centro
+Cidade: Jacutinga/MG
+Valor do aluguel: R$ 1.600,00/mês
+Quartos: 2
+Suítes: 1
+Banheiros: 2
+Vagas de garagem: 1
+Link do imóvel: https://www.imobiliariamilano.com.br/imoveis?codigo=43
+Descrição (imóvel Cód. 43, bairro Centro):
+🏡
+EXCLUSIVIDADE MILANO IMÓVEIS
+✨
+IMÓVEL DISPONÍVEL PARA LOCAÇÃO
+📍
+Centro – Rua Educandário, nº 971
+O imóvel conta com:
+•
+02 quartos, sendo 01 suíte
+• Sala
+• Cozinha
+• Banheiro social
+• Área de serviço
+• Quintal com
+churrasqueira, bancada e pia
+• Entrada para carro
+💰
+Valor do aluguel: R$ 1.600,00
+Um imóvel completo, com espaço para aproveitar bons momentos em família e uma localização privilegiada!
+📲
+Entre em contato com a Milano Imóveis
+Fim do imóvel Cód. 43.
 ============================================================
 Imóvel Cód. 7 — Casa para alugar no bairro Centro, Jacutinga/MG
 Código: 7
@@ -2639,6 +2712,41 @@ ENTRADA PARA CARRO
 💰
 VALOR: R$ 250.000,00
 Fim do imóvel Cód. I9Z347.
+============================================================
+Imóvel Cód. 28 — Casa para alugar no bairro Vila Nicioli, Jacutinga/MG
+Código: 28
+Tipo: Casa
+Finalidade: Aluguel
+Bairro: Vila Nicioli
+Cidade: Jacutinga/MG
+Valor do aluguel: R$ 1.300,00/mês
+Quartos: 2
+Suítes: 1
+Banheiros: 2
+Vagas de garagem: 1
+Link do imóvel: https://www.imobiliariamilano.com.br/imoveis?codigo=28
+Descrição (imóvel Cód. 28, bairro Vila Nicioli):
+🏡
+CASA PARA LOCAÇÃO
+•
+02 quartos, sendo 01 suíte
+•
+Sala aconchegante
+•
+Cozinha
+•
+Banheiro social
+•
+Área de serviço
+•
+Quintal
+•
+Entrada para carro
+💰
+Valor da locação: R$ 1.300,00
+📲
+Entre em contato e agende sua visita!
+Fim do imóvel Cód. 28.
 ============================================================
 Imóvel Cód. 40 — Galpão / Barracão para alugar no bairro Vila Rica, Jacutinga/MG
 Código: 40

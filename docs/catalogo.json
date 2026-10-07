@@ -1,7 +1,7 @@
 {
  "atualizado": "07/10/2026",
  "fonte": "https://www.imobiliariamilano.com.br",
- "total": 95,
+ "total": 98,
  "imoveis": [
   {
    "codigo": "20",
@@ -23,6 +23,27 @@
    "descricao": "🏡\nCASA PARA LOCAÇÃO\n02 QUARTOS\nSALA\nCOZINHA\nBANHEIRO\nÁREA DE SERVIÇO\nENTRADA PARA CARRO\n💰\nVALOR: R$ 1.500,00\n📲\nGostou? Entre em contato! Venha conhecer seu novo lar.",
    "link": "https://www.imobiliariamilano.com.br/imoveis?codigo=20",
    "pagina": "https://www.imobiliariamilano.com.br/imovel/casa-2-quartos-campo-belo-jacutinga-locacao-id-103"
+  },
+  {
+   "codigo": "44",
+   "tipo": "Casa",
+   "finalidades": [
+    "Aluguel"
+   ],
+   "bairro": "Campo Belo",
+   "cidade": "Jacutinga/MG",
+   "valor_venda": null,
+   "valor_aluguel": "R$ 1.730,00/mês",
+   "quartos": "2",
+   "suites": "1",
+   "banheiros": "2",
+   "vagas": "1",
+   "area_total": null,
+   "area_construida": null,
+   "itens": [],
+   "descricao": "🏡\nIMÓVEL DISPONÍVEL PARA LOCAÇÃO\nUm imóvel moderno, bem acabado e pensado para oferecer conforto e praticidade no dia a dia.\n✨\nO imóvel conta com:\n•\n02 quartos, sendo 01 suíte\n• Sala\n• Cozinha\n• Banheiro social\n• Área de serviço\n• Garagem para\n01 veículo com portão eletrônico\n•\nAcabamentos de primeira qualidade\n• Janelas em alumínio com vidro\nBlindex\n• Portões em alumínio\n💰\nValor do aluguel: R$ 1.730,00\n📲 Entre em contato com a\nMilano Imóveis",
+   "link": "https://www.imobiliariamilano.com.br/imoveis?codigo=44",
+   "pagina": "https://www.imobiliariamilano.com.br/imovel/casa-2-quartos-campo-belo-jacutinga-locacao-id-127"
   },
   {
    "codigo": "I9Z13",
@@ -337,6 +358,27 @@
    "descricao": "✨\nIMÓVEL SOFISTICADO PARA LOCAÇÃO\nUm imóvel pensado para quem valoriza\nconforto, praticidade e ambientes bem planejados\n.\nO imóvel conta com:\n•\n03 suítes\n, sendo 02 com guarda-roupas;\n•\nSala de estar\n;\n•\nSala de jantar\n;\n•\nLavabo\n;\n•\nCozinha com móveis planejados\n;\n•\nÁrea de serviço\n;\n•\nÁrea gourmet\n, ideal para receber família e amigos;\n•\nGaragem para 02 veículos\n.\n💰\nValor da locação: R$ 4.000,00\n📲\nEntre em contato com a Milano Imóveis!",
    "link": "https://www.imobiliariamilano.com.br/imoveis?codigo=25",
    "pagina": "https://www.imobiliariamilano.com.br/imovel/casa-3-quartos-centro-jacutinga-locacao-id-108"
+  },
+  {
+   "codigo": "43",
+   "tipo": "Casa",
+   "finalidades": [
+    "Aluguel"
+   ],
+   "bairro": "Centro",
+   "cidade": "Jacutinga/MG",
+   "valor_venda": null,
+   "valor_aluguel": "R$ 1.600,00/mês",
+   "quartos": "2",
+   "suites": "1",
+   "banheiros": "2",
+   "vagas": "1",
+   "area_total": null,
+   "area_construida": null,
+   "itens": [],
+   "descricao": "🏡\nEXCLUSIVIDADE MILANO IMÓVEIS\n✨\nIMÓVEL DISPONÍVEL PARA LOCAÇÃO\n📍\nCentro – Rua Educandário, nº 971\nO imóvel conta com:\n•\n02 quartos, sendo 01 suíte\n• Sala\n• Cozinha\n• Banheiro social\n• Área de serviço\n• Quintal com\nchurrasqueira, bancada e pia\n• Entrada para carro\n💰\nValor do aluguel: R$ 1.600,00\nUm imóvel completo, com espaço para aproveitar bons momentos em família e uma localização privilegiada!\n📲\nEntre em contato com a Milano Imóveis",
+   "link": "https://www.imobiliariamilano.com.br/imoveis?codigo=43",
+   "pagina": "https://www.imobiliariamilano.com.br/imovel/casa-2-quartos-centro-jacutinga-locacao-id-126"
   },
   {
    "codigo": "7",
@@ -2026,6 +2068,27 @@
    "descricao": "🏡\nCASA À VENDA – R$ 250.000,00\n•\n02 QUARTOS\n•\nSALA\n•\nCOZINHA\n•\nBANHEIRO\n•\nÁREA DE SERVIÇO\n•\nQUINTAL\n🌿\n•\nENTRADA PARA CARRO\n🚗\n💰\nVALOR: R$ 250.000,00",
    "link": "https://www.imobiliariamilano.com.br/imoveis?codigo=I9Z347",
    "pagina": "https://www.imobiliariamilano.com.br/imovel/casa-2-quartos-vila-nazare-jacutinga-venda-id-76"
+  },
+  {
+   "codigo": "28",
+   "tipo": "Casa",
+   "finalidades": [
+    "Aluguel"
+   ],
+   "bairro": "Vila Nicioli",
+   "cidade": "Jacutinga/MG",
+   "valor_venda": null,
+   "valor_aluguel": "R$ 1.300,00/mês",
+   "quartos": "2",
+   "suites": "1",
+   "banheiros": "2",
+   "vagas": "1",
+   "area_total": null,
+   "area_construida": null,
+   "itens": [],
+   "descricao": "🏡\nCASA PARA LOCAÇÃO\n•\n02 quartos, sendo 01 suíte\n•\nSala aconchegante\n•\nCozinha\n•\nBanheiro social\n•\nÁrea de serviço\n•\nQuintal\n•\nEntrada para carro\n💰\nValor da locação: R$ 1.300,00\n📲\nEntre em contato e agende sua visita!",
+   "link": "https://www.imobiliariamilano.com.br/imoveis?codigo=28",
+   "pagina": "https://www.imobiliariamilano.com.br/imovel/casa-2-quartos-vila-nicioli-jacutinga-locacao-id-111"
   },
   {
    "codigo": "40",
