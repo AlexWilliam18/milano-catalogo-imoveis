@@ -1,5 +1,5 @@
 CATÁLOGO DE IMÓVEIS — Milano Aluguel e Venda de Imóveis
-Atualizado em: 08/10/2026. Total: 98 imóveis.
+Atualizado em: 08/10/2026. Total: 99 imóveis.
 
 ============================================================
 Imóvel Cód. 20 — Casa para alugar no bairro Campo Belo, Jacutinga/MG
@@ -2529,6 +2529,38 @@ LOJA COMERCIAL PARA LOCAÇÃO
 Valor da locação: R$ 2.200,00
 + IPTU, condomínio e água.
 Fim do imóvel Cód. 24.
+============================================================
+Imóvel Cód. 46 — Loja / Ponto comercial para alugar no bairro Portal das Estâncias, Jacutinga/MG
+Código: 46
+Tipo: Loja / Ponto comercial
+Finalidade: Aluguel
+Bairro: Portal das Estâncias (também escrito Portal das Estancias)
+Cidade: Jacutinga/MG
+Valor do aluguel: R$ 3.500,00/mês
+Banheiros: 2
+Link do imóvel: https://www.imobiliariamilano.com.br/imoveis?codigo=46
+Descrição (imóvel Cód. 46, bairro Portal das Estâncias):
+🏢
+IMÓVEL DISPONÍVEL PARA LOCAÇÃO
+•
+Sala de aproximadamente 60 m²;
+•
+Banheiro;
+•
+Cozinha;
+•
+Escritório;
+•
+Área de serviço;
+Aos fundos, contém um cômodo de aproximadamente 20 m², com:
+•
+Cozinha;
+•
+Banheiro.
+💰
+Valor: R$ 3.500,00
+📲 Entre em contato
+Fim do imóvel Cód. 46.
 ============================================================
 Imóvel Cód. I9Z172 — Lote / Terreno à venda no bairro Recanto das Águas, Jacutinga/MG
 Código: I9Z172

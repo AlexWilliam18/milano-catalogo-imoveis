@@ -1,7 +1,7 @@
 {
  "atualizado": "08/10/2026",
  "fonte": "https://www.imobiliariamilano.com.br",
- "total": 98,
+ "total": 99,
  "imoveis": [
   {
    "codigo": "20",
@@ -1921,6 +1921,27 @@
    "descricao": "LOJA COMERCIAL PARA LOCAÇÃO\n• Loja com\n110 m²\n• Cozinha\n• Banheiro\n• Mezanino\n💰\nValor da locação: R$ 2.200,00\n+ IPTU, condomínio e água.",
    "link": "https://www.imobiliariamilano.com.br/imoveis?codigo=24",
    "pagina": "https://www.imobiliariamilano.com.br/imovel/loja-portal-das-estancias-jacutinga-110m2-locacao-id-107"
+  },
+  {
+   "codigo": "46",
+   "tipo": "Loja / Ponto comercial",
+   "finalidades": [
+    "Aluguel"
+   ],
+   "bairro": "Portal das Estâncias",
+   "cidade": "Jacutinga/MG",
+   "valor_venda": null,
+   "valor_aluguel": "R$ 3.500,00/mês",
+   "quartos": null,
+   "suites": null,
+   "banheiros": "2",
+   "vagas": null,
+   "area_total": null,
+   "area_construida": null,
+   "itens": [],
+   "descricao": "🏢\nIMÓVEL DISPONÍVEL PARA LOCAÇÃO\n•\nSala de aproximadamente 60 m²;\n•\nBanheiro;\n•\nCozinha;\n•\nEscritório;\n•\nÁrea de serviço;\nAos fundos, contém um cômodo de aproximadamente 20 m², com:\n•\nCozinha;\n•\nBanheiro.\n💰\nValor: R$ 3.500,00\n📲 Entre em contato",
+   "link": "https://www.imobiliariamilano.com.br/imoveis?codigo=46",
+   "pagina": "https://www.imobiliariamilano.com.br/imovel/loja-portal-das-estancias-jacutinga-locacao-id-129"
   },
   {
    "codigo": "I9Z172",
