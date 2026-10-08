@@ -1,5 +1,5 @@
 CATÁLOGO DE IMÓVEIS — Milano Aluguel e Venda de Imóveis
-Atualizado em: 08/10/2026. Total: 99 imóveis.
+Atualizado em: 08/10/2026. Total: 98 imóveis.
 
 ============================================================
 Imóvel Cód. 20 — Casa para alugar no bairro Campo Belo, Jacutinga/MG
@@ -2602,39 +2602,6 @@ Valor: R$ 1.110,00 com IPTU incluso.
 Entre em contato conosco e faça uma visita!
 Fim do imóvel Cód. 31.
 ============================================================
-Imóvel Cód. 41 — Casa para alugar no bairro Vale das Primaveras, Jacutinga/MG
-Código: 41
-Tipo: Casa
-Finalidade: Aluguel
-Bairro: Vale das Primaveras
-Cidade: Jacutinga/MG
-Valor do aluguel: R$ 1.300,00/mês
-Quartos: 3
-Banheiros: 1
-Vagas de garagem: 1
-Link do imóvel: https://www.imobiliariamilano.com.br/imoveis?codigo=41
-Descrição (imóvel Cód. 41, bairro Vale das Primaveras):
-🏡 CASA DISPONÍVEL PARA LOCAÇÃO
-Imóvel espaçoso e funcional, ideal para quem busca conforto e praticidade:
-•
-03 quartos
-•
-Sala
-•
-Cozinha
-•
-Banheiro
-•
-Área de serviço coberta
-•
-Garagem
-•
-Amplo quintal
-💰
-Valor do aluguel: R$ 1.300,00
-📲 Entre em contato e agende sua visita!
-Fim do imóvel Cód. 41.
-============================================================
 Imóvel Cód. I9Z312 — Casa para alugar no bairro Vale das Primaveras, Jacutinga/MG
 Código: I9Z312
 Tipo: Casa
@@ -2667,7 +2634,7 @@ Tipo: Casa
 Finalidade: Aluguel
 Bairro: Vale das Primaveras
 Cidade: Jacutinga/MG
-Valor do aluguel: R$ 1.000,00/mês
+Valor do aluguel: R$ 900,00/mês
 Quartos: 2
 Banheiros: 1
 Vagas de garagem: 1
@@ -2682,7 +2649,7 @@ Banheiro
 Entrada para carro
 Pequeno quintal
 💰
-Valor do aluguel: R$ 1.000,00
+Valor do aluguel: R$ 900,00
 Fim do imóvel Cód. I9Z335.
 ============================================================
 Imóvel Cód. 37 — Lote / Terreno para alugar no bairro Verde Vale, Jacutinga/MG

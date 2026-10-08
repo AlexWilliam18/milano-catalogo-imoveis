@@ -1,7 +1,7 @@
 {
  "atualizado": "08/10/2026",
  "fonte": "https://www.imobiliariamilano.com.br",
- "total": 99,
+ "total": 98,
  "imoveis": [
   {
    "codigo": "20",
@@ -1986,27 +1986,6 @@
    "pagina": "https://www.imobiliariamilano.com.br/imovel/casa-2-quartos-vale-das-primaveras-jacutinga-locacao-id-114"
   },
   {
-   "codigo": "41",
-   "tipo": "Casa",
-   "finalidades": [
-    "Aluguel"
-   ],
-   "bairro": "Vale das Primaveras",
-   "cidade": "Jacutinga/MG",
-   "valor_venda": null,
-   "valor_aluguel": "R$ 1.300,00/mês",
-   "quartos": "3",
-   "suites": null,
-   "banheiros": "1",
-   "vagas": "1",
-   "area_total": null,
-   "area_construida": null,
-   "itens": [],
-   "descricao": "🏡 CASA DISPONÍVEL PARA LOCAÇÃO\nImóvel espaçoso e funcional, ideal para quem busca conforto e praticidade:\n•\n03 quartos\n•\nSala\n•\nCozinha\n•\nBanheiro\n•\nÁrea de serviço coberta\n•\nGaragem\n•\nAmplo quintal\n💰\nValor do aluguel: R$ 1.300,00\n📲 Entre em contato e agende sua visita!",
-   "link": "https://www.imobiliariamilano.com.br/imoveis?codigo=41",
-   "pagina": "https://www.imobiliariamilano.com.br/imovel/casa-3-quartos-vale-das-primaveras-jacutinga-locacao-id-124"
-  },
-  {
    "codigo": "I9Z312",
    "tipo": "Casa",
    "finalidades": [
@@ -2036,7 +2015,7 @@
    "bairro": "Vale das Primaveras",
    "cidade": "Jacutinga/MG",
    "valor_venda": null,
-   "valor_aluguel": "R$ 1.000,00/mês",
+   "valor_aluguel": "R$ 900,00/mês",
    "quartos": "2",
    "suites": null,
    "banheiros": "1",
@@ -2044,7 +2023,7 @@
    "area_total": null,
    "area_construida": null,
    "itens": [],
-   "descricao": "🏠 IMÓVEL PARA LOCAÇÃO\n02 quartos\nSala\nCozinha\nBanheiro\nÁrea de serviço\nEntrada para carro\nPequeno quintal\n💰\nValor do aluguel: R$ 1.000,00",
+   "descricao": "🏠 IMÓVEL PARA LOCAÇÃO\n02 quartos\nSala\nCozinha\nBanheiro\nÁrea de serviço\nEntrada para carro\nPequeno quintal\n💰\nValor do aluguel: R$ 900,00",
    "link": "https://www.imobiliariamilano.com.br/imoveis?codigo=I9Z335",
    "pagina": "https://www.imobiliariamilano.com.br/imovel/casa-2-quartos-vale-das-primaveras-jacutinga-locacao-id-64"
   },
