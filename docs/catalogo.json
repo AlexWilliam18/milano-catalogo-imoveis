@@ -1,7 +1,7 @@
 {
  "atualizado": "09/10/2026",
  "fonte": "https://www.imobiliariamilano.com.br",
- "total": 99,
+ "total": 98,
  "imoveis": [
   {
    "codigo": "20",
@@ -368,7 +368,7 @@
    "bairro": "Centro",
    "cidade": "Jacutinga/MG",
    "valor_venda": null,
-   "valor_aluguel": "R$ 1.600,00/mês",
+   "valor_aluguel": "R$ 1.680,00/mês",
    "quartos": "2",
    "suites": "1",
    "banheiros": "2",
@@ -1355,27 +1355,6 @@
    "descricao": "🏡\nCASA À VENDA – R$ 370.000,00\n•\n03 DORMITÓRIOS, SENDO 01 COM MÓVEIS PLANEJADOS\n•\nSALA ACONCHEGANTE\n•\nCOZINHA COM MÓVEIS PLANEJADOS\n•\nBANHEIRO\n•\nÁREA DE SERVIÇO\n•\nESPAÇO COM CHURRASQUEIRA\n🔥\n•\nGARAGEM COBERTA PARA 02 AUTOMÓVEIS\n🚗\n✨ Um imóvel aconchegante e funcional, ideal para quem busca conforto e praticidade.\n💰\nVALOR: R$ 370.000,00",
    "link": "https://www.imobiliariamilano.com.br/imoveis?codigo=I9Z344",
    "pagina": "https://www.imobiliariamilano.com.br/imovel/casa-3-quartos-jardim-colina-jacutinga-venda-id-73"
-  },
-  {
-   "codigo": "15",
-   "tipo": "Casa",
-   "finalidades": [
-    "Aluguel"
-   ],
-   "bairro": "Jardim Déa",
-   "cidade": "Jacutinga/MG",
-   "valor_venda": null,
-   "valor_aluguel": "R$ 1.500,00/mês",
-   "quartos": "3",
-   "suites": null,
-   "banheiros": "1",
-   "vagas": null,
-   "area_total": null,
-   "area_construida": null,
-   "itens": [],
-   "descricao": "🏠\nIMÓVEL PARA LOCAÇÃO\nO imóvel conta com:\n•\n03 quartos\n•\nSala\n•\nCozinha\n•\nBanheiro\n•\nÁrea de serviço\n•\nPequeno barracão\n💰\nValor do aluguel: R$ 1.500,00",
-   "link": "https://www.imobiliariamilano.com.br/imoveis?codigo=15",
-   "pagina": "https://www.imobiliariamilano.com.br/imovel/casa-3-quartos-jardim-dea-jacutinga-locacao-id-98"
   },
   {
    "codigo": "16",

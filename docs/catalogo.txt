@@ -1,5 +1,5 @@
 CATÁLOGO DE IMÓVEIS — Milano Aluguel e Venda de Imóveis
-Atualizado em: 09/10/2026. Total: 99 imóveis.
+Atualizado em: 09/10/2026. Total: 98 imóveis.
 
 ============================================================
 Imóvel Cód. 20 — Casa para alugar no bairro Campo Belo, Jacutinga/MG
@@ -516,7 +516,7 @@ Tipo: Casa
 Finalidade: Aluguel
 Bairro: Centro
 Cidade: Jacutinga/MG
-Valor do aluguel: R$ 1.600,00/mês
+Valor do aluguel: R$ 1.680,00/mês
 Quartos: 2
 Suítes: 1
 Banheiros: 2
@@ -1758,36 +1758,6 @@ GARAGEM COBERTA PARA 02 AUTOMÓVEIS
 💰
 VALOR: R$ 370.000,00
 Fim do imóvel Cód. I9Z344.
-============================================================
-Imóvel Cód. 15 — Casa para alugar no bairro Jardim Déa, Jacutinga/MG
-Código: 15
-Tipo: Casa
-Finalidade: Aluguel
-Bairro: Jardim Déa (também escrito Jardim Dea)
-Cidade: Jacutinga/MG
-Valor do aluguel: R$ 1.500,00/mês
-Quartos: 3
-Banheiros: 1
-Link do imóvel: https://www.imobiliariamilano.com.br/imoveis?codigo=15
-Descrição (imóvel Cód. 15, bairro Jardim Déa):
-🏠
-IMÓVEL PARA LOCAÇÃO
-O imóvel conta com:
-•
-03 quartos
-•
-Sala
-•
-Cozinha
-•
-Banheiro
-•
-Área de serviço
-•
-Pequeno barracão
-💰
-Valor do aluguel: R$ 1.500,00
-Fim do imóvel Cód. 15.
 ============================================================
 Imóvel Cód. 16 — Casa para alugar no bairro Jardim Déa, Jacutinga/MG
 Código: 16
