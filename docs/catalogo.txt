@@ -552,7 +552,7 @@ Tipo: Casa
 Finalidade: Aluguel
 Bairro: Centro
 Cidade: Jacutinga/MG
-Valor do aluguel: R$ 3.350,00/mês
+Valor do aluguel: R$ 3.000,00/mês
 Quartos: 4
 Suítes: 1
 Banheiros: 3
