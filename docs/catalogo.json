@@ -1,7 +1,7 @@
 {
  "atualizado": "13/10/2026",
  "fonte": "https://www.imobiliariamilano.com.br",
- "total": 100,
+ "total": 99,
  "imoveis": [
   {
    "codigo": "20",
@@ -397,7 +397,7 @@
    "area_total": null,
    "area_construida": null,
    "itens": [],
-   "descricao": "🏡\nIMÓVEL PARA LOCAÇÃO\n•\n04 quartos\n, sendo 01 suíte\n•\n02 salas\n•\n03 banheiros\n•\nCozinha\n•\nÁrea de serviço coberta\n•\nÁrea de lazer com churrasqueira\n•\nGaragem coberta para 02 carros\n•\nQuintal\nOBSERVAÇÃO:\nO imóvel pode ser alugado\ncom ou sem mobília\n, conforme a preferência do locatário.\n💰\nAluguel: R$ 3.350,00",
+   "descricao": "🏡\nIMÓVEL PARA LOCAÇÃO\n•\n04 quartos\n, sendo 01 suíte\n•\n02 salas\n•\n03 banheiros\n•\nCozinha\n•\nÁrea de serviço coberta\n•\nÁrea de lazer com churrasqueira\n•\nGaragem coberta para 02 carros\n•\nQuintal\nOBSERVAÇÃO:\nO imóvel pode ser alugado\ncom ou sem mobília\n, conforme a preferência do locatário.\n💰\nAluguel: R$ 3.300,00",
    "link": "https://www.imobiliariamilano.com.br/imoveis?codigo=7",
    "pagina": "https://www.imobiliariamilano.com.br/imovel/casa-4-quartos-centro-jacutinga-locacao-id-90"
   },
@@ -1100,25 +1100,25 @@
    "pagina": "https://www.imobiliariamilano.com.br/imovel/casa-3-quartos-flamboyant-jacutinga-venda-id-101"
   },
   {
-   "codigo": "42",
+   "codigo": "32",
    "tipo": "Casa",
    "finalidades": [
     "Aluguel"
    ],
-   "bairro": "Flamboyant",
+   "bairro": "flamboyant",
    "cidade": "Jacutinga/MG",
    "valor_venda": null,
-   "valor_aluguel": "R$ 1.750,00/mês",
-   "quartos": "3",
+   "valor_aluguel": "R$ 1.250,00/mês",
+   "quartos": "2",
    "suites": "1",
-   "banheiros": "2",
+   "banheiros": "1",
    "vagas": "1",
    "area_total": null,
    "area_construida": null,
    "itens": [],
-   "descricao": "🏡 CASA DISPONÍVEL PARA LOCAÇÃO\nUma ótima opção para quem busca espaço, conforto e praticidade!\n•\n03 quartos, sendo 01 suíte\n•\nSala\n•\nCozinha\n•\nBanheiro social\n•\nÁrea de serviço coberta\n•\nÁrea de lazer\n•\nQuintal\n•\nGaragem\n💰\nAluguel: R$ 1.750,00 + IPTU\n📲 Entre em contato para mais informações e agende sua visita!",
-   "link": "https://www.imobiliariamilano.com.br/imoveis?codigo=42",
-   "pagina": "https://www.imobiliariamilano.com.br/imovel/casa-3-quartos-flamboyant-jacutinga-locacao-id-125"
+   "descricao": "🏡 CASA PARA LOCAÇÃO\n•\n02 quartos, sendo 01 suíte\n•\nSala\n•\nCozinha\n•\nBanheiro\n•\nÁrea de serviço\n•\nQuintal\n•\nEntrada para carro\nValor: R$ 1.250,00\nEntre em contato conosco e faça uma visita!",
+   "link": "https://www.imobiliariamilano.com.br/imoveis?codigo=32",
+   "pagina": "https://www.imobiliariamilano.com.br/imovel/casa-2-quartos-flamboyant-jacutinga-locacao-id-115"
   },
   {
    "codigo": "I9Z117",
@@ -1684,27 +1684,6 @@
    "descricao": "🔑\nCasa para Locação\nSeu novo lar pode estar aqui!\nO imóvel conta com:\n2 quartos, sendo 1 suíte;\nSala;\nCozinha;\nBanheiro social;\nÁrea de serviço coberta;\nEntrada para carro. 🚙\nValor do aluguel: R$ 1.500,00.\nEntre em contato para mais informações e agende sua visita!",
    "link": "https://www.imobiliariamilano.com.br/imoveis?codigo=I9Z296",
    "pagina": "https://www.imobiliariamilano.com.br/imovel/casa-1-quartos-nova-jacutinga-jacutinga-locacao-id-37"
-  },
-  {
-   "codigo": "I9Z330",
-   "tipo": "Casa",
-   "finalidades": [
-    "Aluguel"
-   ],
-   "bairro": "Nova Jacutinga",
-   "cidade": "Jacutinga/MG",
-   "valor_venda": null,
-   "valor_aluguel": "R$ 1.800,00/mês",
-   "quartos": "2",
-   "suites": null,
-   "banheiros": "1",
-   "vagas": "1",
-   "area_total": null,
-   "area_construida": null,
-   "itens": [],
-   "descricao": "🏡\nExcelente oportunidade de locação!\n✨\nImóvel com ótima localização e acabamentos de primeira qualidade\n✅ 02 quartos, sendo 01 com varanda;\n✅ Sala;\n✅ Cozinha com móveis planejados;\n✅ Banheiro com móvel planejado;\n✅ Área de serviço coberta com móveis planejados;\n✅ Área de luz;\n✅ Garagem coberta com portão eletrônico.\n🔑 Imóvel moderno, bem distribuído e pronto para morar!\n💰\nValor: R$ 1.800,00",
-   "link": "https://www.imobiliariamilano.com.br/imoveis?codigo=I9Z330",
-   "pagina": "https://www.imobiliariamilano.com.br/imovel/casa-2-quartos-nova-jacutinga-jacutinga-locacao-id-60"
   },
   {
    "codigo": "I9Z200",

@@ -1,5 +1,5 @@
 CATÁLOGO DE IMÓVEIS — Milano Aluguel e Venda de Imóveis
-Atualizado em: 13/10/2026. Total: 100 imóveis.
+Atualizado em: 13/10/2026. Total: 99 imóveis.
 
 ============================================================
 Imóvel Cód. 20 — Casa para alugar no bairro Campo Belo, Jacutinga/MG
@@ -583,7 +583,7 @@ O imóvel pode ser alugado
 com ou sem mobília
 , conforme a preferência do locatário.
 💰
-Aluguel: R$ 3.350,00
+Aluguel: R$ 3.300,00
 Fim do imóvel Cód. 7.
 ============================================================
 Imóvel Cód. I9Z272 — Casa para alugar no bairro Centro, Jacutinga/MG
@@ -1425,41 +1425,37 @@ Terreno de 399 m² onde está localizada a casa;
 Segundo terreno de 399 m² aos fundos, proporcionando ainda mais espaço e possibilidades de aproveitamento.
 Fim do imóvel Cód. 18.
 ============================================================
-Imóvel Cód. 42 — Casa para alugar no bairro Flamboyant, Jacutinga/MG
-Código: 42
+Imóvel Cód. 32 — Casa para alugar no bairro flamboyant, Jacutinga/MG
+Código: 32
 Tipo: Casa
 Finalidade: Aluguel
-Bairro: Flamboyant
+Bairro: flamboyant
 Cidade: Jacutinga/MG
-Valor do aluguel: R$ 1.750,00/mês
-Quartos: 3
+Valor do aluguel: R$ 1.250,00/mês
+Quartos: 2
 Suítes: 1
-Banheiros: 2
+Banheiros: 1
 Vagas de garagem: 1
-Link do imóvel: https://www.imobiliariamilano.com.br/imoveis?codigo=42
-Descrição (imóvel Cód. 42, bairro Flamboyant):
-🏡 CASA DISPONÍVEL PARA LOCAÇÃO
-Uma ótima opção para quem busca espaço, conforto e praticidade!
+Link do imóvel: https://www.imobiliariamilano.com.br/imoveis?codigo=32
+Descrição (imóvel Cód. 32, bairro flamboyant):
+🏡 CASA PARA LOCAÇÃO
 •
-03 quartos, sendo 01 suíte
+02 quartos, sendo 01 suíte
 •
 Sala
 •
 Cozinha
 •
-Banheiro social
+Banheiro
 •
-Área de serviço coberta
-•
-Área de lazer
+Área de serviço
 •
 Quintal
 •
-Garagem
-💰
-Aluguel: R$ 1.750,00 + IPTU
-📲 Entre em contato para mais informações e agende sua visita!
-Fim do imóvel Cód. 42.
+Entrada para carro
+Valor: R$ 1.250,00
+Entre em contato conosco e faça uma visita!
+Fim do imóvel Cód. 32.
 ============================================================
 Imóvel Cód. I9Z117 — Casa para alugar no bairro Flamboyant, Jacutinga/MG
 Código: I9Z117
@@ -2255,34 +2251,6 @@ Entrada para carro. 🚙
 Valor do aluguel: R$ 1.500,00.
 Entre em contato para mais informações e agende sua visita!
 Fim do imóvel Cód. I9Z296.
-============================================================
-Imóvel Cód. I9Z330 — Casa para alugar no bairro Nova Jacutinga, Jacutinga/MG
-Código: I9Z330
-Tipo: Casa
-Finalidade: Aluguel
-Bairro: Nova Jacutinga
-Cidade: Jacutinga/MG
-Valor do aluguel: R$ 1.800,00/mês
-Quartos: 2
-Banheiros: 1
-Vagas de garagem: 1
-Link do imóvel: https://www.imobiliariamilano.com.br/imoveis?codigo=I9Z330
-Descrição (imóvel Cód. I9Z330, bairro Nova Jacutinga):
-🏡
-Excelente oportunidade de locação!
-✨
-Imóvel com ótima localização e acabamentos de primeira qualidade
-✅ 02 quartos, sendo 01 com varanda;
-✅ Sala;
-✅ Cozinha com móveis planejados;
-✅ Banheiro com móvel planejado;
-✅ Área de serviço coberta com móveis planejados;
-✅ Área de luz;
-✅ Garagem coberta com portão eletrônico.
-🔑 Imóvel moderno, bem distribuído e pronto para morar!
-💰
-Valor: R$ 1.800,00
-Fim do imóvel Cód. I9Z330.
 ============================================================
 Imóvel Cód. I9Z200 — Prédio para alugar no bairro Nova Jacutinga, Jacutinga/MG
 Código: I9Z200
