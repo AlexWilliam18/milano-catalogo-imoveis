@@ -1,7 +1,7 @@
 {
  "atualizado": "13/10/2026",
  "fonte": "https://www.imobiliariamilano.com.br",
- "total": 98,
+ "total": 100,
  "imoveis": [
   {
    "codigo": "20",
@@ -1590,6 +1590,48 @@
    "descricao": "🏠\nIMÓVEL DISPONÍVEL PARA LOCAÇÃO\nO imóvel conta com:\n• 02 quartos\n• Sala ampla\n• Cozinha ampla\n• Banheiro\n• Área de serviço\n• Garagem coberta\n• Quintal\n💰\nAluguel: R$ 1.600,00\n📲 Entre em contato com a\nMilano Imóveis",
    "link": "https://www.imobiliariamilano.com.br/imoveis?codigo=45",
    "pagina": "https://www.imobiliariamilano.com.br/imovel/casa-2-quartos-nova-jacutinga-jacutinga-locacao-id-128"
+  },
+  {
+   "codigo": "47",
+   "tipo": "Casa",
+   "finalidades": [
+    "Venda"
+   ],
+   "bairro": "Nova Jacutinga",
+   "cidade": "Jacutinga/MG",
+   "valor_venda": "R$ 335.000,00",
+   "valor_aluguel": null,
+   "quartos": "2",
+   "suites": "1",
+   "banheiros": "2",
+   "vagas": "1",
+   "area_total": null,
+   "area_construida": null,
+   "itens": [],
+   "descricao": "🏡\nIMÓVEL NOVO À VENDA | NOVA JACUTINGA\n📍\nLocalização:\nEsquina da Rua dos Cardeais com a Rua dos Taiaçus, Bairro Nova Jacutinga.\n✨ Imóvel novo, com acabamentos modernos e excelente aproveitamento dos espaços!\nO imóvel conta com:\n• 02 quartos, sendo 01 suíte;\n• Sala;\n• Cozinha americana;\n• Banheiro social;\n• Área de serviço coberta;\n• Quintal;\n• Entrada para carro.\n📐\n70 m² de área construída\n💰\nValor: R$ 335.000,00\n🔑 Gostou? Entre em contato com a\nMilano Imóveis\ne agende sua visita!",
+   "link": "https://www.imobiliariamilano.com.br/imoveis?codigo=47",
+   "pagina": "https://www.imobiliariamilano.com.br/imovel/casa-2-quartos-nova-jacutinga-jacutinga-venda-id-130"
+  },
+  {
+   "codigo": "48",
+   "tipo": "Casa",
+   "finalidades": [
+    "Venda"
+   ],
+   "bairro": "Nova Jacutinga",
+   "cidade": "Jacutinga/MG",
+   "valor_venda": "R$ 300.000,00",
+   "valor_aluguel": null,
+   "quartos": "2",
+   "suites": null,
+   "banheiros": "1",
+   "vagas": "1",
+   "area_total": null,
+   "area_construida": null,
+   "itens": [],
+   "descricao": "🏡\nIMÓVEL NOVO À VENDA | NOVA JACUTINGA\n📍\nLocalização:\nEsquina da Rua dos Cardeais com a Rua dos Taiaçus, Bairro Nova Jacutinga.\n✨ Imóvel novo, com acabamentos modernos e ótimo aproveitamento dos espaços!\nA casa conta com:\n• 02 quartos;\n• Sala;\n• Cozinha;\n• Banheiro;\n• Área de serviço coberta;\n• Quintal;\n• Entrada para carro.\n📐\n60 m² de área construída\n💰\nValor: R$ 300.000,00\n🔑 Entre em contato com a\nMilano Imóveis\ne agende sua visita!",
+   "link": "https://www.imobiliariamilano.com.br/imoveis?codigo=48",
+   "pagina": "https://www.imobiliariamilano.com.br/imovel/casa-2-quartos-nova-jacutinga-jacutinga-venda-id-131"
   },
   {
    "codigo": "I9Z11",
