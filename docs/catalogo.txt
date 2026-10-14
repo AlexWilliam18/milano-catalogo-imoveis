@@ -1,5 +1,5 @@
 CATÁLOGO DE IMÓVEIS — Milano Aluguel e Venda de Imóveis
-Atualizado em: 14/10/2026. Total: 99 imóveis.
+Atualizado em: 14/10/2026. Total: 100 imóveis.
 
 ============================================================
 Imóvel Cód. 20 — Casa para alugar no bairro Campo Belo, Jacutinga/MG
@@ -344,6 +344,41 @@ Valor: R$ 500.000,00
 📲
 Entre em contato com a Milano Imóveis e agende sua visita.
 Fim do imóvel Cód. 33.
+============================================================
+Imóvel Cód. 49 — Apartamento para alugar no bairro Centro, Jacutinga/MG
+Código: 49
+Tipo: Apartamento
+Finalidade: Aluguel
+Bairro: Centro
+Cidade: Jacutinga/MG
+Valor do aluguel: R$ 1.700,00/mês
+Quartos: 3
+Suítes: 1
+Banheiros: 2
+Vagas de garagem: 1
+Link do imóvel: https://www.imobiliariamilano.com.br/imoveis?codigo=49
+Descrição (imóvel Cód. 49, bairro Centro):
+🏢
+APARTAMENTO DISPONÍVEL PARA LOCAÇÃO
+📍
+Edifício Guerreiro
+Rua Major Afonso, nº 35 – Apto. 704, Centro
+✨
+O apartamento conta com:
+• 03 quartos, sendo 01 suíte;
+• Sala de estar;
+• Sala de jantar;
+• Cozinha com móveis planejados;
+• Dispensa;
+• Área de serviço com banheiro auxiliar;
+• 01 vaga de garagem.
+💰
+Valor do aluguel: R$ 1.700,00 + condomínio
+📲 Entre em contato com a
+Milano Imóveis
+e agende sua visita!
+🏡 Seu próximo lar está aqui!
+Fim do imóvel Cód. 49.
 ============================================================
 Imóvel Cód. I9Z223 — Apartamento para alugar no bairro Centro, Jacutinga/MG
 Código: I9Z223
