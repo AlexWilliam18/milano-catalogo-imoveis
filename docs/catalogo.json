@@ -1,7 +1,7 @@
 {
  "atualizado": "19/10/2026",
  "fonte": "https://www.imobiliariamilano.com.br",
- "total": 96,
+ "total": 99,
  "imoveis": [
   {
    "codigo": "20",
@@ -1172,7 +1172,7 @@
    "bairro": "Flamboyant",
    "cidade": "Jacutinga/MG",
    "valor_venda": null,
-   "valor_aluguel": "R$ 1.550,00/mês",
+   "valor_aluguel": "R$ 1.450,00/mês",
    "quartos": "2",
    "suites": null,
    "banheiros": "2",
@@ -1182,7 +1182,7 @@
    "itens": [
     "Quintal"
    ],
-   "descricao": "🏠 Casa para Locação\nCaracterísticas do imóvel:\n2 quartos;\n2 banheiros;\nSala;\nCozinha americana;\nÁrea de serviço coberta;\nQuintal;\nEntrada para carro. 🚘\nValor do aluguel: R$1.550,00\nEntre em contato para mais informações.",
+   "descricao": "🏠 Casa para Locação\nCaracterísticas do imóvel:\n2 quartos;\n2 banheiros;\nSala;\nCozinha americana;\nÁrea de serviço coberta;\nQuintal;\nEntrada para carro. 🚘\nValor do aluguel: R$1.450,00\nEntre em contato para mais informações.",
    "link": "https://www.imobiliariamilano.com.br/imoveis?codigo=I9Z293",
    "pagina": "https://www.imobiliariamilano.com.br/imovel/casa-2-quartos-flamboyant-jacutinga-locacao-id-36"
   },
@@ -1449,7 +1449,7 @@
    "bairro": "Jardim Nicioli",
    "cidade": "Jacutinga/MG",
    "valor_venda": null,
-   "valor_aluguel": "R$ 1.800,00/mês",
+   "valor_aluguel": "R$ 1.600,00/mês",
    "quartos": "2",
    "suites": "1",
    "banheiros": "2",
@@ -1457,7 +1457,7 @@
    "area_total": null,
    "area_construida": null,
    "itens": [],
-   "descricao": "🏠\nCASA PARA LOCAÇÃO\n• 02 quartos, sendo 01 suíte\n• Sala\n• Cozinha com móveis planejados\n• Banheiro social\n• Área de serviço\n• Área de luz\n• Entrada para carro com portão eletrônico\n• Acabamentos de primeira qualidade\n💰\nValor: R$ 1.800,00",
+   "descricao": "🏠\nCASA PARA LOCAÇÃO\n• 02 quartos, sendo 01 suíte\n• Sala\n• Cozinha com móveis planejados\n• Banheiro social\n• Área de serviço\n• Área de luz\n• Entrada para carro com portão eletrônico\n• Acabamentos de primeira qualidade\n💰\nValor: R$ 1.600,00",
    "link": "https://www.imobiliariamilano.com.br/imoveis?codigo=3",
    "pagina": "https://www.imobiliariamilano.com.br/imovel/casa-2-quartos-jardim-nicioli-jacutinga-locacao-id-86"
   },
@@ -1470,7 +1470,7 @@
    "bairro": "Jardim Niciolli",
    "cidade": "Jacutinga/MG",
    "valor_venda": null,
-   "valor_aluguel": "R$ 1.800,00/mês",
+   "valor_aluguel": "R$ 1.600,00/mês",
    "quartos": "2",
    "suites": "1",
    "banheiros": "2",
@@ -1482,7 +1482,7 @@
     "Armários na Cozinha",
     "Portão Eletrônico"
    ],
-   "descricao": "🏡\nMore com conforto, praticidade e um excelente acabamento!\nUm imóvel pensado para oferecer mais comodidade no dia a dia, com detalhes que fazem a diferença.\n• 02 quartos, sendo 01 suíte;\n• Sala;\n• Cozinha;\n• Banheiro social;\n• Entrada para carro;\n• Móveis planejados na cozinha;\n• Água quente na torneira da cozinha;\n• Armários nos banheiros.\n💰 Valor do aluguel: R$ 1.800,00",
+   "descricao": "🏡\nMore com conforto, praticidade e um excelente acabamento!\nUm imóvel pensado para oferecer mais comodidade no dia a dia, com detalhes que fazem a diferença.\n• 02 quartos, sendo 01 suíte;\n• Sala;\n• Cozinha;\n• Banheiro social;\n• Entrada para carro;\n• Móveis planejados na cozinha;\n• Água quente na torneira da cozinha;\n• Armários nos banheiros.\n💰 Valor do aluguel: R$ 1.600,00",
    "link": "https://www.imobiliariamilano.com.br/imoveis?codigo=I9Z319",
    "pagina": "https://www.imobiliariamilano.com.br/imovel/casa-2-quartos-jardim-niciolli-jacutinga-locacao-id-53"
   },
@@ -1684,6 +1684,69 @@
    "descricao": "SALÃO DE APROX. 130 MTS²\n01 QUARTO COM SUITE;\nCOZINHA CONTENDO FOGÃO DE LENHA;\nÁREA DE LAZER COBERTA;\n02 BANHEIROS EXTERNOS;\nÁREA DE SERVIÇO.",
    "link": "https://www.imobiliariamilano.com.br/imoveis?codigo=I9Z200",
    "pagina": "https://www.imobiliariamilano.com.br/imovel/predio-1-quartos-nova-jacutinga-jacutinga-locacao-id-11"
+  },
+  {
+   "codigo": "51",
+   "tipo": "Casa",
+   "finalidades": [
+    "Aluguel"
+   ],
+   "bairro": "Novo Horizonte",
+   "cidade": "Jacutinga/MG",
+   "valor_venda": null,
+   "valor_aluguel": "R$ 1.300,00/mês",
+   "quartos": "2",
+   "suites": null,
+   "banheiros": "1",
+   "vagas": "1",
+   "area_total": null,
+   "area_construida": null,
+   "itens": [],
+   "descricao": "🏡\nIMÓVEL DISPONÍVEL PARA LOCAÇÃO!\nConfira os detalhes:\n. 02 quartos\n. Sala\n. Cozinha\n. Banheiro\n. Área de serviço coberta\n. Garagem coberta\n💰\nValor: R$ 1.300,00 + IPTU\n📲 Entre em contato com a\nMilano Imóveis\n🔑 Seu novo lar pode estar aqui!",
+   "link": "https://www.imobiliariamilano.com.br/imoveis?codigo=51",
+   "pagina": "https://www.imobiliariamilano.com.br/imovel/casa-de-condominio-2-quartos-novo-horizonte-jacutinga-locacao-id-134"
+  },
+  {
+   "codigo": "50",
+   "tipo": "Casa",
+   "finalidades": [
+    "Aluguel"
+   ],
+   "bairro": "Parque das Nações",
+   "cidade": "Jacutinga/MG",
+   "valor_venda": null,
+   "valor_aluguel": "R$ 990,00/mês",
+   "quartos": "2",
+   "suites": null,
+   "banheiros": "1",
+   "vagas": "1",
+   "area_total": null,
+   "area_construida": null,
+   "itens": [],
+   "descricao": "🏡\nIMÓVEL DISPONÍVEL PARA LOCAÇÃO!\n✨ Confira os detalhes deste imóvel:\n• 02 quartos\n• Sala\n• Cozinha\n• Banheiro\n• Área de serviço\n• Garagem coberta\n💰\nAluguel: R$ 990,00 + IPTU\nEntre em contato com a\nMilano Imóveis\ne agende sua visita!\n🔑 Seu novo lar pode estar aqui!",
+   "link": "https://www.imobiliariamilano.com.br/imoveis?codigo=50",
+   "pagina": "https://www.imobiliariamilano.com.br/imovel/casa-2-quartos-parque-das-nacoes-jacutinga-locacao-id-133"
+  },
+  {
+   "codigo": "52",
+   "tipo": "Casa",
+   "finalidades": [
+    "Aluguel"
+   ],
+   "bairro": "Parque das Nações",
+   "cidade": "Jacutinga/MG",
+   "valor_venda": null,
+   "valor_aluguel": "R$ 1.720,00/mês",
+   "quartos": "2",
+   "suites": "1",
+   "banheiros": "2",
+   "vagas": "1",
+   "area_total": null,
+   "area_construida": null,
+   "itens": [],
+   "descricao": "🏡\nIMÓVEL DISPONÍVEL PARA LOCAÇÃO!\nConfira os detalhes:\n. 02 quartos, sendo 01 suíte\n. Sala\n. Cozinha\n. Banheiro\n. Garagem coberta\n. Área para churrasco\n. Área de serviço\n💰\nValor: R$ 1.720,00 + IPTU\n📲 Entre em contato com a\nMilano Imóveis\n🔑 Seu novo lar pode estar aqui!",
+   "link": "https://www.imobiliariamilano.com.br/imoveis?codigo=52",
+   "pagina": "https://www.imobiliariamilano.com.br/imovel/casa-2-quartos-parque-das-nacoes-jacutinga-locacao-id-135"
   },
   {
    "codigo": "I9Z14",

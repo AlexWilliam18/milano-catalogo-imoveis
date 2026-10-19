@@ -1,5 +1,5 @@
 CATÁLOGO DE IMÓVEIS — Milano Aluguel e Venda de Imóveis
-Atualizado em: 19/10/2026. Total: 96 imóveis.
+Atualizado em: 19/10/2026. Total: 99 imóveis.
 
 ============================================================
 Imóvel Cód. 20 — Casa para alugar no bairro Campo Belo, Jacutinga/MG
@@ -1496,7 +1496,7 @@ Tipo: Casa
 Finalidade: Aluguel
 Bairro: Flamboyant
 Cidade: Jacutinga/MG
-Valor do aluguel: R$ 1.550,00/mês
+Valor do aluguel: R$ 1.450,00/mês
 Quartos: 2
 Banheiros: 2
 Itens do imóvel: Quintal
@@ -1511,7 +1511,7 @@ Cozinha americana;
 Área de serviço coberta;
 Quintal;
 Entrada para carro. 🚘
-Valor do aluguel: R$1.550,00
+Valor do aluguel: R$1.450,00
 Entre em contato para mais informações.
 Fim do imóvel Cód. I9Z293.
 ============================================================
@@ -1904,7 +1904,7 @@ Tipo: Casa
 Finalidade: Aluguel
 Bairro: Jardim Nicioli
 Cidade: Jacutinga/MG
-Valor do aluguel: R$ 1.800,00/mês
+Valor do aluguel: R$ 1.600,00/mês
 Quartos: 2
 Suítes: 1
 Banheiros: 2
@@ -1922,7 +1922,7 @@ CASA PARA LOCAÇÃO
 • Entrada para carro com portão eletrônico
 • Acabamentos de primeira qualidade
 💰
-Valor: R$ 1.800,00
+Valor: R$ 1.600,00
 Fim do imóvel Cód. 3.
 ============================================================
 Imóvel Cód. I9Z319 — Casa para alugar no bairro Jardim Niciolli, Jacutinga/MG
@@ -1931,7 +1931,7 @@ Tipo: Casa
 Finalidade: Aluguel
 Bairro: Jardim Niciolli
 Cidade: Jacutinga/MG
-Valor do aluguel: R$ 1.800,00/mês
+Valor do aluguel: R$ 1.600,00/mês
 Quartos: 2
 Suítes: 1
 Banheiros: 2
@@ -1950,7 +1950,7 @@ Um imóvel pensado para oferecer mais comodidade no dia a dia, com detalhes que 
 • Móveis planejados na cozinha;
 • Água quente na torneira da cozinha;
 • Armários nos banheiros.
-💰 Valor do aluguel: R$ 1.800,00
+💰 Valor do aluguel: R$ 1.600,00
 Fim do imóvel Cód. I9Z319.
 ============================================================
 Imóvel Cód. 34 — Casa para alugar no bairro Monsenhor Vieira, Jacutinga/MG
@@ -2244,6 +2244,93 @@ COZINHA CONTENDO FOGÃO DE LENHA;
 02 BANHEIROS EXTERNOS;
 ÁREA DE SERVIÇO.
 Fim do imóvel Cód. I9Z200.
+============================================================
+Imóvel Cód. 51 — Casa para alugar no bairro Novo Horizonte, Jacutinga/MG
+Código: 51
+Tipo: Casa
+Finalidade: Aluguel
+Bairro: Novo Horizonte
+Cidade: Jacutinga/MG
+Valor do aluguel: R$ 1.300,00/mês
+Quartos: 2
+Banheiros: 1
+Vagas de garagem: 1
+Link do imóvel: https://www.imobiliariamilano.com.br/imoveis?codigo=51
+Descrição (imóvel Cód. 51, bairro Novo Horizonte):
+🏡
+IMÓVEL DISPONÍVEL PARA LOCAÇÃO!
+Confira os detalhes:
+. 02 quartos
+. Sala
+. Cozinha
+. Banheiro
+. Área de serviço coberta
+. Garagem coberta
+💰
+Valor: R$ 1.300,00 + IPTU
+📲 Entre em contato com a
+Milano Imóveis
+🔑 Seu novo lar pode estar aqui!
+Fim do imóvel Cód. 51.
+============================================================
+Imóvel Cód. 50 — Casa para alugar no bairro Parque das Nações, Jacutinga/MG
+Código: 50
+Tipo: Casa
+Finalidade: Aluguel
+Bairro: Parque das Nações (também escrito Parque das Nacoes)
+Cidade: Jacutinga/MG
+Valor do aluguel: R$ 990,00/mês
+Quartos: 2
+Banheiros: 1
+Vagas de garagem: 1
+Link do imóvel: https://www.imobiliariamilano.com.br/imoveis?codigo=50
+Descrição (imóvel Cód. 50, bairro Parque das Nações):
+🏡
+IMÓVEL DISPONÍVEL PARA LOCAÇÃO!
+✨ Confira os detalhes deste imóvel:
+• 02 quartos
+• Sala
+• Cozinha
+• Banheiro
+• Área de serviço
+• Garagem coberta
+💰
+Aluguel: R$ 990,00 + IPTU
+Entre em contato com a
+Milano Imóveis
+e agende sua visita!
+🔑 Seu novo lar pode estar aqui!
+Fim do imóvel Cód. 50.
+============================================================
+Imóvel Cód. 52 — Casa para alugar no bairro Parque das Nações, Jacutinga/MG
+Código: 52
+Tipo: Casa
+Finalidade: Aluguel
+Bairro: Parque das Nações (também escrito Parque das Nacoes)
+Cidade: Jacutinga/MG
+Valor do aluguel: R$ 1.720,00/mês
+Quartos: 2
+Suítes: 1
+Banheiros: 2
+Vagas de garagem: 1
+Link do imóvel: https://www.imobiliariamilano.com.br/imoveis?codigo=52
+Descrição (imóvel Cód. 52, bairro Parque das Nações):
+🏡
+IMÓVEL DISPONÍVEL PARA LOCAÇÃO!
+Confira os detalhes:
+. 02 quartos, sendo 01 suíte
+. Sala
+. Cozinha
+. Banheiro
+. Garagem coberta
+. Área para churrasco
+. Área de serviço
+💰
+Valor: R$ 1.720,00 + IPTU
+📲 Entre em contato com a
+Milano Imóveis
+🔑 Seu novo lar pode estar aqui!
+Fim do imóvel Cód. 52.
 ============================================================
 Imóvel Cód. I9Z14 — Casa à venda no bairro Parque das Nações, Jacutinga/MG
 Código: I9Z14
