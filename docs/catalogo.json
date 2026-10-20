@@ -1,7 +1,7 @@
 {
  "atualizado": "20/10/2026",
  "fonte": "https://www.imobiliariamilano.com.br",
- "total": 99,
+ "total": 100,
  "imoveis": [
   {
    "codigo": "20",
@@ -23,6 +23,27 @@
    "descricao": "🏡\nCASA PARA LOCAÇÃO\n02 QUARTOS\nSALA\nCOZINHA\nBANHEIRO\nÁREA DE SERVIÇO\nENTRADA PARA CARRO\n💰\nVALOR: R$ 1.500,00\n📲\nGostou? Entre em contato! Venha conhecer seu novo lar.",
    "link": "https://www.imobiliariamilano.com.br/imoveis?codigo=20",
    "pagina": "https://www.imobiliariamilano.com.br/imovel/casa-2-quartos-campo-belo-jacutinga-locacao-id-103"
+  },
+  {
+   "codigo": "53",
+   "tipo": "Casa",
+   "finalidades": [
+    "Venda"
+   ],
+   "bairro": "Campo Belo",
+   "cidade": "Jacutinga/MG",
+   "valor_venda": "R$ 350.000,00",
+   "valor_aluguel": null,
+   "quartos": "2",
+   "suites": "1",
+   "banheiros": "2",
+   "vagas": "1",
+   "area_total": null,
+   "area_construida": null,
+   "itens": [],
+   "descricao": "🏡\nCASA À VENDA | R$ 350.000,00\n✨ Um imóvel moderno, com acabamento de qualidade e ambientes planejados para oferecer conforto e praticidade!\nCaracterísticas do imóvel:\n02 quartos, sendo 01 suíte;\nCozinha planejada com armários de excelente qualidade, fogão e forno embutidos;\nBanheiros com acabamento sofisticado;\nLavanderia coberta;\nGaragem coberta.\nDiferenciais do imóvel:\nTeto rebaixado em gesso com iluminação moderna;\nPiso em porcelanato de alto padrão.\n📐\nÁrea do terreno:\n100 m²\n📏\nÁrea construída:\n78 m²\n💰\nValor de venda: R$ 350.000,00\n📲 Gostou desse imóvel? Entre em contato com a\nMilano Imóveis\ne agende sua visita!",
+   "link": "https://www.imobiliariamilano.com.br/imoveis?codigo=53",
+   "pagina": "https://www.imobiliariamilano.com.br/imovel/casa-2-quartos-campo-belo-jacutinga-venda-id-136"
   },
   {
    "codigo": "I9Z13",

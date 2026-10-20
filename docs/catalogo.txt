@@ -1,5 +1,5 @@
 CATÁLOGO DE IMÓVEIS — Milano Aluguel e Venda de Imóveis
-Atualizado em: 20/10/2026. Total: 99 imóveis.
+Atualizado em: 20/10/2026. Total: 100 imóveis.
 
 ============================================================
 Imóvel Cód. 20 — Casa para alugar no bairro Campo Belo, Jacutinga/MG
@@ -27,6 +27,44 @@ VALOR: R$ 1.500,00
 📲
 Gostou? Entre em contato! Venha conhecer seu novo lar.
 Fim do imóvel Cód. 20.
+============================================================
+Imóvel Cód. 53 — Casa à venda no bairro Campo Belo, Jacutinga/MG
+Código: 53
+Tipo: Casa
+Finalidade: Venda
+Bairro: Campo Belo
+Cidade: Jacutinga/MG
+Valor de venda: R$ 350.000,00
+Quartos: 2
+Suítes: 1
+Banheiros: 2
+Vagas de garagem: 1
+Link do imóvel: https://www.imobiliariamilano.com.br/imoveis?codigo=53
+Descrição (imóvel Cód. 53, bairro Campo Belo):
+🏡
+CASA À VENDA | R$ 350.000,00
+✨ Um imóvel moderno, com acabamento de qualidade e ambientes planejados para oferecer conforto e praticidade!
+Características do imóvel:
+02 quartos, sendo 01 suíte;
+Cozinha planejada com armários de excelente qualidade, fogão e forno embutidos;
+Banheiros com acabamento sofisticado;
+Lavanderia coberta;
+Garagem coberta.
+Diferenciais do imóvel:
+Teto rebaixado em gesso com iluminação moderna;
+Piso em porcelanato de alto padrão.
+📐
+Área do terreno:
+100 m²
+📏
+Área construída:
+78 m²
+💰
+Valor de venda: R$ 350.000,00
+📲 Gostou desse imóvel? Entre em contato com a
+Milano Imóveis
+e agende sua visita!
+Fim do imóvel Cód. 53.
 ============================================================
 Imóvel Cód. I9Z13 — Casa à venda no bairro Campo Belo, Jacutinga/MG
 Código: I9Z13
