@@ -1,7 +1,7 @@
 {
  "atualizado": "22/10/2026",
  "fonte": "https://www.imobiliariamilano.com.br",
- "total": 100,
+ "total": 101,
  "imoveis": [
   {
    "codigo": "20",
@@ -44,6 +44,27 @@
    "descricao": "🏡\nCASA À VENDA | R$ 350.000,00\n✨ Um imóvel moderno, com acabamento de qualidade e ambientes planejados para oferecer conforto e praticidade!\nCaracterísticas do imóvel:\n02 quartos, sendo 01 suíte;\nCozinha planejada com armários de excelente qualidade, fogão e forno embutidos;\nBanheiros com acabamento sofisticado;\nLavanderia coberta;\nGaragem coberta.\nDiferenciais do imóvel:\nTeto rebaixado em gesso com iluminação moderna;\nPiso em porcelanato de alto padrão.\n📐\nÁrea do terreno:\n100 m²\n📏\nÁrea construída:\n78 m²\n💰\nValor de venda: R$ 350.000,00\n📲 Gostou desse imóvel? Entre em contato com a\nMilano Imóveis\ne agende sua visita!",
    "link": "https://www.imobiliariamilano.com.br/imoveis?codigo=53",
    "pagina": "https://www.imobiliariamilano.com.br/imovel/casa-2-quartos-campo-belo-jacutinga-venda-id-136"
+  },
+  {
+   "codigo": "56",
+   "tipo": "Casa",
+   "finalidades": [
+    "Aluguel"
+   ],
+   "bairro": "Campo Belo",
+   "cidade": "Jacutinga/MG",
+   "valor_venda": null,
+   "valor_aluguel": "R$ 1.500,00/mês",
+   "quartos": "2",
+   "suites": null,
+   "banheiros": "1",
+   "vagas": "1",
+   "area_total": null,
+   "area_construida": null,
+   "itens": [],
+   "descricao": "🏡\nIMÓVEL PARA LOCAÇÃO\n02 quartos\nSala\nCozinha totalmente planejada, com fogão cooktop\nBanheiro\nÁrea de serviço coberta\nGaragem coberta\n💰\nValor do aluguel: R$ 1.500,00 + IPTU",
+   "link": "https://www.imobiliariamilano.com.br/imoveis?codigo=56",
+   "pagina": "https://www.imobiliariamilano.com.br/imovel/casa-2-quartos-campo-belo-jacutinga-locacao-id-139"
   },
   {
    "codigo": "I9Z13",
@@ -1378,27 +1399,6 @@
    "pagina": "https://www.imobiliariamilano.com.br/imovel/casa-2-quartos-jardim-dea-jacutinga-locacao-id-99"
   },
   {
-   "codigo": "I9Z343",
-   "tipo": "Casa",
-   "finalidades": [
-    "Venda"
-   ],
-   "bairro": "Jardim Dea",
-   "cidade": "Jacutinga/MG",
-   "valor_venda": "R$ 310.000,00",
-   "valor_aluguel": null,
-   "quartos": "2",
-   "suites": null,
-   "banheiros": "1",
-   "vagas": null,
-   "area_total": null,
-   "area_construida": null,
-   "itens": [],
-   "descricao": "🏡\nCASA À VENDA – R$ 310.000,00\n•\n02 QUARTOS\n•\nSALA\n•\nCOZINHA COM MÓVEIS PLANEJADOS\n•\nBANHEIRO\n•\nÁREA DE SERVIÇO\n•\nQUINTAL\n•\nGARAGEM COBERTA COM PORTÃO ELETRÔNICO\n🚗\n💰\nVALOR: R$ 310.000,00",
-   "link": "https://www.imobiliariamilano.com.br/imoveis?codigo=I9Z343",
-   "pagina": "https://www.imobiliariamilano.com.br/imovel/casa-2-quartos-jardim-dea-jacutinga-venda-id-72"
-  },
-  {
    "codigo": "I9Z346",
    "tipo": "Casa",
    "finalidades": [
@@ -2091,27 +2091,6 @@
    "pagina": "https://www.imobiliariamilano.com.br/imovel/casa-2-quartos-vale-das-primaveras-jacutinga-locacao-id-49"
   },
   {
-   "codigo": "I9Z335",
-   "tipo": "Casa",
-   "finalidades": [
-    "Aluguel"
-   ],
-   "bairro": "Vale das Primaveras",
-   "cidade": "Jacutinga/MG",
-   "valor_venda": null,
-   "valor_aluguel": "R$ 900,00/mês",
-   "quartos": "2",
-   "suites": null,
-   "banheiros": "1",
-   "vagas": "1",
-   "area_total": null,
-   "area_construida": null,
-   "itens": [],
-   "descricao": "🏠 IMÓVEL PARA LOCAÇÃO\n02 quartos\nSala\nCozinha\nBanheiro\nÁrea de serviço\nEntrada para carro\nPequeno quintal\n💰\nValor do aluguel: R$ 900,00",
-   "link": "https://www.imobiliariamilano.com.br/imoveis?codigo=I9Z335",
-   "pagina": "https://www.imobiliariamilano.com.br/imovel/casa-2-quartos-vale-das-primaveras-jacutinga-locacao-id-64"
-  },
-  {
    "codigo": "37",
    "tipo": "Lote / Terreno",
    "finalidades": [
@@ -2131,6 +2110,48 @@
    "descricao": "🚗\nESPAÇO COMERCIAL DISPONÍVEL PARA LOCAÇÃO!\nExcelente opção para quem busca um espaço que pode ser utilizado como\nestacionamento ou lava-rápido\n, oferecendo praticidade e potencial para diferentes atividades.\n🔹\nEstacionamento amplo\n🔹 Possibilidade de utilização como\nlava-rápido\n💰\nValor da locação: R$ 1.350,00\n📲 Entre em contato com",
    "link": "https://www.imobiliariamilano.com.br/imoveis?codigo=37",
    "pagina": "https://www.imobiliariamilano.com.br/imovel/lote-terreno-verde-vale-jacutinga-locacao-id-120"
+  },
+  {
+   "codigo": "54",
+   "tipo": "Casa",
+   "finalidades": [
+    "Aluguel"
+   ],
+   "bairro": "Vila Esperança",
+   "cidade": "Jacutinga/MG",
+   "valor_venda": null,
+   "valor_aluguel": "R$ 1.000,00/mês",
+   "quartos": "1",
+   "suites": null,
+   "banheiros": "1",
+   "vagas": "1",
+   "area_total": null,
+   "area_construida": null,
+   "itens": [],
+   "descricao": "🏡\nIMÓVEL PARA LOCAÇÃO\nGaragem coberta\n01 quarto\nBanheiro\nCozinha\nLavanderia\n💰\nValor do aluguel: R$ 1.000,00\nInclusos no valor:\nágua, IPTU e energia elétrica.",
+   "link": "https://www.imobiliariamilano.com.br/imoveis?codigo=54",
+   "pagina": "https://www.imobiliariamilano.com.br/imovel/casa-1-quartos-vila-esperanca-jacutinga-locacao-id-137"
+  },
+  {
+   "codigo": "55",
+   "tipo": "Casa",
+   "finalidades": [
+    "Aluguel"
+   ],
+   "bairro": "Vila Esperança",
+   "cidade": "Jacutinga/MG",
+   "valor_venda": null,
+   "valor_aluguel": "R$ 1.250,00/mês",
+   "quartos": "2",
+   "suites": null,
+   "banheiros": "2",
+   "vagas": null,
+   "area_total": null,
+   "area_construida": null,
+   "itens": [],
+   "descricao": "🏡\nIMÓVEL PARA LOCAÇÃO\n02 quartos\nSala\n02 banheiros\nCozinha\nLavanderia\n💰\nValor do aluguel: R$ 1.250,00\nInclusos no valor:\nágua, IPTU e energia elétrica.",
+   "link": "https://www.imobiliariamilano.com.br/imoveis?codigo=55",
+   "pagina": "https://www.imobiliariamilano.com.br/imovel/casa-2-quartos-vila-esperanca-jacutinga-locacao-id-138"
   },
   {
    "codigo": "I9Z347",

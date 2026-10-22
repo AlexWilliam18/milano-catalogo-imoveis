@@ -1,5 +1,5 @@
 CATÁLOGO DE IMÓVEIS — Milano Aluguel e Venda de Imóveis
-Atualizado em: 22/10/2026. Total: 100 imóveis.
+Atualizado em: 22/10/2026. Total: 101 imóveis.
 
 ============================================================
 Imóvel Cód. 20 — Casa para alugar no bairro Campo Belo, Jacutinga/MG
@@ -65,6 +65,30 @@ Valor de venda: R$ 350.000,00
 Milano Imóveis
 e agende sua visita!
 Fim do imóvel Cód. 53.
+============================================================
+Imóvel Cód. 56 — Casa para alugar no bairro Campo Belo, Jacutinga/MG
+Código: 56
+Tipo: Casa
+Finalidade: Aluguel
+Bairro: Campo Belo
+Cidade: Jacutinga/MG
+Valor do aluguel: R$ 1.500,00/mês
+Quartos: 2
+Banheiros: 1
+Vagas de garagem: 1
+Link do imóvel: https://www.imobiliariamilano.com.br/imoveis?codigo=56
+Descrição (imóvel Cód. 56, bairro Campo Belo):
+🏡
+IMÓVEL PARA LOCAÇÃO
+02 quartos
+Sala
+Cozinha totalmente planejada, com fogão cooktop
+Banheiro
+Área de serviço coberta
+Garagem coberta
+💰
+Valor do aluguel: R$ 1.500,00 + IPTU
+Fim do imóvel Cód. 56.
 ============================================================
 Imóvel Cód. I9Z13 — Casa à venda no bairro Campo Belo, Jacutinga/MG
 Código: I9Z13
@@ -1793,38 +1817,6 @@ Pequeno barracão com área de serviço
 Valor do aluguel: R$ 1.000,00
 Fim do imóvel Cód. 16.
 ============================================================
-Imóvel Cód. I9Z343 — Casa à venda no bairro Jardim Dea, Jacutinga/MG
-Código: I9Z343
-Tipo: Casa
-Finalidade: Venda
-Bairro: Jardim Dea
-Cidade: Jacutinga/MG
-Valor de venda: R$ 310.000,00
-Quartos: 2
-Banheiros: 1
-Link do imóvel: https://www.imobiliariamilano.com.br/imoveis?codigo=I9Z343
-Descrição (imóvel Cód. I9Z343, bairro Jardim Dea):
-🏡
-CASA À VENDA – R$ 310.000,00
-•
-02 QUARTOS
-•
-SALA
-•
-COZINHA COM MÓVEIS PLANEJADOS
-•
-BANHEIRO
-•
-ÁREA DE SERVIÇO
-•
-QUINTAL
-•
-GARAGEM COBERTA COM PORTÃO ELETRÔNICO
-🚗
-💰
-VALOR: R$ 310.000,00
-Fim do imóvel Cód. I9Z343.
-============================================================
 Imóvel Cód. I9Z346 — Casa à venda no bairro Jardim Dea, Jacutinga/MG
 Código: I9Z346
 Tipo: Casa
@@ -2766,30 +2758,6 @@ Aluguel: R$ 1.500,00
 📲 Entre em contato. Não perca essa oportunidade!
 Fim do imóvel Cód. I9Z312.
 ============================================================
-Imóvel Cód. I9Z335 — Casa para alugar no bairro Vale das Primaveras, Jacutinga/MG
-Código: I9Z335
-Tipo: Casa
-Finalidade: Aluguel
-Bairro: Vale das Primaveras
-Cidade: Jacutinga/MG
-Valor do aluguel: R$ 900,00/mês
-Quartos: 2
-Banheiros: 1
-Vagas de garagem: 1
-Link do imóvel: https://www.imobiliariamilano.com.br/imoveis?codigo=I9Z335
-Descrição (imóvel Cód. I9Z335, bairro Vale das Primaveras):
-🏠 IMÓVEL PARA LOCAÇÃO
-02 quartos
-Sala
-Cozinha
-Banheiro
-Área de serviço
-Entrada para carro
-Pequeno quintal
-💰
-Valor do aluguel: R$ 900,00
-Fim do imóvel Cód. I9Z335.
-============================================================
 Imóvel Cód. 37 — Lote / Terreno para alugar no bairro Verde Vale, Jacutinga/MG
 Código: 37
 Tipo: Lote / Terreno
@@ -2812,6 +2780,55 @@ lava-rápido
 Valor da locação: R$ 1.350,00
 📲 Entre em contato com
 Fim do imóvel Cód. 37.
+============================================================
+Imóvel Cód. 54 — Casa para alugar no bairro Vila Esperança, Jacutinga/MG
+Código: 54
+Tipo: Casa
+Finalidade: Aluguel
+Bairro: Vila Esperança (também escrito Vila Esperanca)
+Cidade: Jacutinga/MG
+Valor do aluguel: R$ 1.000,00/mês
+Quartos: 1
+Banheiros: 1
+Vagas de garagem: 1
+Link do imóvel: https://www.imobiliariamilano.com.br/imoveis?codigo=54
+Descrição (imóvel Cód. 54, bairro Vila Esperança):
+🏡
+IMÓVEL PARA LOCAÇÃO
+Garagem coberta
+01 quarto
+Banheiro
+Cozinha
+Lavanderia
+💰
+Valor do aluguel: R$ 1.000,00
+Inclusos no valor:
+água, IPTU e energia elétrica.
+Fim do imóvel Cód. 54.
+============================================================
+Imóvel Cód. 55 — Casa para alugar no bairro Vila Esperança, Jacutinga/MG
+Código: 55
+Tipo: Casa
+Finalidade: Aluguel
+Bairro: Vila Esperança (também escrito Vila Esperanca)
+Cidade: Jacutinga/MG
+Valor do aluguel: R$ 1.250,00/mês
+Quartos: 2
+Banheiros: 2
+Link do imóvel: https://www.imobiliariamilano.com.br/imoveis?codigo=55
+Descrição (imóvel Cód. 55, bairro Vila Esperança):
+🏡
+IMÓVEL PARA LOCAÇÃO
+02 quartos
+Sala
+02 banheiros
+Cozinha
+Lavanderia
+💰
+Valor do aluguel: R$ 1.250,00
+Inclusos no valor:
+água, IPTU e energia elétrica.
+Fim do imóvel Cód. 55.
 ============================================================
 Imóvel Cód. I9Z347 — Casa à venda no bairro Vila Nazaré, Jacutinga/MG
 Código: I9Z347
