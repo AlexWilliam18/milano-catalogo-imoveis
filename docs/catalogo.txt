@@ -1700,7 +1700,7 @@ Tipo: Casa
 Finalidade: Aluguel
 Bairro: Jardim Colina
 Cidade: Jacutinga/MG
-Valor do aluguel: R$ 1.400,00/mês
+Valor do aluguel: R$ 1.300,00/mês
 Quartos: 2
 Banheiros: 1
 Vagas de garagem: 3
@@ -1719,7 +1719,7 @@ Banheiro;
 Área de serviço coberta;
 Quintal;
 Entrada para carro com portão eletrônico. Vaga para 3 carros
-💰 Aluguel: R$ 1.400,00.
+💰 Aluguel: R$ 1.300,00.
 ABAIXOU O VALOR!!
 Venha conhecer este imóvel!
 Fim do imóvel Cód. I9Z297.
