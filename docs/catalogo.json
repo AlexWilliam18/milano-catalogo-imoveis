@@ -1,7 +1,7 @@
 {
  "atualizado": "23/10/2026",
  "fonte": "https://www.imobiliariamilano.com.br",
- "total": 101,
+ "total": 103,
  "imoveis": [
   {
    "codigo": "20",
@@ -677,6 +677,48 @@
    "descricao": "🏢 BARRACÃO PARA LOCAÇÃO\nBarracão com 200 m²\nBanheiro\nPequena sala\n💰\nValor da locação: R$ 2.800,00",
    "link": "https://www.imobiliariamilano.com.br/imoveis?codigo=I9Z353",
    "pagina": "https://www.imobiliariamilano.com.br/imovel/galpao-centro-jacutinga-200m2-locacao-id-82"
+  },
+  {
+   "codigo": "57",
+   "tipo": "Loja / Ponto comercial",
+   "finalidades": [
+    "Aluguel"
+   ],
+   "bairro": "Centro",
+   "cidade": "Jacutinga/MG",
+   "valor_venda": null,
+   "valor_aluguel": "R$ 1.200,00/mês",
+   "quartos": null,
+   "suites": null,
+   "banheiros": "1",
+   "vagas": null,
+   "area_total": null,
+   "area_construida": null,
+   "itens": [],
+   "descricao": "🏢 SALA COMERCIAL PARA LOCAÇÃO\nSala comercial;\nCozinha;\nBanheiro.\n💰 VALOR: R$ 1.200,00",
+   "link": "https://www.imobiliariamilano.com.br/imoveis?codigo=57",
+   "pagina": "https://www.imobiliariamilano.com.br/imovel/loja-centro-jacutinga-locacao-id-140"
+  },
+  {
+   "codigo": "58",
+   "tipo": "Loja / Ponto comercial",
+   "finalidades": [
+    "Aluguel"
+   ],
+   "bairro": "Centro",
+   "cidade": "Jacutinga/MG",
+   "valor_venda": null,
+   "valor_aluguel": "R$ 1.650,00/mês",
+   "quartos": null,
+   "suites": null,
+   "banheiros": "1",
+   "vagas": null,
+   "area_total": null,
+   "area_construida": null,
+   "itens": [],
+   "descricao": "🏢 SALA COMERCIAL PARA LOCAÇÃO\nSala comercial com aproximadamente 35 m², contendo:\nSala comercial;\nBanheiro.\n💰 VALOR: R$ 1.650,00",
+   "link": "https://www.imobiliariamilano.com.br/imoveis?codigo=58",
+   "pagina": "https://www.imobiliariamilano.com.br/imovel/loja-centro-jacutinga-locacao-id-141"
   },
   {
    "codigo": "8",
@@ -1399,6 +1441,27 @@
    "pagina": "https://www.imobiliariamilano.com.br/imovel/casa-2-quartos-jardim-dea-jacutinga-locacao-id-99"
   },
   {
+   "codigo": "I9Z343",
+   "tipo": "Casa",
+   "finalidades": [
+    "Venda"
+   ],
+   "bairro": "Jardim Dea",
+   "cidade": "Jacutinga/MG",
+   "valor_venda": "R$ 310.000,00",
+   "valor_aluguel": null,
+   "quartos": "2",
+   "suites": null,
+   "banheiros": "1",
+   "vagas": null,
+   "area_total": null,
+   "area_construida": null,
+   "itens": [],
+   "descricao": "🏡\nCASA À VENDA – R$ 310.000,00\n•\n02 QUARTOS\n•\nSALA\n•\nCOZINHA COM MÓVEIS PLANEJADOS\n•\nBANHEIRO\n•\nÁREA DE SERVIÇO\n•\nQUINTAL\n•\nGARAGEM COBERTA COM PORTÃO ELETRÔNICO\n🚗\n💰\nVALOR: R$ 310.000,00",
+   "link": "https://www.imobiliariamilano.com.br/imoveis?codigo=I9Z343",
+   "pagina": "https://www.imobiliariamilano.com.br/imovel/casa-2-quartos-jardim-dea-jacutinga-venda-id-72"
+  },
+  {
    "codigo": "I9Z346",
    "tipo": "Casa",
    "finalidades": [
@@ -2089,27 +2152,6 @@
    "descricao": "🏡\nSeu novo lar espera por você!\n✨\nCasa para Locação – R$ 1.500,00\n✔️ 02 quartos, sendo 01 suíte\n✔️ Sala ampla e aconchegante\n✔️ Cozinha funcional\n✔️ Banheiro social\n✔️ Garagem coberta\n💰\nAluguel: R$ 1.500,00\n📲 Entre em contato. Não perca essa oportunidade!",
    "link": "https://www.imobiliariamilano.com.br/imoveis?codigo=I9Z312",
    "pagina": "https://www.imobiliariamilano.com.br/imovel/casa-2-quartos-vale-das-primaveras-jacutinga-locacao-id-49"
-  },
-  {
-   "codigo": "37",
-   "tipo": "Lote / Terreno",
-   "finalidades": [
-    "Aluguel"
-   ],
-   "bairro": "Verde Vale",
-   "cidade": "Jacutinga/MG",
-   "valor_venda": null,
-   "valor_aluguel": "R$ 1.350,00/mês",
-   "quartos": null,
-   "suites": null,
-   "banheiros": null,
-   "vagas": null,
-   "area_total": null,
-   "area_construida": null,
-   "itens": [],
-   "descricao": "🚗\nESPAÇO COMERCIAL DISPONÍVEL PARA LOCAÇÃO!\nExcelente opção para quem busca um espaço que pode ser utilizado como\nestacionamento ou lava-rápido\n, oferecendo praticidade e potencial para diferentes atividades.\n🔹\nEstacionamento amplo\n🔹 Possibilidade de utilização como\nlava-rápido\n💰\nValor da locação: R$ 1.350,00\n📲 Entre em contato com",
-   "link": "https://www.imobiliariamilano.com.br/imoveis?codigo=37",
-   "pagina": "https://www.imobiliariamilano.com.br/imovel/lote-terreno-verde-vale-jacutinga-locacao-id-120"
   },
   {
    "codigo": "54",
