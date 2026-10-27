@@ -1,7 +1,7 @@
 {
  "atualizado": "27/10/2026",
  "fonte": "https://www.imobiliariamilano.com.br",
- "total": 104,
+ "total": 101,
  "imoveis": [
   {
    "codigo": "20",
@@ -329,48 +329,6 @@
    "descricao": "🏡\nApartamento com Amplo Garden para Locação!\nMore com mais conforto, privacidade e espaço em um imóvel que reúne praticidade e qualidade de vida.\n✨\nCaracterísticas do imóvel:\n✔ 02 quartos, sendo 02 suítes;\n✔ Sala aconchegante;\n✔ Cozinha funcional;\n✔ Banheiro social;\n✔ Área de serviço coberta;\n✔ Amplo garden, perfeito para momentos de lazer, convivência e para quem valoriza um espaço ao ar livre.\n🌿 Um diferencial que proporciona mais liberdade e conforto para toda a família.\n💰\nValor do aluguel: R$ 2.260,00",
    "link": "https://www.imobiliariamilano.com.br/imoveis?codigo=I9Z287",
    "pagina": "https://www.imobiliariamilano.com.br/imovel/apartamento-2-quartos-centro-jacutinga-locacao-id-33"
-  },
-  {
-   "codigo": "2",
-   "tipo": "Casa",
-   "finalidades": [
-    "Aluguel"
-   ],
-   "bairro": "Centro",
-   "cidade": "Jacutinga/MG",
-   "valor_venda": null,
-   "valor_aluguel": "R$ 1.500,00/mês",
-   "quartos": "2",
-   "suites": null,
-   "banheiros": "2",
-   "vagas": "1",
-   "area_total": null,
-   "area_construida": null,
-   "itens": [],
-   "descricao": "🏠\nCASA PARA LOCAÇÃO\n• 02 quartos\n• Sala\n• Cozinha\n• 02 banheiros\n• Lavanderia\n• Garagem coberta\n💰\nValor: R$ 1.500,00",
-   "link": "https://www.imobiliariamilano.com.br/imoveis?codigo=2",
-   "pagina": "https://www.imobiliariamilano.com.br/imovel/casa-2-quartos-centro-jacutinga-locacao-id-85"
-  },
-  {
-   "codigo": "23",
-   "tipo": "Casa",
-   "finalidades": [
-    "Venda"
-   ],
-   "bairro": "Centro",
-   "cidade": "Jacutinga/MG",
-   "valor_venda": "R$ 700.000,00",
-   "valor_aluguel": null,
-   "quartos": "3",
-   "suites": "1",
-   "banheiros": "2",
-   "vagas": "2",
-   "area_total": null,
-   "area_construida": null,
-   "itens": [],
-   "descricao": "🏡 Casa à Venda\n📍\nRua Alcides José Pieroni, 577 – Ótima localização!\nO imóvel conta com:\n03 quartos\n, sendo 01 suíte;\nCozinha com móveis planejados\n;\nSala de jantar\n;\nSala de estar\n;\nÁrea de serviço\n;\nPiso inferior\ncom cozinha e banheiro;\nGaragem coberta para 02 veículos\n.\n💰\nValor para venda: R$ 700.000,00\n📲 Entre em contato para mais informações e agende sua visita!",
-   "link": "https://www.imobiliariamilano.com.br/imoveis?codigo=23",
-   "pagina": "https://www.imobiliariamilano.com.br/imovel/casa-3-quartos-centro-jacutinga-venda-id-106"
   },
   {
    "codigo": "25",
@@ -1466,27 +1424,6 @@
    "descricao": "🏠\nIMÓVEL PARA LOCAÇÃO\nO imóvel conta com:\n•\n02 quartos\n•\nSala\n•\nCozinha\n•\nBanheiro\n•\nPequeno barracão com área de serviço\n💰\nValor do aluguel: R$ 1.000,00",
    "link": "https://www.imobiliariamilano.com.br/imoveis?codigo=16",
    "pagina": "https://www.imobiliariamilano.com.br/imovel/casa-2-quartos-jardim-dea-jacutinga-locacao-id-99"
-  },
-  {
-   "codigo": "I9Z343",
-   "tipo": "Casa",
-   "finalidades": [
-    "Venda"
-   ],
-   "bairro": "Jardim Dea",
-   "cidade": "Jacutinga/MG",
-   "valor_venda": "R$ 310.000,00",
-   "valor_aluguel": null,
-   "quartos": "2",
-   "suites": null,
-   "banheiros": "1",
-   "vagas": null,
-   "area_total": null,
-   "area_construida": null,
-   "itens": [],
-   "descricao": "🏡\nCASA À VENDA – R$ 310.000,00\n•\n02 QUARTOS\n•\nSALA\n•\nCOZINHA COM MÓVEIS PLANEJADOS\n•\nBANHEIRO\n•\nÁREA DE SERVIÇO\n•\nQUINTAL\n•\nGARAGEM COBERTA COM PORTÃO ELETRÔNICO\n🚗\n💰\nVALOR: R$ 310.000,00",
-   "link": "https://www.imobiliariamilano.com.br/imoveis?codigo=I9Z343",
-   "pagina": "https://www.imobiliariamilano.com.br/imovel/casa-2-quartos-jardim-dea-jacutinga-venda-id-72"
   },
   {
    "codigo": "I9Z346",
