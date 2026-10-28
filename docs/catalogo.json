@@ -1,7 +1,7 @@
 {
  "atualizado": "28/10/2026",
  "fonte": "https://www.imobiliariamilano.com.br",
- "total": 101,
+ "total": 104,
  "imoveis": [
   {
    "codigo": "20",
@@ -1190,6 +1190,27 @@
    "pagina": "https://www.imobiliariamilano.com.br/imovel/casa-2-quartos-flamboyant-jacutinga-locacao-id-115"
   },
   {
+   "codigo": "62",
+   "tipo": "Casa",
+   "finalidades": [
+    "Venda"
+   ],
+   "bairro": "Flamboyant",
+   "cidade": "Jacutinga/MG",
+   "valor_venda": "R$ 470.000,00",
+   "valor_aluguel": null,
+   "quartos": "2",
+   "suites": "1",
+   "banheiros": "2",
+   "vagas": "1",
+   "area_total": null,
+   "area_construida": null,
+   "itens": [],
+   "descricao": "🏡\nIMÓVEL À VENDA | BAIRRO FLAMBOYANT\n📍\nRua das Tulipas, nº 512 – Bairro Flamboyant\nO imóvel conta com:\n02 quartos, sendo 01 suíte;\nSala de estar;\nCozinha ampla;\nLavabo;\nSala de jantar;\nQuintal totalmente revestido com piso;\nEntrada para carro com portão eletrônico.\nLocalizado em um dos melhores bairros da cidade, próximo ao Lago Municipal, oferecendo praticidade e comodidade para o seu dia a dia.\n💰\nValor: R$ 470.000,00\n📲 Entre em contato com a\nMilano Imóveis\ne agende sua visita!",
+   "link": "https://www.imobiliariamilano.com.br/imoveis?codigo=62",
+   "pagina": "https://www.imobiliariamilano.com.br/imovel/casa-2-quartos-flamboyant-jacutinga-venda-id-145"
+  },
+  {
    "codigo": "I9Z117",
    "tipo": "Casa",
    "finalidades": [
@@ -1426,6 +1447,27 @@
    "pagina": "https://www.imobiliariamilano.com.br/imovel/casa-2-quartos-jardim-dea-jacutinga-locacao-id-99"
   },
   {
+   "codigo": "I9Z343",
+   "tipo": "Casa",
+   "finalidades": [
+    "Venda"
+   ],
+   "bairro": "Jardim Dea",
+   "cidade": "Jacutinga/MG",
+   "valor_venda": "R$ 310.000,00",
+   "valor_aluguel": null,
+   "quartos": "2",
+   "suites": null,
+   "banheiros": "1",
+   "vagas": null,
+   "area_total": null,
+   "area_construida": null,
+   "itens": [],
+   "descricao": "🏡\nCASA À VENDA – R$ 310.000,00\n•\n02 QUARTOS\n•\nSALA\n•\nCOZINHA COM MÓVEIS PLANEJADOS\n•\nBANHEIRO\n•\nÁREA DE SERVIÇO\n•\nQUINTAL\n•\nGARAGEM COBERTA COM PORTÃO ELETRÔNICO\n🚗\n💰\nVALOR: R$ 310.000,00",
+   "link": "https://www.imobiliariamilano.com.br/imoveis?codigo=I9Z343",
+   "pagina": "https://www.imobiliariamilano.com.br/imovel/casa-2-quartos-jardim-dea-jacutinga-venda-id-72"
+  },
+  {
    "codigo": "I9Z346",
    "tipo": "Casa",
    "finalidades": [
@@ -1508,6 +1550,27 @@
    "descricao": "🏠\nCASA PARA LOCAÇÃO\n• 02 quartos, sendo 01 suíte\n• Sala\n• Cozinha com móveis planejados\n• Banheiro social\n• Área de serviço\n• Área de luz\n• Entrada para carro com portão eletrônico\n• Acabamentos de primeira qualidade\n💰\nValor: R$ 1.600,00",
    "link": "https://www.imobiliariamilano.com.br/imoveis?codigo=3",
    "pagina": "https://www.imobiliariamilano.com.br/imovel/casa-2-quartos-jardim-nicioli-jacutinga-locacao-id-86"
+  },
+  {
+   "codigo": "61",
+   "tipo": "Casa",
+   "finalidades": [
+    "Venda"
+   ],
+   "bairro": "Jardim Nicioli",
+   "cidade": "Jacutinga/MG",
+   "valor_venda": "R$ 380.000,00",
+   "valor_aluguel": null,
+   "quartos": "2",
+   "suites": null,
+   "banheiros": "1",
+   "vagas": "1",
+   "area_total": null,
+   "area_construida": null,
+   "itens": [],
+   "descricao": "🏡\nEXCLUSIVIDADE MILANO IMÓVEIS\n💚\n✨\nIMÓVEL DISPONÍVEL PARA VENDA!\n📍\nLocalização:\nRua Darci Sebastião Nicioli, s/n.\nUm imóvel moderno, com excelente localização, fachada elegante, jardim e acabamentos de primeira qualidade. Ideal para quem busca conforto e praticidade!\nO imóvel conta com:\n02 quartos;\nSala;\nCozinha;\nBanheiro;\nÁrea de serviço;\nEntrada para carro.\n🌿\nDiferenciais:\nFachada moderna;\nJardim;\nAcabamentos de primeira;\nExcelente localização.\n📐\nDimensões:\nTerreno: 200 m²;\nÁrea construída: 59 m².\n📲 Gostou? Entre em contato com a\nMilano Imóveis\ne agende sua visita!",
+   "link": "https://www.imobiliariamilano.com.br/imoveis?codigo=61",
+   "pagina": "https://www.imobiliariamilano.com.br/imovel/casa-2-quartos-jardim-nicioli-jacutinga-venda-id-144"
   },
   {
    "codigo": "I9Z319",

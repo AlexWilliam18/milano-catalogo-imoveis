@@ -1,5 +1,5 @@
 CATÁLOGO DE IMÓVEIS — Milano Aluguel e Venda de Imóveis
-Atualizado em: 28/10/2026. Total: 101 imóveis.
+Atualizado em: 28/10/2026. Total: 104 imóveis.
 
 ============================================================
 Imóvel Cód. 20 — Casa para alugar no bairro Campo Belo, Jacutinga/MG
@@ -1525,6 +1525,39 @@ Valor: R$ 1.250,00
 Entre em contato conosco e faça uma visita!
 Fim do imóvel Cód. 32.
 ============================================================
+Imóvel Cód. 62 — Casa à venda no bairro Flamboyant, Jacutinga/MG
+Código: 62
+Tipo: Casa
+Finalidade: Venda
+Bairro: Flamboyant
+Cidade: Jacutinga/MG
+Valor de venda: R$ 470.000,00
+Quartos: 2
+Suítes: 1
+Banheiros: 2
+Vagas de garagem: 1
+Link do imóvel: https://www.imobiliariamilano.com.br/imoveis?codigo=62
+Descrição (imóvel Cód. 62, bairro Flamboyant):
+🏡
+IMÓVEL À VENDA | BAIRRO FLAMBOYANT
+📍
+Rua das Tulipas, nº 512 – Bairro Flamboyant
+O imóvel conta com:
+02 quartos, sendo 01 suíte;
+Sala de estar;
+Cozinha ampla;
+Lavabo;
+Sala de jantar;
+Quintal totalmente revestido com piso;
+Entrada para carro com portão eletrônico.
+Localizado em um dos melhores bairros da cidade, próximo ao Lago Municipal, oferecendo praticidade e comodidade para o seu dia a dia.
+💰
+Valor: R$ 470.000,00
+📲 Entre em contato com a
+Milano Imóveis
+e agende sua visita!
+Fim do imóvel Cód. 62.
+============================================================
 Imóvel Cód. I9Z117 — Casa para alugar no bairro Flamboyant, Jacutinga/MG
 Código: I9Z117
 Tipo: Casa
@@ -1834,6 +1867,38 @@ Pequeno barracão com área de serviço
 Valor do aluguel: R$ 1.000,00
 Fim do imóvel Cód. 16.
 ============================================================
+Imóvel Cód. I9Z343 — Casa à venda no bairro Jardim Dea, Jacutinga/MG
+Código: I9Z343
+Tipo: Casa
+Finalidade: Venda
+Bairro: Jardim Dea
+Cidade: Jacutinga/MG
+Valor de venda: R$ 310.000,00
+Quartos: 2
+Banheiros: 1
+Link do imóvel: https://www.imobiliariamilano.com.br/imoveis?codigo=I9Z343
+Descrição (imóvel Cód. I9Z343, bairro Jardim Dea):
+🏡
+CASA À VENDA – R$ 310.000,00
+•
+02 QUARTOS
+•
+SALA
+•
+COZINHA COM MÓVEIS PLANEJADOS
+•
+BANHEIRO
+•
+ÁREA DE SERVIÇO
+•
+QUINTAL
+•
+GARAGEM COBERTA COM PORTÃO ELETRÔNICO
+🚗
+💰
+VALOR: R$ 310.000,00
+Fim do imóvel Cód. I9Z343.
+============================================================
 Imóvel Cód. I9Z346 — Casa à venda no bairro Jardim Dea, Jacutinga/MG
 Código: I9Z346
 Tipo: Casa
@@ -1971,6 +2036,49 @@ CASA PARA LOCAÇÃO
 💰
 Valor: R$ 1.600,00
 Fim do imóvel Cód. 3.
+============================================================
+Imóvel Cód. 61 — Casa à venda no bairro Jardim Nicioli, Jacutinga/MG
+Código: 61
+Tipo: Casa
+Finalidade: Venda
+Bairro: Jardim Nicioli
+Cidade: Jacutinga/MG
+Valor de venda: R$ 380.000,00
+Quartos: 2
+Banheiros: 1
+Vagas de garagem: 1
+Link do imóvel: https://www.imobiliariamilano.com.br/imoveis?codigo=61
+Descrição (imóvel Cód. 61, bairro Jardim Nicioli):
+🏡
+EXCLUSIVIDADE MILANO IMÓVEIS
+💚
+✨
+IMÓVEL DISPONÍVEL PARA VENDA!
+📍
+Localização:
+Rua Darci Sebastião Nicioli, s/n.
+Um imóvel moderno, com excelente localização, fachada elegante, jardim e acabamentos de primeira qualidade. Ideal para quem busca conforto e praticidade!
+O imóvel conta com:
+02 quartos;
+Sala;
+Cozinha;
+Banheiro;
+Área de serviço;
+Entrada para carro.
+🌿
+Diferenciais:
+Fachada moderna;
+Jardim;
+Acabamentos de primeira;
+Excelente localização.
+📐
+Dimensões:
+Terreno: 200 m²;
+Área construída: 59 m².
+📲 Gostou? Entre em contato com a
+Milano Imóveis
+e agende sua visita!
+Fim do imóvel Cód. 61.
 ============================================================
 Imóvel Cód. I9Z319 — Casa para alugar no bairro Jardim Niciolli, Jacutinga/MG
 Código: I9Z319
