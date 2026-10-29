@@ -1,5 +1,5 @@
 CATÁLOGO DE IMÓVEIS — Milano Aluguel e Venda de Imóveis
-Atualizado em: 29/10/2026. Total: 103 imóveis.
+Atualizado em: 29/10/2026. Total: 101 imóveis.
 
 ============================================================
 Imóvel Cód. 20 — Casa para alugar no bairro Campo Belo, Jacutinga/MG
@@ -65,30 +65,6 @@ Valor de venda: R$ 350.000,00
 Milano Imóveis
 e agende sua visita!
 Fim do imóvel Cód. 53.
-============================================================
-Imóvel Cód. 56 — Casa para alugar no bairro Campo Belo, Jacutinga/MG
-Código: 56
-Tipo: Casa
-Finalidade: Aluguel
-Bairro: Campo Belo
-Cidade: Jacutinga/MG
-Valor do aluguel: R$ 1.500,00/mês
-Quartos: 2
-Banheiros: 1
-Vagas de garagem: 1
-Link do imóvel: https://www.imobiliariamilano.com.br/imoveis?codigo=56
-Descrição (imóvel Cód. 56, bairro Campo Belo):
-🏡
-IMÓVEL PARA LOCAÇÃO
-02 quartos
-Sala
-Cozinha totalmente planejada, com fogão cooktop
-Banheiro
-Área de serviço coberta
-Garagem coberta
-💰
-Valor do aluguel: R$ 1.500,00 + IPTU
-Fim do imóvel Cód. 56.
 ============================================================
 Imóvel Cód. I9Z13 — Casa à venda no bairro Campo Belo, Jacutinga/MG
 Código: I9Z13
@@ -1618,41 +1594,6 @@ Valor do aluguel: R$1.450,00
 Entre em contato para mais informações.
 Fim do imóvel Cód. I9Z293.
 ============================================================
-Imóvel Cód. I9Z318 — Casa para alugar no bairro Flamboyant, Jacutinga/MG
-Código: I9Z318
-Tipo: Casa
-Finalidade: Aluguel
-Bairro: Flamboyant
-Cidade: Jacutinga/MG
-Valor do aluguel: R$ 1.000,00/mês
-Quartos: 1
-Banheiros: 1
-Link do imóvel: https://www.imobiliariamilano.com.br/imoveis?codigo=I9Z318
-Descrição (imóvel Cód. I9Z318, bairro Flamboyant):
-🏡
-KITNETS DISPONÍVEIS PARA LOCAÇÃO!
-✨
-Conforto e praticidade em um só lugar!
-Ideal para quem busca praticidade, funcionalidade e excelente custo-benefício.
-O imóvel conta com:
-Sala/quarto;
-Cozinha;
-Banheiro;
-Lavanderia;
-Entrada para carro.
-📌
-Observações:
-Energia cobrada conforme o consumo;
-Água e IPTU já inclusos no valor do aluguel.
-💰
-Valor do aluguel: R$ 1.000,00
-🔑
-Unidades disponíveis: Apartamentos 01, 02 e 03!
-📲 Entre em contato com a
-Milano Imóveis
-. Não perca essa oportunidade!
-Fim do imóvel Cód. I9Z318.
-============================================================
 Imóvel Cód. I9Z325 — Casa para alugar no bairro Flamboyant, Jacutinga/MG
 Código: I9Z325
 Tipo: Casa
@@ -1717,6 +1658,41 @@ Terreno:
 💰
 VALOR: R$ 790.000,00
 Fim do imóvel Cód. I9Z339.
+============================================================
+Imóvel Cód. I9Z318 — Kitnet para alugar no bairro Flamboyant, Jacutinga/MG
+Código: I9Z318
+Tipo: Kitnet
+Finalidade: Aluguel
+Bairro: Flamboyant
+Cidade: Jacutinga/MG
+Valor do aluguel: R$ 1.000,00/mês
+Quartos: 1
+Banheiros: 1
+Link do imóvel: https://www.imobiliariamilano.com.br/imoveis?codigo=I9Z318
+Descrição (imóvel Cód. I9Z318, bairro Flamboyant):
+🏡
+KITNETS DISPONÍVEIS PARA LOCAÇÃO!
+✨
+Conforto e praticidade em um só lugar!
+Ideal para quem busca praticidade, funcionalidade e excelente custo-benefício.
+O imóvel conta com:
+Sala/quarto;
+Cozinha;
+Banheiro;
+Lavanderia;
+Entrada para carro.
+📌
+Observações:
+Energia cobrada conforme o consumo;
+Água e IPTU já inclusos no valor do aluguel.
+💰
+Valor do aluguel: R$ 1.000,00
+🔑
+Unidades disponíveis: Apartamentos 01, 02 e 03!
+📲 Entre em contato com a
+Milano Imóveis
+. Não perca essa oportunidade!
+Fim do imóvel Cód. I9Z318.
 ============================================================
 Imóvel Cód. I9Z324 — Kitnet para alugar no bairro Flamboyant, Jacutinga/MG
 Código: I9Z324
@@ -2356,34 +2332,6 @@ COZINHA CONTENDO FOGÃO DE LENHA;
 ÁREA DE SERVIÇO.
 Fim do imóvel Cód. I9Z200.
 ============================================================
-Imóvel Cód. 51 — Casa para alugar no bairro Novo Horizonte, Jacutinga/MG
-Código: 51
-Tipo: Casa
-Finalidade: Aluguel
-Bairro: Novo Horizonte
-Cidade: Jacutinga/MG
-Valor do aluguel: R$ 1.300,00/mês
-Quartos: 2
-Banheiros: 1
-Vagas de garagem: 1
-Link do imóvel: https://www.imobiliariamilano.com.br/imoveis?codigo=51
-Descrição (imóvel Cód. 51, bairro Novo Horizonte):
-🏡
-IMÓVEL DISPONÍVEL PARA LOCAÇÃO!
-Confira os detalhes:
-. 02 quartos
-. Sala
-. Cozinha
-. Banheiro
-. Área de serviço coberta
-. Garagem coberta
-💰
-Valor: R$ 1.300,00 + IPTU
-📲 Entre em contato com a
-Milano Imóveis
-🔑 Seu novo lar pode estar aqui!
-Fim do imóvel Cód. 51.
-============================================================
 Imóvel Cód. 50 — Casa para alugar no bairro Parque das Nações, Jacutinga/MG
 Código: 50
 Tipo: Casa
@@ -2565,22 +2513,21 @@ Valor: R$ 300.000,00
 📲 Entre em contato para mais informações e agende uma visita!
 Fim do imóvel Cód. 12.
 ============================================================
-Imóvel Cód. 9 — Casa à venda e para alugar no bairro Portal das Estâncias, Jacutinga/MG
+Imóvel Cód. 9 — Casa à venda no bairro Portal das Estâncias, Jacutinga/MG
 Código: 9
 Tipo: Casa
-Finalidade: Venda e Aluguel
+Finalidade: Venda
 Bairro: Portal das Estâncias (também escrito Portal das Estancias)
 Cidade: Jacutinga/MG
 Valor de venda: R$ 270.000,00
-Valor do aluguel: R$ 1.560,00/mês
 Quartos: 2
 Banheiros: 1
 Vagas de garagem: 1
 Itens do imóvel: Área de Lazer, Churrasqueira
 Link do imóvel: https://www.imobiliariamilano.com.br/imoveis?codigo=9
 Descrição (imóvel Cód. 9, bairro Portal das Estâncias):
-🏡
-ALUGA-SE CASA
+🏡 VENDE-SE
+CASA
 02 quartos
 Sala
 Cozinha
