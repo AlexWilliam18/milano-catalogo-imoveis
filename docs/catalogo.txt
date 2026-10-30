@@ -381,6 +381,32 @@ e agende sua visita!
 🏡 Seu próximo lar está aqui!
 Fim do imóvel Cód. 49.
 ============================================================
+Imóvel Cód. 63 — Apartamento para alugar no bairro Centro, Jacutinga/MG
+Código: 63
+Tipo: Apartamento
+Finalidade: Aluguel
+Bairro: Centro
+Cidade: Jacutinga/MG
+Valor do aluguel: R$ 1.600,00/mês
+Quartos: 2
+Suítes: 1
+Banheiros: 2
+Vagas de garagem: 1
+Link do imóvel: https://www.imobiliariamilano.com.br/imoveis?codigo=63
+Descrição (imóvel Cód. 63, bairro Centro):
+🏡 APARTAMENTO DISPONÍVEL PARA LOCAÇÃO
+✨ Excelente opção para quem busca conforto e praticidade!
+O apartamento conta com:
+02 quartos, sendo 01 suíte;
+Sala;
+Cozinha;
+Banheiro social;
+Garagem coberta;
+Área de serviço coberta.
+💰 Valor do aluguel: R$ 1.600,00
+📲 Entre em contato com a Milano Imóveis
+Fim do imóvel Cód. 63.
+============================================================
 Imóvel Cód. I9Z223 — Apartamento para alugar no bairro Centro, Jacutinga/MG
 Código: I9Z223
 Tipo: Apartamento
@@ -1842,38 +1868,6 @@ Pequeno barracão com área de serviço
 💰
 Valor do aluguel: R$ 1.000,00
 Fim do imóvel Cód. 16.
-============================================================
-Imóvel Cód. I9Z343 — Casa à venda no bairro Jardim Dea, Jacutinga/MG
-Código: I9Z343
-Tipo: Casa
-Finalidade: Venda
-Bairro: Jardim Dea
-Cidade: Jacutinga/MG
-Valor de venda: R$ 310.000,00
-Quartos: 2
-Banheiros: 1
-Link do imóvel: https://www.imobiliariamilano.com.br/imoveis?codigo=I9Z343
-Descrição (imóvel Cód. I9Z343, bairro Jardim Dea):
-🏡
-CASA À VENDA – R$ 310.000,00
-•
-02 QUARTOS
-•
-SALA
-•
-COZINHA COM MÓVEIS PLANEJADOS
-•
-BANHEIRO
-•
-ÁREA DE SERVIÇO
-•
-QUINTAL
-•
-GARAGEM COBERTA COM PORTÃO ELETRÔNICO
-🚗
-💰
-VALOR: R$ 310.000,00
-Fim do imóvel Cód. I9Z343.
 ============================================================
 Imóvel Cód. I9Z346 — Casa à venda no bairro Jardim Dea, Jacutinga/MG
 Código: I9Z346

@@ -268,6 +268,27 @@
    "pagina": "https://www.imobiliariamilano.com.br/imovel/apartamento-3-quartos-centro-jacutinga-locacao-id-132"
   },
   {
+   "codigo": "63",
+   "tipo": "Apartamento",
+   "finalidades": [
+    "Aluguel"
+   ],
+   "bairro": "Centro",
+   "cidade": "Jacutinga/MG",
+   "valor_venda": null,
+   "valor_aluguel": "R$ 1.600,00/mês",
+   "quartos": "2",
+   "suites": "1",
+   "banheiros": "2",
+   "vagas": "1",
+   "area_total": null,
+   "area_construida": null,
+   "itens": [],
+   "descricao": "🏡 APARTAMENTO DISPONÍVEL PARA LOCAÇÃO\n✨ Excelente opção para quem busca conforto e praticidade!\nO apartamento conta com:\n02 quartos, sendo 01 suíte;\nSala;\nCozinha;\nBanheiro social;\nGaragem coberta;\nÁrea de serviço coberta.\n💰 Valor do aluguel: R$ 1.600,00\n📲 Entre em contato com a Milano Imóveis",
+   "link": "https://www.imobiliariamilano.com.br/imoveis?codigo=63",
+   "pagina": "https://www.imobiliariamilano.com.br/imovel/apartamento-2-quartos-centro-jacutinga-locacao-id-146"
+  },
+  {
    "codigo": "I9Z223",
    "tipo": "Apartamento",
    "finalidades": [
@@ -1424,27 +1445,6 @@
    "descricao": "🏠\nIMÓVEL PARA LOCAÇÃO\nO imóvel conta com:\n•\n02 quartos\n•\nSala\n•\nCozinha\n•\nBanheiro\n•\nPequeno barracão com área de serviço\n💰\nValor do aluguel: R$ 1.000,00",
    "link": "https://www.imobiliariamilano.com.br/imoveis?codigo=16",
    "pagina": "https://www.imobiliariamilano.com.br/imovel/casa-2-quartos-jardim-dea-jacutinga-locacao-id-99"
-  },
-  {
-   "codigo": "I9Z343",
-   "tipo": "Casa",
-   "finalidades": [
-    "Venda"
-   ],
-   "bairro": "Jardim Dea",
-   "cidade": "Jacutinga/MG",
-   "valor_venda": "R$ 310.000,00",
-   "valor_aluguel": null,
-   "quartos": "2",
-   "suites": null,
-   "banheiros": "1",
-   "vagas": null,
-   "area_total": null,
-   "area_construida": null,
-   "itens": [],
-   "descricao": "🏡\nCASA À VENDA – R$ 310.000,00\n•\n02 QUARTOS\n•\nSALA\n•\nCOZINHA COM MÓVEIS PLANEJADOS\n•\nBANHEIRO\n•\nÁREA DE SERVIÇO\n•\nQUINTAL\n•\nGARAGEM COBERTA COM PORTÃO ELETRÔNICO\n🚗\n💰\nVALOR: R$ 310.000,00",
-   "link": "https://www.imobiliariamilano.com.br/imoveis?codigo=I9Z343",
-   "pagina": "https://www.imobiliariamilano.com.br/imovel/casa-2-quartos-jardim-dea-jacutinga-venda-id-72"
   },
   {
    "codigo": "I9Z346",
