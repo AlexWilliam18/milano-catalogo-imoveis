@@ -1,7 +1,7 @@
 {
  "atualizado": "04/11/2026",
  "fonte": "https://www.imobiliariamilano.com.br",
- "total": 105,
+ "total": 102,
  "imoveis": [
   {
    "codigo": "20",
@@ -1274,27 +1274,6 @@
    "pagina": "https://www.imobiliariamilano.com.br/imovel/casa-2-quartos-flamboyant-jacutinga-venda-id-145"
   },
   {
-   "codigo": "65",
-   "tipo": "Casa",
-   "finalidades": [
-    "Aluguel"
-   ],
-   "bairro": "Flamboyant",
-   "cidade": "Jacutinga/MG",
-   "valor_venda": null,
-   "valor_aluguel": "R$ 2.850,00/mês",
-   "quartos": "3",
-   "suites": "1",
-   "banheiros": "1",
-   "vagas": "1",
-   "area_total": null,
-   "area_construida": null,
-   "itens": [],
-   "descricao": "🏡\nCASA DE ALTO PADRÃO DISPONÍVEL PARA LOCAÇÃO!\n✨ Imóvel com excelente padrão de acabamento, ambientes planejados e muito conforto!\nO imóvel conta com:\n03 quartos, sendo 01 suíte;\nSala;\nCopa com móveis planejados;\nCozinha com móveis planejados;\nBanheiro social;\nLavabo na área externa;\nPlacas de energia solar;\nAcabamentos de primeira qualidade.\n💰\nVALOR: R$ 2.850,00\nEntre em contato com a\nMilano Imóveis\n💚\nRealizando sonhos e construindo histórias!",
-   "link": "https://www.imobiliariamilano.com.br/imoveis?codigo=65",
-   "pagina": "https://www.imobiliariamilano.com.br/imovel/casa-3-quartos-flamboyant-jacutinga-locacao-id-148"
-  },
-  {
    "codigo": "I9Z117",
    "tipo": "Casa",
    "finalidades": [
@@ -1443,27 +1422,6 @@
    "descricao": "🏡\nKITNETS PARA LOCAÇÃO\n• 01 quarto (suíte)\n• Sala\n• Cozinha\n• Área de serviço\n• Entrada para carro\n💰\nValor: R$ 1.250,00 cada\n📍\nSão 4 kitnets disponíveis. Entre em contato para mais informações e faça uma visita!",
    "link": "https://www.imobiliariamilano.com.br/imoveis?codigo=I9Z324",
    "pagina": "https://www.imobiliariamilano.com.br/imovel/kitnet-1-quartos-flamboyant-jacutinga-locacao-id-55"
-  },
-  {
-   "codigo": "I9Z297",
-   "tipo": "Casa",
-   "finalidades": [
-    "Aluguel"
-   ],
-   "bairro": "Jardim Colina",
-   "cidade": "Jacutinga/MG",
-   "valor_venda": null,
-   "valor_aluguel": "R$ 1.300,00/mês",
-   "quartos": "2",
-   "suites": null,
-   "banheiros": "1",
-   "vagas": "3",
-   "area_total": null,
-   "area_construida": "65 m²",
-   "itens": [],
-   "descricao": "🏠\nSeu novo lar espera por você!\n🌿\nCasa disponível para locação, com ambientes bem distribuídos e espaço ideal para o seu dia a dia.\nO imóvel possui:\n2 quartos;\nSala;\nCozinha;\nBanheiro;\nÁrea de serviço coberta;\nQuintal;\nEntrada para carro com portão eletrônico. Vaga para 3 carros\n💰 Aluguel: R$ 1.300,00.\nABAIXOU O VALOR!!\nVenha conhecer este imóvel!",
-   "link": "https://www.imobiliariamilano.com.br/imoveis?codigo=I9Z297",
-   "pagina": "https://www.imobiliariamilano.com.br/imovel/casa-2-quartos-jardim-colina-jacutinga-locacao-id-38"
   },
   {
    "codigo": "I9Z340",
@@ -1837,48 +1795,6 @@
    "descricao": "🔑\nCasa para Locação\nSeu novo lar pode estar aqui!\nO imóvel conta com:\n2 quartos, sendo 1 suíte;\nSala;\nCozinha;\nBanheiro social;\nÁrea de serviço coberta;\nEntrada para carro. 🚙\nValor do aluguel: R$ 1.500,00.\nEntre em contato para mais informações e agende sua visita!",
    "link": "https://www.imobiliariamilano.com.br/imoveis?codigo=I9Z296",
    "pagina": "https://www.imobiliariamilano.com.br/imovel/casa-1-quartos-nova-jacutinga-jacutinga-locacao-id-37"
-  },
-  {
-   "codigo": "I9Z200",
-   "tipo": "Prédio",
-   "finalidades": [
-    "Aluguel"
-   ],
-   "bairro": "Nova Jacutinga",
-   "cidade": "Jacutinga/MG",
-   "valor_venda": null,
-   "valor_aluguel": "R$ 2.000,00/mês",
-   "quartos": "1",
-   "suites": "1",
-   "banheiros": "3",
-   "vagas": null,
-   "area_total": null,
-   "area_construida": "130 m²",
-   "itens": [],
-   "descricao": "SALÃO DE APROX. 130 MTS²\n01 QUARTO COM SUITE;\nCOZINHA CONTENDO FOGÃO DE LENHA;\nÁREA DE LAZER COBERTA;\n02 BANHEIROS EXTERNOS;\nÁREA DE SERVIÇO.",
-   "link": "https://www.imobiliariamilano.com.br/imoveis?codigo=I9Z200",
-   "pagina": "https://www.imobiliariamilano.com.br/imovel/predio-1-quartos-nova-jacutinga-jacutinga-locacao-id-11"
-  },
-  {
-   "codigo": "50",
-   "tipo": "Casa",
-   "finalidades": [
-    "Aluguel"
-   ],
-   "bairro": "Parque das Nações",
-   "cidade": "Jacutinga/MG",
-   "valor_venda": null,
-   "valor_aluguel": "R$ 990,00/mês",
-   "quartos": "2",
-   "suites": null,
-   "banheiros": "1",
-   "vagas": "1",
-   "area_total": null,
-   "area_construida": null,
-   "itens": [],
-   "descricao": "🏡\nIMÓVEL DISPONÍVEL PARA LOCAÇÃO!\n✨ Confira os detalhes deste imóvel:\n• 02 quartos\n• Sala\n• Cozinha\n• Banheiro\n• Área de serviço\n• Garagem coberta\n💰\nAluguel: R$ 990,00 + IPTU\nEntre em contato com a\nMilano Imóveis\ne agende sua visita!\n🔑 Seu novo lar pode estar aqui!",
-   "link": "https://www.imobiliariamilano.com.br/imoveis?codigo=50",
-   "pagina": "https://www.imobiliariamilano.com.br/imovel/casa-2-quartos-parque-das-nacoes-jacutinga-locacao-id-133"
   },
   {
    "codigo": "52",
@@ -2262,6 +2178,27 @@
    "descricao": "🏡\nIMÓVEL PARA LOCAÇÃO\n02 quartos\nSala\n02 banheiros\nCozinha\nLavanderia\n💰\nValor do aluguel: R$ 1.250,00\nInclusos no valor:\nágua, IPTU e energia elétrica.",
    "link": "https://www.imobiliariamilano.com.br/imoveis?codigo=55",
    "pagina": "https://www.imobiliariamilano.com.br/imovel/casa-2-quartos-vila-esperanca-jacutinga-locacao-id-138"
+  },
+  {
+   "codigo": "I9Z347",
+   "tipo": "Casa",
+   "finalidades": [
+    "Venda"
+   ],
+   "bairro": "Vila Nazaré",
+   "cidade": "Jacutinga/MG",
+   "valor_venda": "R$ 250.000,00",
+   "valor_aluguel": null,
+   "quartos": "2",
+   "suites": null,
+   "banheiros": "1",
+   "vagas": null,
+   "area_total": null,
+   "area_construida": null,
+   "itens": [],
+   "descricao": "🏡\nCASA À VENDA – R$ 250.000,00\n•\n02 QUARTOS\n•\nSALA\n•\nCOZINHA\n•\nBANHEIRO\n•\nÁREA DE SERVIÇO\n•\nQUINTAL\n🌿\n•\nENTRADA PARA CARRO\n🚗\n💰\nVALOR: R$ 250.000,00",
+   "link": "https://www.imobiliariamilano.com.br/imoveis?codigo=I9Z347",
+   "pagina": "https://www.imobiliariamilano.com.br/imovel/casa-2-quartos-vila-nazare-jacutinga-venda-id-76"
   },
   {
    "codigo": "I9Z266",

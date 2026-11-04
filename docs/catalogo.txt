@@ -1,5 +1,5 @@
 CATÁLOGO DE IMÓVEIS — Milano Aluguel e Venda de Imóveis
-Atualizado em: 04/11/2026. Total: 105 imóveis.
+Atualizado em: 04/11/2026. Total: 102 imóveis.
 
 ============================================================
 Imóvel Cód. 20 — Casa para alugar no bairro Campo Belo, Jacutinga/MG
@@ -1626,39 +1626,6 @@ Milano Imóveis
 e agende sua visita!
 Fim do imóvel Cód. 62.
 ============================================================
-Imóvel Cód. 65 — Casa para alugar no bairro Flamboyant, Jacutinga/MG
-Código: 65
-Tipo: Casa
-Finalidade: Aluguel
-Bairro: Flamboyant
-Cidade: Jacutinga/MG
-Valor do aluguel: R$ 2.850,00/mês
-Quartos: 3
-Suítes: 1
-Banheiros: 1
-Vagas de garagem: 1
-Link do imóvel: https://www.imobiliariamilano.com.br/imoveis?codigo=65
-Descrição (imóvel Cód. 65, bairro Flamboyant):
-🏡
-CASA DE ALTO PADRÃO DISPONÍVEL PARA LOCAÇÃO!
-✨ Imóvel com excelente padrão de acabamento, ambientes planejados e muito conforto!
-O imóvel conta com:
-03 quartos, sendo 01 suíte;
-Sala;
-Copa com móveis planejados;
-Cozinha com móveis planejados;
-Banheiro social;
-Lavabo na área externa;
-Placas de energia solar;
-Acabamentos de primeira qualidade.
-💰
-VALOR: R$ 2.850,00
-Entre em contato com a
-Milano Imóveis
-💚
-Realizando sonhos e construindo histórias!
-Fim do imóvel Cód. 65.
-============================================================
 Imóvel Cód. I9Z117 — Casa para alugar no bairro Flamboyant, Jacutinga/MG
 Código: I9Z117
 Tipo: Casa
@@ -1844,36 +1811,6 @@ Valor: R$ 1.250,00 cada
 📍
 São 4 kitnets disponíveis. Entre em contato para mais informações e faça uma visita!
 Fim do imóvel Cód. I9Z324.
-============================================================
-Imóvel Cód. I9Z297 — Casa para alugar no bairro Jardim Colina, Jacutinga/MG
-Código: I9Z297
-Tipo: Casa
-Finalidade: Aluguel
-Bairro: Jardim Colina
-Cidade: Jacutinga/MG
-Valor do aluguel: R$ 1.300,00/mês
-Quartos: 2
-Banheiros: 1
-Vagas de garagem: 3
-Área construída: 65 m²
-Link do imóvel: https://www.imobiliariamilano.com.br/imoveis?codigo=I9Z297
-Descrição (imóvel Cód. I9Z297, bairro Jardim Colina):
-🏠
-Seu novo lar espera por você!
-🌿
-Casa disponível para locação, com ambientes bem distribuídos e espaço ideal para o seu dia a dia.
-O imóvel possui:
-2 quartos;
-Sala;
-Cozinha;
-Banheiro;
-Área de serviço coberta;
-Quintal;
-Entrada para carro com portão eletrônico. Vaga para 3 carros
-💰 Aluguel: R$ 1.300,00.
-ABAIXOU O VALOR!!
-Venha conhecer este imóvel!
-Fim do imóvel Cód. I9Z297.
 ============================================================
 Imóvel Cód. I9Z340 — Casa à venda no bairro Jardim Colina, Jacutinga/MG
 Código: I9Z340
@@ -2436,56 +2373,6 @@ Valor do aluguel: R$ 1.500,00.
 Entre em contato para mais informações e agende sua visita!
 Fim do imóvel Cód. I9Z296.
 ============================================================
-Imóvel Cód. I9Z200 — Prédio para alugar no bairro Nova Jacutinga, Jacutinga/MG
-Código: I9Z200
-Tipo: Prédio
-Finalidade: Aluguel
-Bairro: Nova Jacutinga
-Cidade: Jacutinga/MG
-Valor do aluguel: R$ 2.000,00/mês
-Quartos: 1
-Suítes: 1
-Banheiros: 3
-Área construída: 130 m²
-Link do imóvel: https://www.imobiliariamilano.com.br/imoveis?codigo=I9Z200
-Descrição (imóvel Cód. I9Z200, bairro Nova Jacutinga):
-SALÃO DE APROX. 130 MTS²
-01 QUARTO COM SUITE;
-COZINHA CONTENDO FOGÃO DE LENHA;
-ÁREA DE LAZER COBERTA;
-02 BANHEIROS EXTERNOS;
-ÁREA DE SERVIÇO.
-Fim do imóvel Cód. I9Z200.
-============================================================
-Imóvel Cód. 50 — Casa para alugar no bairro Parque das Nações, Jacutinga/MG
-Código: 50
-Tipo: Casa
-Finalidade: Aluguel
-Bairro: Parque das Nações (também escrito Parque das Nacoes)
-Cidade: Jacutinga/MG
-Valor do aluguel: R$ 990,00/mês
-Quartos: 2
-Banheiros: 1
-Vagas de garagem: 1
-Link do imóvel: https://www.imobiliariamilano.com.br/imoveis?codigo=50
-Descrição (imóvel Cód. 50, bairro Parque das Nações):
-🏡
-IMÓVEL DISPONÍVEL PARA LOCAÇÃO!
-✨ Confira os detalhes deste imóvel:
-• 02 quartos
-• Sala
-• Cozinha
-• Banheiro
-• Área de serviço
-• Garagem coberta
-💰
-Aluguel: R$ 990,00 + IPTU
-Entre em contato com a
-Milano Imóveis
-e agende sua visita!
-🔑 Seu novo lar pode estar aqui!
-Fim do imóvel Cód. 50.
-============================================================
 Imóvel Cód. 52 — Casa para alugar no bairro Parque das Nações, Jacutinga/MG
 Código: 52
 Tipo: Casa
@@ -2959,6 +2846,39 @@ Valor do aluguel: R$ 1.250,00
 Inclusos no valor:
 água, IPTU e energia elétrica.
 Fim do imóvel Cód. 55.
+============================================================
+Imóvel Cód. I9Z347 — Casa à venda no bairro Vila Nazaré, Jacutinga/MG
+Código: I9Z347
+Tipo: Casa
+Finalidade: Venda
+Bairro: Vila Nazaré (também escrito Vila Nazare)
+Cidade: Jacutinga/MG
+Valor de venda: R$ 250.000,00
+Quartos: 2
+Banheiros: 1
+Link do imóvel: https://www.imobiliariamilano.com.br/imoveis?codigo=I9Z347
+Descrição (imóvel Cód. I9Z347, bairro Vila Nazaré):
+🏡
+CASA À VENDA – R$ 250.000,00
+•
+02 QUARTOS
+•
+SALA
+•
+COZINHA
+•
+BANHEIRO
+•
+ÁREA DE SERVIÇO
+•
+QUINTAL
+🌿
+•
+ENTRADA PARA CARRO
+🚗
+💰
+VALOR: R$ 250.000,00
+Fim do imóvel Cód. I9Z347.
 ============================================================
 Imóvel Cód. I9Z266 — Casa para alugar no bairro Vila Tonini, Jacutinga/MG
 Código: I9Z266
