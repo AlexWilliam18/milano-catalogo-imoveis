@@ -2158,7 +2158,7 @@ Tipo: Casa
 Finalidade: Venda
 Bairro: Nova Jacutinga
 Cidade: Jacutinga/MG
-Valor de venda: R$ 690.000,00
+Valor de venda: R$ 600.000,00
 Quartos: 3
 Suítes: 1
 Banheiros: 2
