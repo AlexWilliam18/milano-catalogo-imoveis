@@ -1,7 +1,7 @@
 {
  "atualizado": "05/11/2026",
  "fonte": "https://www.imobiliariamilano.com.br",
- "total": 102,
+ "total": 101,
  "imoveis": [
   {
    "codigo": "20",
@@ -1571,27 +1571,6 @@
    "descricao": "🔥 OPORTUNIDADE PARA LOCAÇÃO 🔥\n🏢\nDOIS BARRACÕES DISPONÍVEIS\n📐\n199 m² de área construída cada unidade\n✨ Estrutura completa e funcional:\nBanheiros privativos\nEscritório para administração\nCozinha de apoio\nEspaço ideal para loja ou showroom\nEntrada lateral ampla para caminhões 🚚\n📦 Perfeito para:\n✔ Depósito / logística\n✔ Comércio em geral\n✔ Distribuição\n✔ Pequenas indústrias\n📍 Excelente acesso e praticidade para operação diária!\n💰\nValor de locação: R$ 7.700,00\n⚡ Espaço pronto para receber seu negócio e começar a operar imediatamente!",
    "link": "https://www.imobiliariamilano.com.br/imoveis?codigo=I9Z273",
    "pagina": "https://www.imobiliariamilano.com.br/imovel/galpao-jardim-dea-jacutinga-locacao-id-29"
-  },
-  {
-   "codigo": "3",
-   "tipo": "Casa",
-   "finalidades": [
-    "Aluguel"
-   ],
-   "bairro": "Jardim Nicioli",
-   "cidade": "Jacutinga/MG",
-   "valor_venda": null,
-   "valor_aluguel": "R$ 1.600,00/mês",
-   "quartos": "2",
-   "suites": "1",
-   "banheiros": "2",
-   "vagas": "1",
-   "area_total": null,
-   "area_construida": null,
-   "itens": [],
-   "descricao": "🏠\nCASA PARA LOCAÇÃO\n• 02 quartos, sendo 01 suíte\n• Sala\n• Cozinha com móveis planejados\n• Banheiro social\n• Área de serviço\n• Área de luz\n• Entrada para carro com portão eletrônico\n• Acabamentos de primeira qualidade\n💰\nValor: R$ 1.600,00",
-   "link": "https://www.imobiliariamilano.com.br/imoveis?codigo=3",
-   "pagina": "https://www.imobiliariamilano.com.br/imovel/casa-2-quartos-jardim-nicioli-jacutinga-locacao-id-86"
   },
   {
    "codigo": "61",

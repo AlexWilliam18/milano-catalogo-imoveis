@@ -1,5 +1,5 @@
 CATÁLOGO DE IMÓVEIS — Milano Aluguel e Venda de Imóveis
-Atualizado em: 05/11/2026. Total: 102 imóveis.
+Atualizado em: 05/11/2026. Total: 101 imóveis.
 
 ============================================================
 Imóvel Cód. 20 — Casa para alugar no bairro Campo Belo, Jacutinga/MG
@@ -2047,33 +2047,6 @@ Entrada lateral ampla para caminhões 🚚
 Valor de locação: R$ 7.700,00
 ⚡ Espaço pronto para receber seu negócio e começar a operar imediatamente!
 Fim do imóvel Cód. I9Z273.
-============================================================
-Imóvel Cód. 3 — Casa para alugar no bairro Jardim Nicioli, Jacutinga/MG
-Código: 3
-Tipo: Casa
-Finalidade: Aluguel
-Bairro: Jardim Nicioli
-Cidade: Jacutinga/MG
-Valor do aluguel: R$ 1.600,00/mês
-Quartos: 2
-Suítes: 1
-Banheiros: 2
-Vagas de garagem: 1
-Link do imóvel: https://www.imobiliariamilano.com.br/imoveis?codigo=3
-Descrição (imóvel Cód. 3, bairro Jardim Nicioli):
-🏠
-CASA PARA LOCAÇÃO
-• 02 quartos, sendo 01 suíte
-• Sala
-• Cozinha com móveis planejados
-• Banheiro social
-• Área de serviço
-• Área de luz
-• Entrada para carro com portão eletrônico
-• Acabamentos de primeira qualidade
-💰
-Valor: R$ 1.600,00
-Fim do imóvel Cód. 3.
 ============================================================
 Imóvel Cód. 61 — Casa à venda no bairro Jardim Nicioli, Jacutinga/MG
 Código: 61
