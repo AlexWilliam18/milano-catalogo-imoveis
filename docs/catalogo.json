@@ -1,29 +1,8 @@
 {
  "atualizado": "06/11/2026",
  "fonte": "https://www.imobiliariamilano.com.br",
- "total": 101,
+ "total": 95,
  "imoveis": [
-  {
-   "codigo": "20",
-   "tipo": "Casa",
-   "finalidades": [
-    "Aluguel"
-   ],
-   "bairro": "Campo Belo",
-   "cidade": "Jacutinga/MG",
-   "valor_venda": null,
-   "valor_aluguel": "R$ 1.500,00/mês",
-   "quartos": "2",
-   "suites": null,
-   "banheiros": "1",
-   "vagas": "1",
-   "area_total": null,
-   "area_construida": null,
-   "itens": [],
-   "descricao": "🏡\nCASA PARA LOCAÇÃO\n02 QUARTOS\nSALA\nCOZINHA\nBANHEIRO\nÁREA DE SERVIÇO\nENTRADA PARA CARRO\n💰\nVALOR: R$ 1.500,00\n📲\nGostou? Entre em contato! Venha conhecer seu novo lar.",
-   "link": "https://www.imobiliariamilano.com.br/imoveis?codigo=20",
-   "pagina": "https://www.imobiliariamilano.com.br/imovel/casa-2-quartos-campo-belo-jacutinga-locacao-id-103"
-  },
   {
    "codigo": "53",
    "tipo": "Casa",
@@ -182,27 +161,6 @@
    "descricao": "🏡\nIMÓVEL PARA LOCAÇÃO\n• 02 quartos\n• Sala\n• Cozinha\n• Banheiro\n• Área de serviço\n• Pequeno cômodo no fundo\n💰\nValor: R$ 1.100,00",
    "link": "https://www.imobiliariamilano.com.br/imoveis?codigo=I9Z350",
    "pagina": "https://www.imobiliariamilano.com.br/imovel/casa-2-quartos-cel-renno-jacutinga-locacao-id-79"
-  },
-  {
-   "codigo": "I9Z281",
-   "tipo": "Casa",
-   "finalidades": [
-    "Aluguel"
-   ],
-   "bairro": "Cel Renno de baixo",
-   "cidade": "Jacutinga/MG",
-   "valor_venda": null,
-   "valor_aluguel": "R$ 1.200,00/mês",
-   "quartos": "3",
-   "suites": null,
-   "banheiros": "2",
-   "vagas": "1",
-   "area_total": null,
-   "area_construida": null,
-   "itens": [],
-   "descricao": "Imóvel ideal para quem busca espaço, comodidade e praticidade para toda a família. Com ambientes bem planejados, oferece tudo o que você precisa para morar com conforto.\n✅ 03 quartos, sendo 01 suíte\n✅ Sala ampla\n✅ Cozinha\n✅ Banheiro social\n✅ Área de serviço coberta\n✅ Garagem com portão lateral\nUma ótima oportunidade para quem deseja morar em um imóvel funcional e aconchegante.\nValor do aluguel: R$ 1.200,00",
-   "link": "https://www.imobiliariamilano.com.br/imoveis?codigo=I9Z281",
-   "pagina": "https://www.imobiliariamilano.com.br/imovel/casa-3-quartos-cel-renno-de-baixo-jacutinga-locacao-id-32"
   },
   {
    "codigo": "30",
@@ -511,33 +469,6 @@
    "pagina": "https://www.imobiliariamilano.com.br/imovel/casa-3-quartos-centro-jacutinga-venda-id-77"
   },
   {
-   "codigo": "59",
-   "tipo": "Cobertura com 3 quartos, 1 vaga para locação no Centro, Jacutinga/MG",
-   "finalidades": [
-    "Aluguel"
-   ],
-   "bairro": "Centro",
-   "cidade": "Jacutinga/MG",
-   "valor_venda": null,
-   "valor_aluguel": "R$ 2.200,00/mês",
-   "quartos": "3",
-   "suites": "1",
-   "banheiros": "2",
-   "vagas": "1",
-   "area_total": null,
-   "area_construida": null,
-   "itens": [
-    "Elevador",
-    "Ar Condicionado",
-    "Box Blindex",
-    "Armários na Cozinha",
-    "Portão Eletrônico"
-   ],
-   "descricao": "🏡\nCOBERTURA PARA LOCAÇÃO\n✨ Conforto, espaço e uma vista incrível da cidade! Ideal para quem busca praticidade e qualidade de vida.\nO imóvel conta com:\n03 quartos, sendo 01 suíte com ar-condicionado;\nSala de estar;\nSala de jantar;\nCozinha com armários;\nBanheiro social;\nVaranda com excelente vista da cidade;\nLavanderia coberta com banheiro;\nGaragem coberta;\nEdifício com elevador.\n💰\nValor da locação: R$ 2.200,00 (condomínio incluso).\n📲 Entre em contato com a\nMilano Imóveis\ne agende sua visita!",
-   "link": "https://www.imobiliariamilano.com.br/imoveis?codigo=59",
-   "pagina": "https://www.imobiliariamilano.com.br/imovel/cobertura-3-quartos-centro-jacutinga-locacao-id-142"
-  },
-  {
    "codigo": "22",
    "tipo": "Galpão / Barracão",
    "finalidades": [
@@ -769,27 +700,6 @@
    "pagina": "https://www.imobiliariamilano.com.br/imovel/loja-centro-jacutinga-locacao-id-149"
   },
   {
-   "codigo": "8",
-   "tipo": "Loja / Ponto comercial",
-   "finalidades": [
-    "Aluguel"
-   ],
-   "bairro": "Centro",
-   "cidade": "Jacutinga/MG",
-   "valor_venda": null,
-   "valor_aluguel": "R$ 2.800,00/mês",
-   "quartos": null,
-   "suites": null,
-   "banheiros": "1",
-   "vagas": null,
-   "area_total": null,
-   "area_construida": null,
-   "itens": [],
-   "descricao": "SALA COMERCIAL PARA LOCAÇÃO\nSala comercial\ncom aproximadamente 35 m²;\nBarracão\ncom aproximadamente 90 m²;\nBanheiro;\nCozinha.\n💰\nValor da locação: R$ 2.800,00",
-   "link": "https://www.imobiliariamilano.com.br/imoveis?codigo=8",
-   "pagina": "https://www.imobiliariamilano.com.br/imovel/loja-centro-jacutinga-locacao-id-91"
-  },
-  {
    "codigo": "I9Z204",
    "tipo": "Loja / Ponto comercial",
    "finalidades": [
@@ -893,27 +803,6 @@
    "descricao": "🏢\nImóvel Comercial/Residencial para Locação\nPavimento Térreo – 168,30 m²\n• Banheiro\n• Quarto\n• Cozinha\n• Área de Serviço\nPavimento Superior – 152,54 m²\n• Banheiro\n• Quarto\n• Cozinha\n• Área de Serviço\n💰\nValor do aluguel: R$ 5.000,00\nEntre em contato para mais informações",
    "link": "https://www.imobiliariamilano.com.br/imoveis?codigo=I9Z329",
    "pagina": "https://www.imobiliariamilano.com.br/imovel/loja-centro-jacutinga-locacao-id-59"
-  },
-  {
-   "codigo": "I9Z331",
-   "tipo": "Loja / Ponto comercial",
-   "finalidades": [
-    "Aluguel"
-   ],
-   "bairro": "Centro",
-   "cidade": "Jacutinga/MG",
-   "valor_venda": null,
-   "valor_aluguel": "R$ 900,00/mês",
-   "quartos": null,
-   "suites": null,
-   "banheiros": "1",
-   "vagas": null,
-   "area_total": null,
-   "area_construida": null,
-   "itens": [],
-   "descricao": "🏢\nESPAÇO INTERNO PARA COMÉRCIO\nEspaço interno para atividade comercial;\n01 banheiro.\n💰\nValor do aluguel: R$ 900,00",
-   "link": "https://www.imobiliariamilano.com.br/imoveis?codigo=I9Z331",
-   "pagina": "https://www.imobiliariamilano.com.br/imovel/loja-centro-jacutinga-locacao-id-61"
   },
   {
    "codigo": "I9Z210",
@@ -1774,27 +1663,6 @@
    "descricao": "🔑\nCasa para Locação\nSeu novo lar pode estar aqui!\nO imóvel conta com:\n2 quartos, sendo 1 suíte;\nSala;\nCozinha;\nBanheiro social;\nÁrea de serviço coberta;\nEntrada para carro. 🚙\nValor do aluguel: R$ 1.500,00.\nEntre em contato para mais informações e agende sua visita!",
    "link": "https://www.imobiliariamilano.com.br/imoveis?codigo=I9Z296",
    "pagina": "https://www.imobiliariamilano.com.br/imovel/casa-1-quartos-nova-jacutinga-jacutinga-locacao-id-37"
-  },
-  {
-   "codigo": "52",
-   "tipo": "Casa",
-   "finalidades": [
-    "Aluguel"
-   ],
-   "bairro": "Parque das Nações",
-   "cidade": "Jacutinga/MG",
-   "valor_venda": null,
-   "valor_aluguel": "R$ 1.720,00/mês",
-   "quartos": "2",
-   "suites": "1",
-   "banheiros": "2",
-   "vagas": "1",
-   "area_total": null,
-   "area_construida": null,
-   "itens": [],
-   "descricao": "🏡\nIMÓVEL DISPONÍVEL PARA LOCAÇÃO!\nConfira os detalhes:\n. 02 quartos, sendo 01 suíte\n. Sala\n. Cozinha\n. Banheiro\n. Garagem coberta\n. Área para churrasco\n. Área de serviço\n💰\nValor: R$ 1.720,00 + IPTU\n📲 Entre em contato com a\nMilano Imóveis\n🔑 Seu novo lar pode estar aqui!",
-   "link": "https://www.imobiliariamilano.com.br/imoveis?codigo=52",
-   "pagina": "https://www.imobiliariamilano.com.br/imovel/casa-2-quartos-parque-das-nacoes-jacutinga-locacao-id-135"
   },
   {
    "codigo": "I9Z14",

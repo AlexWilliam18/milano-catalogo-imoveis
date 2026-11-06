@@ -1,32 +1,6 @@
 CATÁLOGO DE IMÓVEIS — Milano Aluguel e Venda de Imóveis
-Atualizado em: 06/11/2026. Total: 101 imóveis.
+Atualizado em: 06/11/2026. Total: 95 imóveis.
 
-============================================================
-Imóvel Cód. 20 — Casa para alugar no bairro Campo Belo, Jacutinga/MG
-Código: 20
-Tipo: Casa
-Finalidade: Aluguel
-Bairro: Campo Belo
-Cidade: Jacutinga/MG
-Valor do aluguel: R$ 1.500,00/mês
-Quartos: 2
-Banheiros: 1
-Vagas de garagem: 1
-Link do imóvel: https://www.imobiliariamilano.com.br/imoveis?codigo=20
-Descrição (imóvel Cód. 20, bairro Campo Belo):
-🏡
-CASA PARA LOCAÇÃO
-02 QUARTOS
-SALA
-COZINHA
-BANHEIRO
-ÁREA DE SERVIÇO
-ENTRADA PARA CARRO
-💰
-VALOR: R$ 1.500,00
-📲
-Gostou? Entre em contato! Venha conhecer seu novo lar.
-Fim do imóvel Cód. 20.
 ============================================================
 Imóvel Cód. 53 — Casa à venda no bairro Campo Belo, Jacutinga/MG
 Código: 53
@@ -243,29 +217,6 @@ IMÓVEL PARA LOCAÇÃO
 💰
 Valor: R$ 1.100,00
 Fim do imóvel Cód. I9Z350.
-============================================================
-Imóvel Cód. I9Z281 — Casa para alugar no bairro Cel Renno de baixo, Jacutinga/MG
-Código: I9Z281
-Tipo: Casa
-Finalidade: Aluguel
-Bairro: Cel Renno de baixo
-Cidade: Jacutinga/MG
-Valor do aluguel: R$ 1.200,00/mês
-Quartos: 3
-Banheiros: 2
-Vagas de garagem: 1
-Link do imóvel: https://www.imobiliariamilano.com.br/imoveis?codigo=I9Z281
-Descrição (imóvel Cód. I9Z281, bairro Cel Renno de baixo):
-Imóvel ideal para quem busca espaço, comodidade e praticidade para toda a família. Com ambientes bem planejados, oferece tudo o que você precisa para morar com conforto.
-✅ 03 quartos, sendo 01 suíte
-✅ Sala ampla
-✅ Cozinha
-✅ Banheiro social
-✅ Área de serviço coberta
-✅ Garagem com portão lateral
-Uma ótima oportunidade para quem deseja morar em um imóvel funcional e aconchegante.
-Valor do aluguel: R$ 1.200,00
-Fim do imóvel Cód. I9Z281.
 ============================================================
 Imóvel Cód. 30 — Apartamento à venda no bairro Centro, Jacutinga/MG
 Código: 30
@@ -735,40 +686,6 @@ conforto, funcionalidade e excelente padrão de acabamento
 Entre em contato e agende sua visita!
 Fim do imóvel Cód. I9Z348.
 ============================================================
-Imóvel Cód. 59 — Cobertura com 3 quartos, 1 vaga para locação no Centro, Jacutinga/MG para alugar no bairro Centro, Jacutinga/MG
-Código: 59
-Tipo: Cobertura com 3 quartos, 1 vaga para locação no Centro, Jacutinga/MG
-Finalidade: Aluguel
-Bairro: Centro
-Cidade: Jacutinga/MG
-Valor do aluguel: R$ 2.200,00/mês
-Quartos: 3
-Suítes: 1
-Banheiros: 2
-Vagas de garagem: 1
-Itens do imóvel: Elevador, Ar Condicionado, Box Blindex, Armários na Cozinha, Portão Eletrônico
-Link do imóvel: https://www.imobiliariamilano.com.br/imoveis?codigo=59
-Descrição (imóvel Cód. 59, bairro Centro):
-🏡
-COBERTURA PARA LOCAÇÃO
-✨ Conforto, espaço e uma vista incrível da cidade! Ideal para quem busca praticidade e qualidade de vida.
-O imóvel conta com:
-03 quartos, sendo 01 suíte com ar-condicionado;
-Sala de estar;
-Sala de jantar;
-Cozinha com armários;
-Banheiro social;
-Varanda com excelente vista da cidade;
-Lavanderia coberta com banheiro;
-Garagem coberta;
-Edifício com elevador.
-💰
-Valor da locação: R$ 2.200,00 (condomínio incluso).
-📲 Entre em contato com a
-Milano Imóveis
-e agende sua visita!
-Fim do imóvel Cód. 59.
-============================================================
 Imóvel Cód. 22 — Galpão / Barracão para alugar no bairro Centro, Jacutinga/MG
 Código: 22
 Tipo: Galpão / Barracão
@@ -1027,27 +944,6 @@ VALOR: R$ 1.950,00
 Entre em contato com a Milano Imóveis
 Fim do imóvel Cód. 66.
 ============================================================
-Imóvel Cód. 8 — Loja / Ponto comercial para alugar no bairro Centro, Jacutinga/MG
-Código: 8
-Tipo: Loja / Ponto comercial
-Finalidade: Aluguel
-Bairro: Centro
-Cidade: Jacutinga/MG
-Valor do aluguel: R$ 2.800,00/mês
-Banheiros: 1
-Link do imóvel: https://www.imobiliariamilano.com.br/imoveis?codigo=8
-Descrição (imóvel Cód. 8, bairro Centro):
-SALA COMERCIAL PARA LOCAÇÃO
-Sala comercial
-com aproximadamente 35 m²;
-Barracão
-com aproximadamente 90 m²;
-Banheiro;
-Cozinha.
-💰
-Valor da locação: R$ 2.800,00
-Fim do imóvel Cód. 8.
-============================================================
 Imóvel Cód. I9Z204 — Loja / Ponto comercial para alugar no bairro Centro, Jacutinga/MG
 Código: I9Z204
 Tipo: Loja / Ponto comercial
@@ -1147,24 +1043,6 @@ Pavimento Superior – 152,54 m²
 Valor do aluguel: R$ 5.000,00
 Entre em contato para mais informações
 Fim do imóvel Cód. I9Z329.
-============================================================
-Imóvel Cód. I9Z331 — Loja / Ponto comercial para alugar no bairro Centro, Jacutinga/MG
-Código: I9Z331
-Tipo: Loja / Ponto comercial
-Finalidade: Aluguel
-Bairro: Centro
-Cidade: Jacutinga/MG
-Valor do aluguel: R$ 900,00/mês
-Banheiros: 1
-Link do imóvel: https://www.imobiliariamilano.com.br/imoveis?codigo=I9Z331
-Descrição (imóvel Cód. I9Z331, bairro Centro):
-🏢
-ESPAÇO INTERNO PARA COMÉRCIO
-Espaço interno para atividade comercial;
-01 banheiro.
-💰
-Valor do aluguel: R$ 900,00
-Fim do imóvel Cód. I9Z331.
 ============================================================
 Imóvel Cód. I9Z210 — Lote / Terreno para alugar no bairro Centro, Jacutinga/MG
 Código: I9Z210
@@ -2345,36 +2223,6 @@ Entrada para carro. 🚙
 Valor do aluguel: R$ 1.500,00.
 Entre em contato para mais informações e agende sua visita!
 Fim do imóvel Cód. I9Z296.
-============================================================
-Imóvel Cód. 52 — Casa para alugar no bairro Parque das Nações, Jacutinga/MG
-Código: 52
-Tipo: Casa
-Finalidade: Aluguel
-Bairro: Parque das Nações (também escrito Parque das Nacoes)
-Cidade: Jacutinga/MG
-Valor do aluguel: R$ 1.720,00/mês
-Quartos: 2
-Suítes: 1
-Banheiros: 2
-Vagas de garagem: 1
-Link do imóvel: https://www.imobiliariamilano.com.br/imoveis?codigo=52
-Descrição (imóvel Cód. 52, bairro Parque das Nações):
-🏡
-IMÓVEL DISPONÍVEL PARA LOCAÇÃO!
-Confira os detalhes:
-. 02 quartos, sendo 01 suíte
-. Sala
-. Cozinha
-. Banheiro
-. Garagem coberta
-. Área para churrasco
-. Área de serviço
-💰
-Valor: R$ 1.720,00 + IPTU
-📲 Entre em contato com a
-Milano Imóveis
-🔑 Seu novo lar pode estar aqui!
-Fim do imóvel Cód. 52.
 ============================================================
 Imóvel Cód. I9Z14 — Casa à venda no bairro Parque das Nações, Jacutinga/MG
 Código: I9Z14
