@@ -527,7 +527,7 @@ Tipo: Casa
 Finalidade: Aluguel
 Bairro: Centro
 Cidade: Jacutinga/MG
-Valor do aluguel: R$ 3.000,00/mês
+Valor do aluguel: R$ 2.200,00/mês
 Quartos: 4
 Suítes: 1
 Banheiros: 3
@@ -558,7 +558,7 @@ O imóvel pode ser alugado
 com ou sem mobília
 , conforme a preferência do locatário.
 💰
-Aluguel: R$ 3.300,00
+Aluguel: R$ 2.200,00
 Fim do imóvel Cód. 7.
 ============================================================
 Imóvel Cód. I9Z272 — Casa para alugar no bairro Centro, Jacutinga/MG
