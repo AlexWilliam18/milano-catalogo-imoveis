@@ -1,5 +1,5 @@
 CATÁLOGO DE IMÓVEIS — Milano Aluguel e Venda de Imóveis
-Atualizado em: 10/11/2026. Total: 95 imóveis.
+Atualizado em: 10/11/2026. Total: 100 imóveis.
 
 ============================================================
 Imóvel Cód. 53 — Casa à venda no bairro Campo Belo, Jacutinga/MG
@@ -944,6 +944,27 @@ VALOR: R$ 1.950,00
 Entre em contato com a Milano Imóveis
 Fim do imóvel Cód. 66.
 ============================================================
+Imóvel Cód. 72 — Loja / Ponto comercial para alugar no bairro Centro, Jacutinga/MG
+Código: 72
+Tipo: Loja / Ponto comercial
+Finalidade: Aluguel
+Bairro: Centro
+Cidade: Jacutinga/MG
+Valor do aluguel: R$ 1.650,00/mês
+Banheiros: 1
+Link do imóvel: https://www.imobiliariamilano.com.br/imoveis?codigo=72
+Descrição (imóvel Cód. 72, bairro Centro):
+🏢
+SALA COMERCIAL PARA LOCAÇÃO!
+• Sala comercial com aproximadamente 30 m².
+• Banheiro.
+• Cozinha.
+💰
+VALOR: R$ 1.650,00.
+📲 Entre em contato
+💚
+Fim do imóvel Cód. 72.
+============================================================
 Imóvel Cód. I9Z204 — Loja / Ponto comercial para alugar no bairro Centro, Jacutinga/MG
 Código: I9Z204
 Tipo: Loja / Ponto comercial
@@ -1503,6 +1524,58 @@ Valor: R$ 470.000,00
 Milano Imóveis
 e agende sua visita!
 Fim do imóvel Cód. 62.
+============================================================
+Imóvel Cód. 68 — Casa para alugar no bairro Flamboyant, Jacutinga/MG
+Código: 68
+Tipo: Casa
+Finalidade: Aluguel
+Bairro: Flamboyant
+Cidade: Jacutinga/MG
+Valor do aluguel: R$ 1.200,00/mês
+Quartos: 2
+Banheiros: 1
+Link do imóvel: https://www.imobiliariamilano.com.br/imoveis?codigo=68
+Descrição (imóvel Cód. 68, bairro Flamboyant):
+🏡
+IMÓVEL PARA LOCAÇÃO!
+• 02 quartos.
+• Sala.
+• Cozinha.
+• Banheiro.
+• Área de serviço.
+• Quintal.
+• Entrada para carro.
+💰
+VALOR: R$ 1.200,00 + IPTU.
+📲 Entre em contato
+Fim do imóvel Cód. 68.
+============================================================
+Imóvel Cód. 71 — Casa para alugar no bairro Flamboyant, Jacutinga/MG
+Código: 71
+Tipo: Casa
+Finalidade: Aluguel
+Bairro: Flamboyant
+Cidade: Jacutinga/MG
+Valor do aluguel: R$ 1.350,00/mês
+Quartos: 2
+Banheiros: 1
+Vagas de garagem: 1
+Link do imóvel: https://www.imobiliariamilano.com.br/imoveis?codigo=71
+Descrição (imóvel Cód. 71, bairro Flamboyant):
+🏡
+IMÓVEL PARA LOCAÇÃO!
+• 02 quartos.
+• Sala.
+• Cozinha.
+• Banheiro.
+• Área de serviço.
+• Quintal.
+• Entrada para carro.
+💰
+VALOR: R$ 1.350,00 + IPTU.
+📲 Entre em contato
+💚
+Fim do imóvel Cód. 71.
 ============================================================
 Imóvel Cód. I9Z117 — Casa para alugar no bairro Flamboyant, Jacutinga/MG
 Código: I9Z117
@@ -2169,6 +2242,32 @@ Milano Imóveis
 e agende sua visita!
 Fim do imóvel Cód. 48.
 ============================================================
+Imóvel Cód. 69 — Casa para alugar no bairro Nova Jacutinga, Jacutinga/MG
+Código: 69
+Tipo: Casa
+Finalidade: Aluguel
+Bairro: Nova Jacutinga
+Cidade: Jacutinga/MG
+Valor do aluguel: R$ 1.200,00/mês
+Quartos: 2
+Banheiros: 1
+Vagas de garagem: 1
+Link do imóvel: https://www.imobiliariamilano.com.br/imoveis?codigo=69
+Descrição (imóvel Cód. 69, bairro Nova Jacutinga):
+🏡
+IMÓVEL PARA LOCAÇÃO!
+• 02 quartos.
+• Sala.
+• Cozinha.
+• Banheiro.
+• Área de serviço.
+• Entrada para carro.
+💰
+VALOR: R$ 1.200,00 + IPTU.
+📲 Entre em contato
+💚
+Fim do imóvel Cód. 69.
+============================================================
 Imóvel Cód. I9Z11 — Casa à venda no bairro Nova Jacutinga, Jacutinga/MG
 Código: I9Z11
 Tipo: Casa
@@ -2667,6 +2766,33 @@ Valor do aluguel: R$ 1.250,00
 Inclusos no valor:
 água, IPTU e energia elétrica.
 Fim do imóvel Cód. 55.
+============================================================
+Imóvel Cód. 70 — Casa para alugar no bairro Vila Esperança, Jacutinga/MG
+Código: 70
+Tipo: Casa
+Finalidade: Aluguel
+Bairro: Vila Esperança (também escrito Vila Esperanca)
+Cidade: Jacutinga/MG
+Valor do aluguel: R$ 1.200,00/mês
+Quartos: 2
+Banheiros: 1
+Vagas de garagem: 1
+Link do imóvel: https://www.imobiliariamilano.com.br/imoveis?codigo=70
+Descrição (imóvel Cód. 70, bairro Vila Esperança):
+🏡
+IMÓVEL PARA LOCAÇÃO!
+• 02 quartos.
+• Sala.
+• Cozinha.
+• Banheiro.
+• Garagem coberta.
+• Área de serviço.
+• Quintal.
+💰
+VALOR: R$ 1.200,00 + IPTU.
+📲 Entre em contato
+💚
+Fim do imóvel Cód. 70.
 ============================================================
 Imóvel Cód. I9Z347 — Casa à venda no bairro Vila Nazaré, Jacutinga/MG
 Código: I9Z347
