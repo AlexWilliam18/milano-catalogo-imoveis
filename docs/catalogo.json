@@ -1,7 +1,7 @@
 {
  "atualizado": "12/11/2026",
  "fonte": "https://www.imobiliariamilano.com.br",
- "total": 100,
+ "total": 97,
  "imoveis": [
   {
    "codigo": "53",
@@ -224,27 +224,6 @@
    "descricao": "🏢\nAPARTAMENTO DISPONÍVEL PARA LOCAÇÃO\n📍\nEdifício Guerreiro\nRua Major Afonso, nº 35 – Apto. 704, Centro\n✨\nO apartamento conta com:\n• 03 quartos, sendo 01 suíte;\n• Sala de estar;\n• Sala de jantar;\n• Cozinha com móveis planejados;\n• Dispensa;\n• Área de serviço com banheiro auxiliar;\n• 01 vaga de garagem.\n💰\nValor do aluguel: R$ 1.700,00 + condomínio\n📲 Entre em contato com a\nMilano Imóveis\ne agende sua visita!\n🏡 Seu próximo lar está aqui!",
    "link": "https://www.imobiliariamilano.com.br/imoveis?codigo=49",
    "pagina": "https://www.imobiliariamilano.com.br/imovel/apartamento-3-quartos-centro-jacutinga-locacao-id-132"
-  },
-  {
-   "codigo": "63",
-   "tipo": "Apartamento",
-   "finalidades": [
-    "Aluguel"
-   ],
-   "bairro": "Centro",
-   "cidade": "Jacutinga/MG",
-   "valor_venda": null,
-   "valor_aluguel": "R$ 1.600,00/mês",
-   "quartos": "2",
-   "suites": "1",
-   "banheiros": "2",
-   "vagas": "1",
-   "area_total": null,
-   "area_construida": null,
-   "itens": [],
-   "descricao": "🏡 APARTAMENTO DISPONÍVEL PARA LOCAÇÃO\n✨ Excelente opção para quem busca conforto e praticidade!\nO apartamento conta com:\n02 quartos, sendo 01 suíte;\nSala;\nCozinha;\nBanheiro social;\nGaragem coberta;\nÁrea de serviço coberta.\n💰 Valor do aluguel: R$ 1.600,00\n📲 Entre em contato com a Milano Imóveis",
-   "link": "https://www.imobiliariamilano.com.br/imoveis?codigo=63",
-   "pagina": "https://www.imobiliariamilano.com.br/imovel/apartamento-2-quartos-centro-jacutinga-locacao-id-146"
   },
   {
    "codigo": "64",
@@ -1571,27 +1550,6 @@
    "pagina": "https://www.imobiliariamilano.com.br/imovel/casa-2-quartos-jardim-niciolli-jacutinga-locacao-id-53"
   },
   {
-   "codigo": "34",
-   "tipo": "Casa",
-   "finalidades": [
-    "Aluguel"
-   ],
-   "bairro": "Monsenhor Vieira",
-   "cidade": "Jacutinga/MG",
-   "valor_venda": null,
-   "valor_aluguel": "R$ 1.100,00/mês",
-   "quartos": "2",
-   "suites": null,
-   "banheiros": "1",
-   "vagas": "1",
-   "area_total": null,
-   "area_construida": null,
-   "itens": [],
-   "descricao": "🏡\nIMÓVEL DISPONÍVEL PARA LOCAÇÃO!\n✨ Confortável e funcional, ideal para quem busca praticidade no dia a dia!\n🔹\n02 quartos\n🔹\nSala\n🔹\nCozinha\n🔹\nBanheiro\n🔹\nGaragem coberta\n🔹\nÁrea de serviço\n💰\nValor da locação: R$ 1.100,00 + IPTU\n📲 Entre em contato conosco e\nagende sua visita!",
-   "link": "https://www.imobiliariamilano.com.br/imoveis?codigo=34",
-   "pagina": "https://www.imobiliariamilano.com.br/imovel/casa-2-quartos-monsenhor-vieira-jacutinga-locacao-id-117"
-  },
-  {
    "codigo": "14",
    "tipo": "Casa",
    "finalidades": [
@@ -1726,27 +1684,6 @@
    "descricao": "03 QUARTOS SENDO A SUITE COM ESPAÇO PARA CLOSET\nBANHEIRO SOCIAL\nSALA AMPLA COM PÉ DIREITO ALTO\nCOZINHA MODERNA COM TORNEIRA GOURMET\nÁREA DE LAZER COM BANCADA EM MÁRMORE PRETO COM CHURRASQUEIRA, PISCINA COM CASCAT\nBANHEIRO DA ÁREA DE LAZER\nÁREA DE SERVIÇO COBERTA\nGARAGEM COBERTA\nQUINTAL TODO COM REVESTIMENTO\nACABAMENTOS DE PRIMEIRA\nFACHADA MODERNA COM LINDO JARDIM",
    "link": "https://www.imobiliariamilano.com.br/imoveis?codigo=I9Z11",
    "pagina": "https://www.imobiliariamilano.com.br/imovel/casa-2-quartos-nova-jacutinga-jacutinga-200m2-venda-id-2"
-  },
-  {
-   "codigo": "I9Z296",
-   "tipo": "Casa",
-   "finalidades": [
-    "Aluguel"
-   ],
-   "bairro": "Nova Jacutinga",
-   "cidade": "Jacutinga/MG",
-   "valor_venda": null,
-   "valor_aluguel": "R$ 1.500,00/mês",
-   "quartos": "1",
-   "suites": "1",
-   "banheiros": "1",
-   "vagas": null,
-   "area_total": null,
-   "area_construida": null,
-   "itens": [],
-   "descricao": "🔑\nCasa para Locação\nSeu novo lar pode estar aqui!\nO imóvel conta com:\n2 quartos, sendo 1 suíte;\nSala;\nCozinha;\nBanheiro social;\nÁrea de serviço coberta;\nEntrada para carro. 🚙\nValor do aluguel: R$ 1.500,00.\nEntre em contato para mais informações e agende sua visita!",
-   "link": "https://www.imobiliariamilano.com.br/imoveis?codigo=I9Z296",
-   "pagina": "https://www.imobiliariamilano.com.br/imovel/casa-1-quartos-nova-jacutinga-jacutinga-locacao-id-37"
   },
   {
    "codigo": "I9Z14",

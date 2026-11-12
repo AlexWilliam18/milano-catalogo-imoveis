@@ -1,5 +1,5 @@
 CATÁLOGO DE IMÓVEIS — Milano Aluguel e Venda de Imóveis
-Atualizado em: 12/11/2026. Total: 100 imóveis.
+Atualizado em: 12/11/2026. Total: 97 imóveis.
 
 ============================================================
 Imóvel Cód. 53 — Casa à venda no bairro Campo Belo, Jacutinga/MG
@@ -331,32 +331,6 @@ Milano Imóveis
 e agende sua visita!
 🏡 Seu próximo lar está aqui!
 Fim do imóvel Cód. 49.
-============================================================
-Imóvel Cód. 63 — Apartamento para alugar no bairro Centro, Jacutinga/MG
-Código: 63
-Tipo: Apartamento
-Finalidade: Aluguel
-Bairro: Centro
-Cidade: Jacutinga/MG
-Valor do aluguel: R$ 1.600,00/mês
-Quartos: 2
-Suítes: 1
-Banheiros: 2
-Vagas de garagem: 1
-Link do imóvel: https://www.imobiliariamilano.com.br/imoveis?codigo=63
-Descrição (imóvel Cód. 63, bairro Centro):
-🏡 APARTAMENTO DISPONÍVEL PARA LOCAÇÃO
-✨ Excelente opção para quem busca conforto e praticidade!
-O apartamento conta com:
-02 quartos, sendo 01 suíte;
-Sala;
-Cozinha;
-Banheiro social;
-Garagem coberta;
-Área de serviço coberta.
-💰 Valor do aluguel: R$ 1.600,00
-📲 Entre em contato com a Milano Imóveis
-Fim do imóvel Cód. 63.
 ============================================================
 Imóvel Cód. 64 — Apartamento para alugar no bairro Centro, Jacutinga/MG
 Código: 64
@@ -2070,39 +2044,6 @@ Um imóvel pensado para oferecer mais comodidade no dia a dia, com detalhes que 
 💰 Valor do aluguel: R$ 1.600,00
 Fim do imóvel Cód. I9Z319.
 ============================================================
-Imóvel Cód. 34 — Casa para alugar no bairro Monsenhor Vieira, Jacutinga/MG
-Código: 34
-Tipo: Casa
-Finalidade: Aluguel
-Bairro: Monsenhor Vieira
-Cidade: Jacutinga/MG
-Valor do aluguel: R$ 1.100,00/mês
-Quartos: 2
-Banheiros: 1
-Vagas de garagem: 1
-Link do imóvel: https://www.imobiliariamilano.com.br/imoveis?codigo=34
-Descrição (imóvel Cód. 34, bairro Monsenhor Vieira):
-🏡
-IMÓVEL DISPONÍVEL PARA LOCAÇÃO!
-✨ Confortável e funcional, ideal para quem busca praticidade no dia a dia!
-🔹
-02 quartos
-🔹
-Sala
-🔹
-Cozinha
-🔹
-Banheiro
-🔹
-Garagem coberta
-🔹
-Área de serviço
-💰
-Valor da locação: R$ 1.100,00 + IPTU
-📲 Entre em contato conosco e
-agende sua visita!
-Fim do imóvel Cód. 34.
-============================================================
 Imóvel Cód. 14 — Casa à venda no bairro Nova Jacutinga, Jacutinga/MG
 Código: 14
 Tipo: Casa
@@ -2296,32 +2237,6 @@ QUINTAL TODO COM REVESTIMENTO
 ACABAMENTOS DE PRIMEIRA
 FACHADA MODERNA COM LINDO JARDIM
 Fim do imóvel Cód. I9Z11.
-============================================================
-Imóvel Cód. I9Z296 — Casa para alugar no bairro Nova Jacutinga, Jacutinga/MG
-Código: I9Z296
-Tipo: Casa
-Finalidade: Aluguel
-Bairro: Nova Jacutinga
-Cidade: Jacutinga/MG
-Valor do aluguel: R$ 1.500,00/mês
-Quartos: 1
-Suítes: 1
-Banheiros: 1
-Link do imóvel: https://www.imobiliariamilano.com.br/imoveis?codigo=I9Z296
-Descrição (imóvel Cód. I9Z296, bairro Nova Jacutinga):
-🔑
-Casa para Locação
-Seu novo lar pode estar aqui!
-O imóvel conta com:
-2 quartos, sendo 1 suíte;
-Sala;
-Cozinha;
-Banheiro social;
-Área de serviço coberta;
-Entrada para carro. 🚙
-Valor do aluguel: R$ 1.500,00.
-Entre em contato para mais informações e agende sua visita!
-Fim do imóvel Cód. I9Z296.
 ============================================================
 Imóvel Cód. I9Z14 — Casa à venda no bairro Parque das Nações, Jacutinga/MG
 Código: I9Z14
