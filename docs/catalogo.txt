@@ -1,5 +1,5 @@
 CATÁLOGO DE IMÓVEIS — Milano Aluguel e Venda de Imóveis
-Atualizado em: 16/11/2026. Total: 96 imóveis.
+Atualizado em: 16/11/2026. Total: 94 imóveis.
 
 ============================================================
 Imóvel Cód. 53 — Casa à venda no bairro Campo Belo, Jacutinga/MG
@@ -1602,7 +1602,7 @@ Tipo: Casa
 Finalidade: Aluguel
 Bairro: Flamboyant
 Cidade: Jacutinga/MG
-Valor do aluguel: R$ 1.450,00/mês
+Valor do aluguel: R$ 1.400,00/mês
 Quartos: 2
 Banheiros: 2
 Itens do imóvel: Quintal
@@ -1617,7 +1617,7 @@ Cozinha americana;
 Área de serviço coberta;
 Quintal;
 Entrada para carro. 🚘
-Valor do aluguel: R$1.450,00
+Valor do aluguel: R$1.400,00
 Entre em contato para mais informações.
 Fim do imóvel Cód. I9Z293.
 ============================================================
@@ -1776,41 +1776,6 @@ GARAGEM COBERTA
 💰
 VALOR: R$ 320.000,00
 Fim do imóvel Cód. I9Z340.
-============================================================
-Imóvel Cód. I9Z344 — Casa à venda no bairro Jardim Colina, Jacutinga/MG
-Código: I9Z344
-Tipo: Casa
-Finalidade: Venda
-Bairro: Jardim Colina
-Cidade: Jacutinga/MG
-Valor de venda: R$ 370.000,00
-Quartos: 3
-Banheiros: 1
-Itens do imóvel: Armários na Cozinha
-Link do imóvel: https://www.imobiliariamilano.com.br/imoveis?codigo=I9Z344
-Descrição (imóvel Cód. I9Z344, bairro Jardim Colina):
-🏡
-CASA À VENDA – R$ 370.000,00
-•
-03 DORMITÓRIOS, SENDO 01 COM MÓVEIS PLANEJADOS
-•
-SALA ACONCHEGANTE
-•
-COZINHA COM MÓVEIS PLANEJADOS
-•
-BANHEIRO
-•
-ÁREA DE SERVIÇO
-•
-ESPAÇO COM CHURRASQUEIRA
-🔥
-•
-GARAGEM COBERTA PARA 02 AUTOMÓVEIS
-🚗
-✨ Um imóvel aconchegante e funcional, ideal para quem busca conforto e praticidade.
-💰
-VALOR: R$ 370.000,00
-Fim do imóvel Cód. I9Z344.
 ============================================================
 Imóvel Cód. 16 — Casa para alugar no bairro Jardim Déa, Jacutinga/MG
 Código: 16
@@ -2563,31 +2528,6 @@ Um lugar perfeito para morar, descansar e aproveitar momentos especiais com a fa
 📲
 Entre em contato para mais informações e agende uma visita!
 Fim do imóvel Cód. 11.
-============================================================
-Imóvel Cód. 31 — Casa para alugar no bairro Vale das Primaveras, Jacutinga/MG
-Código: 31
-Tipo: Casa
-Finalidade: Aluguel
-Bairro: Vale das Primaveras
-Cidade: Jacutinga/MG
-Valor do aluguel: R$ 1.100,00/mês
-Quartos: 2
-Banheiros: 1
-Vagas de garagem: 1
-Link do imóvel: https://www.imobiliariamilano.com.br/imoveis?codigo=31
-Descrição (imóvel Cód. 31, bairro Vale das Primaveras):
-🏡
-CASA PARA LOCAÇÃO
-• 02 quartos
-• Sala
-• Cozinha
-• Banheiro
-• Área de serviço coberta
-• Garagem
-• Pequeno quintal
-Valor: R$ 1.110,00 com IPTU incluso.
-Entre em contato conosco e faça uma visita!
-Fim do imóvel Cód. 31.
 ============================================================
 Imóvel Cód. I9Z312 — Casa para alugar no bairro Vale das Primaveras, Jacutinga/MG
 Código: I9Z312

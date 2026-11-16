@@ -1,7 +1,7 @@
 {
  "atualizado": "16/11/2026",
  "fonte": "https://www.imobiliariamilano.com.br",
- "total": 96,
+ "total": 94,
  "imoveis": [
   {
    "codigo": "53",
@@ -1262,7 +1262,7 @@
    "bairro": "Flamboyant",
    "cidade": "Jacutinga/MG",
    "valor_venda": null,
-   "valor_aluguel": "R$ 1.450,00/mês",
+   "valor_aluguel": "R$ 1.400,00/mês",
    "quartos": "2",
    "suites": null,
    "banheiros": "2",
@@ -1272,7 +1272,7 @@
    "itens": [
     "Quintal"
    ],
-   "descricao": "🏠 Casa para Locação\nCaracterísticas do imóvel:\n2 quartos;\n2 banheiros;\nSala;\nCozinha americana;\nÁrea de serviço coberta;\nQuintal;\nEntrada para carro. 🚘\nValor do aluguel: R$1.450,00\nEntre em contato para mais informações.",
+   "descricao": "🏠 Casa para Locação\nCaracterísticas do imóvel:\n2 quartos;\n2 banheiros;\nSala;\nCozinha americana;\nÁrea de serviço coberta;\nQuintal;\nEntrada para carro. 🚘\nValor do aluguel: R$1.400,00\nEntre em contato para mais informações.",
    "link": "https://www.imobiliariamilano.com.br/imoveis?codigo=I9Z293",
    "pagina": "https://www.imobiliariamilano.com.br/imovel/casa-2-quartos-flamboyant-jacutinga-locacao-id-36"
   },
@@ -1380,29 +1380,6 @@
    "descricao": "🏡\nCASA À VENDA – R$ 320.000,00\n•\n03 QUARTOS\n•\nSALA\n•\nCOZINHA\n•\nBANHEIRO\n•\nGARAGEM COBERTA\n🚗\n•\nÁREA DE SERVIÇO\n💰\nVALOR: R$ 320.000,00",
    "link": "https://www.imobiliariamilano.com.br/imoveis?codigo=I9Z340",
    "pagina": "https://www.imobiliariamilano.com.br/imovel/casa-3-quartos-jardim-colina-jacutinga-venda-id-69"
-  },
-  {
-   "codigo": "I9Z344",
-   "tipo": "Casa",
-   "finalidades": [
-    "Venda"
-   ],
-   "bairro": "Jardim Colina",
-   "cidade": "Jacutinga/MG",
-   "valor_venda": "R$ 370.000,00",
-   "valor_aluguel": null,
-   "quartos": "3",
-   "suites": null,
-   "banheiros": "1",
-   "vagas": null,
-   "area_total": null,
-   "area_construida": null,
-   "itens": [
-    "Armários na Cozinha"
-   ],
-   "descricao": "🏡\nCASA À VENDA – R$ 370.000,00\n•\n03 DORMITÓRIOS, SENDO 01 COM MÓVEIS PLANEJADOS\n•\nSALA ACONCHEGANTE\n•\nCOZINHA COM MÓVEIS PLANEJADOS\n•\nBANHEIRO\n•\nÁREA DE SERVIÇO\n•\nESPAÇO COM CHURRASQUEIRA\n🔥\n•\nGARAGEM COBERTA PARA 02 AUTOMÓVEIS\n🚗\n✨ Um imóvel aconchegante e funcional, ideal para quem busca conforto e praticidade.\n💰\nVALOR: R$ 370.000,00",
-   "link": "https://www.imobiliariamilano.com.br/imoveis?codigo=I9Z344",
-   "pagina": "https://www.imobiliariamilano.com.br/imovel/casa-3-quartos-jardim-colina-jacutinga-venda-id-73"
   },
   {
    "codigo": "16",
@@ -1943,27 +1920,6 @@
    "descricao": "🏡\nCHÁCARA À VENDA\nExcelente oportunidade para quem busca tranquilidade, espaço e lazer para toda a família!\nA propriedade conta com:\nCasa toda avarandada\n03 quartos amplos\nSala\nCozinha\nBanheiro\nGaragem coberta para 04 veículos\n03 açudes para lazer\nÁrea para churrasco com banheiro\nTerreno com aproximadamente\n7.000 m²\nUm lugar perfeito para morar, descansar e aproveitar momentos especiais com a família e amigos.\n📲\nEntre em contato para mais informações e agende uma visita!",
    "link": "https://www.imobiliariamilano.com.br/imoveis?codigo=11",
    "pagina": "https://www.imobiliariamilano.com.br/imovel/chacara-3-quartos-sao-luiz-jacutinga-venda-id-94"
-  },
-  {
-   "codigo": "31",
-   "tipo": "Casa",
-   "finalidades": [
-    "Aluguel"
-   ],
-   "bairro": "Vale das Primaveras",
-   "cidade": "Jacutinga/MG",
-   "valor_venda": null,
-   "valor_aluguel": "R$ 1.100,00/mês",
-   "quartos": "2",
-   "suites": null,
-   "banheiros": "1",
-   "vagas": "1",
-   "area_total": null,
-   "area_construida": null,
-   "itens": [],
-   "descricao": "🏡\nCASA PARA LOCAÇÃO\n• 02 quartos\n• Sala\n• Cozinha\n• Banheiro\n• Área de serviço coberta\n• Garagem\n• Pequeno quintal\nValor: R$ 1.110,00 com IPTU incluso.\nEntre em contato conosco e faça uma visita!",
-   "link": "https://www.imobiliariamilano.com.br/imoveis?codigo=31",
-   "pagina": "https://www.imobiliariamilano.com.br/imovel/casa-2-quartos-vale-das-primaveras-jacutinga-locacao-id-114"
   },
   {
    "codigo": "I9Z312",
