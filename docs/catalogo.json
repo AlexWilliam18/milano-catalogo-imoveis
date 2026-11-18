@@ -1,7 +1,7 @@
 {
  "atualizado": "18/11/2026",
  "fonte": "https://www.imobiliariamilano.com.br",
- "total": 94,
+ "total": 93,
  "imoveis": [
   {
    "codigo": "53",
@@ -182,27 +182,6 @@
    "descricao": "✨\nAPARTAMENTO À VENDA | EDIFÍCIO CAPONI\nEm uma localização privilegiada, este elegante apartamento no\n2º andar\noferece ambientes confortáveis, bem distribuídos e funcionais, ideal para quem busca praticidade e qualidade de vida.\nO imóvel conta com:\n•\n03 quartos\n, sendo 01 suíte com guarda-roupa;\n•\nSala de estar\naconchegante;\n•\nSala de jantar\nintegrada;\n•\nCozinha com armários planejados\n;\n•\nBanheiro social\n;\n•\n01 vaga de garagem\n.\nUm imóvel que reúne\nconforto, praticidade e funcionalidade\n, perfeito para receber a família e viver momentos especiais.\n💰\nValor: R$ 500.000,00\n📲\nEntre em contato com a Milano Imóveis e agende sua visita.",
    "link": "https://www.imobiliariamilano.com.br/imoveis?codigo=33",
    "pagina": "https://www.imobiliariamilano.com.br/imovel/apartamento-3-quartos-centro-jacutinga-venda-id-116"
-  },
-  {
-   "codigo": "49",
-   "tipo": "Apartamento",
-   "finalidades": [
-    "Aluguel"
-   ],
-   "bairro": "Centro",
-   "cidade": "Jacutinga/MG",
-   "valor_venda": null,
-   "valor_aluguel": "R$ 1.700,00/mês",
-   "quartos": "3",
-   "suites": "1",
-   "banheiros": "2",
-   "vagas": "1",
-   "area_total": null,
-   "area_construida": null,
-   "itens": [],
-   "descricao": "🏢\nAPARTAMENTO DISPONÍVEL PARA LOCAÇÃO\n📍\nEdifício Guerreiro\nRua Major Afonso, nº 35 – Apto. 704, Centro\n✨\nO apartamento conta com:\n• 03 quartos, sendo 01 suíte;\n• Sala de estar;\n• Sala de jantar;\n• Cozinha com móveis planejados;\n• Dispensa;\n• Área de serviço com banheiro auxiliar;\n• 01 vaga de garagem.\n💰\nValor do aluguel: R$ 1.700,00 + condomínio\n📲 Entre em contato com a\nMilano Imóveis\ne agende sua visita!\n🏡 Seu próximo lar está aqui!",
-   "link": "https://www.imobiliariamilano.com.br/imoveis?codigo=49",
-   "pagina": "https://www.imobiliariamilano.com.br/imovel/apartamento-3-quartos-centro-jacutinga-locacao-id-132"
   },
   {
    "codigo": "64",
@@ -1211,6 +1190,27 @@
    "pagina": "https://www.imobiliariamilano.com.br/imovel/casa-2-quartos-flamboyant-jacutinga-locacao-id-154"
   },
   {
+   "codigo": "73",
+   "tipo": "Casa",
+   "finalidades": [
+    "Aluguel"
+   ],
+   "bairro": "Flamboyant",
+   "cidade": "Jacutinga/MG",
+   "valor_venda": null,
+   "valor_aluguel": "R$ 2.600,00/mês",
+   "quartos": "3",
+   "suites": "1",
+   "banheiros": "2",
+   "vagas": "1",
+   "area_total": null,
+   "area_construida": null,
+   "itens": [],
+   "descricao": "🏡\nCASA PARA LOCAÇÃO COM BARRACÃO!\nUma ótima oportunidade para quem busca espaço e praticidade!\nO imóvel conta com:\n• 03 quartos, sendo 01 suíte;\n• Sala;\n• Cozinha;\n• Banheiro social;\n• Área de serviço;\n• Quintal;\n• Barracão;\n• Garagem coberta.\n💰\nValor da locação: R$ 2.600,00\n📲 Entre em contato com a nossa equipe",
+   "link": "https://www.imobiliariamilano.com.br/imoveis?codigo=73",
+   "pagina": "https://www.imobiliariamilano.com.br/imovel/casa-3-quartos-flamboyant-jacutinga-locacao-id-156"
+  },
+  {
    "codigo": "I9Z117",
    "tipo": "Casa",
    "finalidades": [
@@ -1380,6 +1380,29 @@
    "descricao": "🏡\nCASA À VENDA – R$ 320.000,00\n•\n03 QUARTOS\n•\nSALA\n•\nCOZINHA\n•\nBANHEIRO\n•\nGARAGEM COBERTA\n🚗\n•\nÁREA DE SERVIÇO\n💰\nVALOR: R$ 320.000,00",
    "link": "https://www.imobiliariamilano.com.br/imoveis?codigo=I9Z340",
    "pagina": "https://www.imobiliariamilano.com.br/imovel/casa-3-quartos-jardim-colina-jacutinga-venda-id-69"
+  },
+  {
+   "codigo": "I9Z344",
+   "tipo": "Casa",
+   "finalidades": [
+    "Venda"
+   ],
+   "bairro": "Jardim Colina",
+   "cidade": "Jacutinga/MG",
+   "valor_venda": "R$ 370.000,00",
+   "valor_aluguel": null,
+   "quartos": "3",
+   "suites": null,
+   "banheiros": "1",
+   "vagas": null,
+   "area_total": null,
+   "area_construida": null,
+   "itens": [
+    "Armários na Cozinha"
+   ],
+   "descricao": "🏡\nCASA À VENDA – R$ 370.000,00\n•\n03 DORMITÓRIOS, SENDO 01 COM MÓVEIS PLANEJADOS\n•\nSALA ACONCHEGANTE\n•\nCOZINHA COM MÓVEIS PLANEJADOS\n•\nBANHEIRO\n•\nÁREA DE SERVIÇO\n•\nESPAÇO COM CHURRASQUEIRA\n🔥\n•\nGARAGEM COBERTA PARA 02 AUTOMÓVEIS\n🚗\n✨ Um imóvel aconchegante e funcional, ideal para quem busca conforto e praticidade.\n💰\nVALOR: R$ 370.000,00",
+   "link": "https://www.imobiliariamilano.com.br/imoveis?codigo=I9Z344",
+   "pagina": "https://www.imobiliariamilano.com.br/imovel/casa-3-quartos-jardim-colina-jacutinga-venda-id-73"
   },
   {
    "codigo": "16",
@@ -1941,48 +1964,6 @@
    "descricao": "🏡\nSeu novo lar espera por você!\n✨\nCasa para Locação – R$ 1.500,00\n✔️ 02 quartos, sendo 01 suíte\n✔️ Sala ampla e aconchegante\n✔️ Cozinha funcional\n✔️ Banheiro social\n✔️ Garagem coberta\n💰\nAluguel: R$ 1.500,00\n📲 Entre em contato. Não perca essa oportunidade!",
    "link": "https://www.imobiliariamilano.com.br/imoveis?codigo=I9Z312",
    "pagina": "https://www.imobiliariamilano.com.br/imovel/casa-2-quartos-vale-das-primaveras-jacutinga-locacao-id-49"
-  },
-  {
-   "codigo": "54",
-   "tipo": "Casa",
-   "finalidades": [
-    "Aluguel"
-   ],
-   "bairro": "Vila Esperança",
-   "cidade": "Jacutinga/MG",
-   "valor_venda": null,
-   "valor_aluguel": "R$ 1.000,00/mês",
-   "quartos": "1",
-   "suites": null,
-   "banheiros": "1",
-   "vagas": "1",
-   "area_total": null,
-   "area_construida": null,
-   "itens": [],
-   "descricao": "🏡\nIMÓVEL PARA LOCAÇÃO\nGaragem coberta\n01 quarto\nBanheiro\nCozinha\nLavanderia\n💰\nValor do aluguel: R$ 1.000,00\nInclusos no valor:\nágua, IPTU e energia elétrica.",
-   "link": "https://www.imobiliariamilano.com.br/imoveis?codigo=54",
-   "pagina": "https://www.imobiliariamilano.com.br/imovel/casa-1-quartos-vila-esperanca-jacutinga-locacao-id-137"
-  },
-  {
-   "codigo": "55",
-   "tipo": "Casa",
-   "finalidades": [
-    "Aluguel"
-   ],
-   "bairro": "Vila Esperança",
-   "cidade": "Jacutinga/MG",
-   "valor_venda": null,
-   "valor_aluguel": "R$ 1.250,00/mês",
-   "quartos": "2",
-   "suites": null,
-   "banheiros": "2",
-   "vagas": null,
-   "area_total": null,
-   "area_construida": null,
-   "itens": [],
-   "descricao": "🏡\nIMÓVEL PARA LOCAÇÃO\n02 quartos\nSala\n02 banheiros\nCozinha\nLavanderia\n💰\nValor do aluguel: R$ 1.250,00\nInclusos no valor:\nágua, IPTU e energia elétrica.",
-   "link": "https://www.imobiliariamilano.com.br/imoveis?codigo=55",
-   "pagina": "https://www.imobiliariamilano.com.br/imovel/casa-2-quartos-vila-esperanca-jacutinga-locacao-id-138"
   },
   {
    "codigo": "70",
