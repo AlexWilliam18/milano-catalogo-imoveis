@@ -1,5 +1,5 @@
 CATÁLOGO DE IMÓVEIS — Milano Aluguel e Venda de Imóveis
-Atualizado em: 24/11/2026. Total: 91 imóveis.
+Atualizado em: 24/11/2026. Total: 93 imóveis.
 
 ============================================================
 Imóvel Cód. 53 — Casa à venda no bairro Campo Belo, Jacutinga/MG
@@ -294,6 +294,41 @@ Banheiro social;
 VALOR: R$ 1.900,00
 Entre em contato e agende sua visita! 🏡💚
 Fim do imóvel Cód. 64.
+============================================================
+Imóvel Cód. 75 — Apartamento para alugar no bairro Centro, Jacutinga/MG
+Código: 75
+Tipo: Apartamento
+Finalidade: Aluguel
+Bairro: Centro
+Cidade: Jacutinga/MG
+Valor do aluguel: R$ 6.000,00/mês
+Quartos: 3
+Suítes: 3
+Banheiros: 4
+Vagas de garagem: 4
+Itens do imóvel: Closet, Lavabo, Elevador, Área de Lazer, Piscina
+Link do imóvel: https://www.imobiliariamilano.com.br/imoveis?codigo=75
+Descrição (imóvel Cód. 75, bairro Centro):
+DUPLEX DE ALTO PADRÃO PARA LOCAÇÃO!
+✨ Sofisticação, conforto e espaço em um só lugar!
+O imóvel conta com:
+▪️ Suíte master com closet.
+▪️ 02 suítes amplas.
+▪️ 02 salas de estar.
+▪️ Sala de jantar.
+▪️ Cozinha planejada.
+▪️ Lavabo.
+▪️ Varanda.
+▪️ Área de serviço.
+▪️ Quarto de empregada.
+▪️ 04 vagas de garagem.
+▪️ Totalmente mobiliado.
+VALOR DA LOCAÇÃO: R$ 6.000,00
+Encargos adicionais:
+Condomínio: aproximadamente R$ 1.800,00.
+IPTU: aproximadamente R$ 2.800,00.
+Uma excelente opção para quem busca conforto, elegância e praticidade!
+Fim do imóvel Cód. 75.
 ============================================================
 Imóvel Cód. I9Z223 — Apartamento para alugar no bairro Centro, Jacutinga/MG
 Código: I9Z223
@@ -1622,38 +1657,38 @@ Tipo: Casa
 Finalidade: Venda
 Bairro: Flamboyant
 Cidade: Jacutinga/MG
-Valor de venda: R$ 790.000,00
-Quartos: 4
+Valor de venda: Sob consulta
+Quartos: 3
 Suítes: 3
 Banheiros: 1
 Área construída: 250 m²
 Link do imóvel: https://www.imobiliariamilano.com.br/imoveis?codigo=I9Z339
 Descrição (imóvel Cód. I9Z339, bairro Flamboyant):
 🏡
-CASA À VENDA – R$ 790.000,00
+CASA À VENDA
 •
-04 QUARTOS, SENDO 03 SUÍTES
+03 QUARTOS, SENDO SUÍTES
 •
-SALA
+SALA DE JANTAR
+•
+SALA DE ESTAR
 •
 COZINHA
 •
-BANHEIRO SOCIAL
+LAVABO
 •
 GARAGEM PARA 02 CARROS
 •
-PISCINA COM ÁREA DE LAZER COMPLETA
-🏊
+PISCINA AQUECIDA
 •
-02 BANHEIROS NA ÁREA DE LAZER
+ÁREA DE LAZER COMPLETA
+🏊
 📐
 Área construída:
-aproximadamente 250 m²
+aproximadamente 240 m²
 📏
 Terreno:
 360 m²
-💰
-VALOR: R$ 790.000,00
 Fim do imóvel Cód. I9Z339.
 ============================================================
 Imóvel Cód. I9Z318 — Kitnet para alugar no bairro Flamboyant, Jacutinga/MG
@@ -1995,6 +2030,47 @@ Terreno: 200 m²;
 Milano Imóveis
 e agende sua visita!
 Fim do imóvel Cód. 61.
+============================================================
+Imóvel Cód. 74 — Casa à venda e para alugar no bairro Jardim Nicioli, Jacutinga/MG
+Código: 74
+Tipo: Casa
+Finalidade: Venda e Aluguel
+Bairro: Jardim Nicioli
+Cidade: Jacutinga/MG
+Valor de venda: R$ 340.000,00
+Valor do aluguel: R$ 1.600,00/mês
+Quartos: 2
+Suítes: 1
+Banheiros: 2
+Vagas de garagem: 1
+Área construída: 66 m²
+Link do imóvel: https://www.imobiliariamilano.com.br/imoveis?codigo=74
+Descrição (imóvel Cód. 74, bairro Jardim Nicioli):
+🏡
+CASA DISPONÍVEL PARA VENDA OU LOCAÇÃO!
+Oportunidade imperdível para quem procura um novo lar!
+Apresentamos uma casa aconchegante, bem planejada e com ótimo espaço para você e sua família viverem com conforto.
+Características do imóvel:
+02 quartos amplos, sendo 01 suíte;
+Sala espaçosa, com pé-direito alto e bem arejada;
+Cozinha americana;
+Banheiro social;
+Entrada para carro;
+Área de serviço coberta;
+Quintal amplo, ideal para criar sua própria área de lazer.
+📐
+Terreno:
+200 m²
+🏠
+Área construída:
+66 m²
+💰
+Valor de locação: R$ 1.600,00
+💰
+Valor de venda: R$ 360.000,00
+🏦 Aceita financiamento bancário!
+📲 Entre em contato com a nossa equipe para saber mais sobre as condições de venda ou locação e agendar uma visita.
+Fim do imóvel Cód. 74.
 ============================================================
 Imóvel Cód. 14 — Casa à venda no bairro Nova Jacutinga, Jacutinga/MG
 Código: 14

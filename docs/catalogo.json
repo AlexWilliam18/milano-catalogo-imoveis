@@ -1,7 +1,7 @@
 {
  "atualizado": "24/11/2026",
  "fonte": "https://www.imobiliariamilano.com.br",
- "total": 91,
+ "total": 93,
  "imoveis": [
   {
    "codigo": "53",
@@ -203,6 +203,33 @@
    "descricao": "APARTAMENTO 03 – SUPERIOR DISPONÍVEL PARA LOCAÇÃO!\n03 quartos, sendo 01 suíte;\nSala;\nCozinha;\nBanheiro social;\nÁrea de serviço coberta.\nVALOR: R$ 1.900,00\nEntre em contato e agende sua visita! 🏡💚",
    "link": "https://www.imobiliariamilano.com.br/imoveis?codigo=64",
    "pagina": "https://www.imobiliariamilano.com.br/imovel/apartamento-3-quartos-centro-jacutinga-locacao-id-147"
+  },
+  {
+   "codigo": "75",
+   "tipo": "Apartamento",
+   "finalidades": [
+    "Aluguel"
+   ],
+   "bairro": "Centro",
+   "cidade": "Jacutinga/MG",
+   "valor_venda": null,
+   "valor_aluguel": "R$ 6.000,00/mês",
+   "quartos": "3",
+   "suites": "3",
+   "banheiros": "4",
+   "vagas": "4",
+   "area_total": null,
+   "area_construida": null,
+   "itens": [
+    "Closet",
+    "Lavabo",
+    "Elevador",
+    "Área de Lazer",
+    "Piscina"
+   ],
+   "descricao": "DUPLEX DE ALTO PADRÃO PARA LOCAÇÃO!\n✨ Sofisticação, conforto e espaço em um só lugar!\nO imóvel conta com:\n▪️ Suíte master com closet.\n▪️ 02 suítes amplas.\n▪️ 02 salas de estar.\n▪️ Sala de jantar.\n▪️ Cozinha planejada.\n▪️ Lavabo.\n▪️ Varanda.\n▪️ Área de serviço.\n▪️ Quarto de empregada.\n▪️ 04 vagas de garagem.\n▪️ Totalmente mobiliado.\nVALOR DA LOCAÇÃO: R$ 6.000,00\nEncargos adicionais:\nCondomínio: aproximadamente R$ 1.800,00.\nIPTU: aproximadamente R$ 2.800,00.\nUma excelente opção para quem busca conforto, elegância e praticidade!",
+   "link": "https://www.imobiliariamilano.com.br/imoveis?codigo=75",
+   "pagina": "https://www.imobiliariamilano.com.br/imovel/apartamento-3-quartos-centro-jacutinga-locacao-id-158"
   },
   {
    "codigo": "I9Z223",
@@ -1284,18 +1311,18 @@
    ],
    "bairro": "Flamboyant",
    "cidade": "Jacutinga/MG",
-   "valor_venda": "R$ 790.000,00",
+   "valor_venda": "Sob consulta",
    "valor_aluguel": null,
-   "quartos": "4",
+   "quartos": "3",
    "suites": "3",
    "banheiros": "1",
    "vagas": null,
    "area_total": null,
    "area_construida": "250 m²",
    "itens": [],
-   "descricao": "🏡\nCASA À VENDA – R$ 790.000,00\n•\n04 QUARTOS, SENDO 03 SUÍTES\n•\nSALA\n•\nCOZINHA\n•\nBANHEIRO SOCIAL\n•\nGARAGEM PARA 02 CARROS\n•\nPISCINA COM ÁREA DE LAZER COMPLETA\n🏊\n•\n02 BANHEIROS NA ÁREA DE LAZER\n📐\nÁrea construída:\naproximadamente 250 m²\n📏\nTerreno:\n360 m²\n💰\nVALOR: R$ 790.000,00",
+   "descricao": "🏡\nCASA À VENDA\n•\n03 QUARTOS, SENDO SUÍTES\n•\nSALA DE JANTAR\n•\nSALA DE ESTAR\n•\nCOZINHA\n•\nLAVABO\n•\nGARAGEM PARA 02 CARROS\n•\nPISCINA AQUECIDA\n•\nÁREA DE LAZER COMPLETA\n🏊\n📐\nÁrea construída:\naproximadamente 240 m²\n📏\nTerreno:\n360 m²",
    "link": "https://www.imobiliariamilano.com.br/imoveis?codigo=I9Z339",
-   "pagina": "https://www.imobiliariamilano.com.br/imovel/casa-4-quartos-flamboyant-jacutinga-venda-id-68"
+   "pagina": "https://www.imobiliariamilano.com.br/imovel/casa-3-quartos-flamboyant-jacutinga-venda-id-68"
   },
   {
    "codigo": "I9Z318",
@@ -1508,6 +1535,28 @@
    "descricao": "🏡\nEXCLUSIVIDADE MILANO IMÓVEIS\n💚\n✨\nIMÓVEL DISPONÍVEL PARA VENDA!\n📍\nLocalização:\nRua Darci Sebastião Nicioli, s/n.\nUm imóvel moderno, com excelente localização, fachada elegante, jardim e acabamentos de primeira qualidade. Ideal para quem busca conforto e praticidade!\nO imóvel conta com:\n02 quartos;\nSala;\nCozinha;\nBanheiro;\nÁrea de serviço;\nEntrada para carro.\n🌿\nDiferenciais:\nFachada moderna;\nJardim;\nAcabamentos de primeira;\nExcelente localização.\n📐\nDimensões:\nTerreno: 200 m²;\nÁrea construída: 59 m².\n📲 Gostou? Entre em contato com a\nMilano Imóveis\ne agende sua visita!",
    "link": "https://www.imobiliariamilano.com.br/imoveis?codigo=61",
    "pagina": "https://www.imobiliariamilano.com.br/imovel/casa-2-quartos-jardim-nicioli-jacutinga-venda-id-144"
+  },
+  {
+   "codigo": "74",
+   "tipo": "Casa",
+   "finalidades": [
+    "Venda",
+    "Aluguel"
+   ],
+   "bairro": "Jardim Nicioli",
+   "cidade": "Jacutinga/MG",
+   "valor_venda": "R$ 340.000,00",
+   "valor_aluguel": "R$ 1.600,00/mês",
+   "quartos": "2",
+   "suites": "1",
+   "banheiros": "2",
+   "vagas": "1",
+   "area_total": null,
+   "area_construida": "66 m²",
+   "itens": [],
+   "descricao": "🏡\nCASA DISPONÍVEL PARA VENDA OU LOCAÇÃO!\nOportunidade imperdível para quem procura um novo lar!\nApresentamos uma casa aconchegante, bem planejada e com ótimo espaço para você e sua família viverem com conforto.\nCaracterísticas do imóvel:\n02 quartos amplos, sendo 01 suíte;\nSala espaçosa, com pé-direito alto e bem arejada;\nCozinha americana;\nBanheiro social;\nEntrada para carro;\nÁrea de serviço coberta;\nQuintal amplo, ideal para criar sua própria área de lazer.\n📐\nTerreno:\n200 m²\n🏠\nÁrea construída:\n66 m²\n💰\nValor de locação: R$ 1.600,00\n💰\nValor de venda: R$ 360.000,00\n🏦 Aceita financiamento bancário!\n📲 Entre em contato com a nossa equipe para saber mais sobre as condições de venda ou locação e agendar uma visita.",
+   "link": "https://www.imobiliariamilano.com.br/imoveis?codigo=74",
+   "pagina": "https://www.imobiliariamilano.com.br/imovel/casa-2-quartos-jardim-nicioli-jacutinga-venda-id-157"
   },
   {
    "codigo": "14",
