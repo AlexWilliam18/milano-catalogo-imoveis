@@ -301,7 +301,7 @@ Tipo: Apartamento
 Finalidade: Aluguel
 Bairro: Centro
 Cidade: Jacutinga/MG
-Valor do aluguel: R$ 2.500,00/mês
+Valor do aluguel: R$ 2.400,00/mês
 Link do imóvel: https://www.imobiliariamilano.com.br/imoveis?codigo=I9Z223
 Descrição (imóvel Cód. I9Z223, bairro Centro):
 🔥🏢
@@ -315,7 +315,7 @@ CONFORTO, TRANQUILIDADE E ÓTIMO ESPAÇO!
 ✔️ BANHEIRO SOCIAL
 ✔️ ÁREA DE SERVIÇO
 💰
-APENAS R$ 2.500,00
+APENAS R$ 2.400,00
 📞
 NÃO PERCA ESSA OPORTUNIDADE!
 📲 ENTRE EM CONTATO AGORA
