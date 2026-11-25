@@ -1,5 +1,5 @@
 CATÁLOGO DE IMÓVEIS — Milano Aluguel e Venda de Imóveis
-Atualizado em: 25/11/2026. Total: 93 imóveis.
+Atualizado em: 25/11/2026. Total: 94 imóveis.
 
 ============================================================
 Imóvel Cód. 53 — Casa à venda no bairro Campo Belo, Jacutinga/MG
@@ -2669,6 +2669,30 @@ ENTRADA PARA CARRO
 💰
 VALOR: R$ 250.000,00
 Fim do imóvel Cód. I9Z347.
+============================================================
+Imóvel Cód. 76 — Galpão / Barracão para alugar no bairro Vila Toledo, Jacutinga/MG
+Código: 76
+Tipo: Galpão / Barracão
+Finalidade: Aluguel
+Bairro: Vila Toledo
+Cidade: Jacutinga/MG
+Valor do aluguel: R$ 3.000,00/mês
+Banheiros: 1
+Link do imóvel: https://www.imobiliariamilano.com.br/imoveis?codigo=76
+Descrição (imóvel Cód. 76, bairro Vila Toledo):
+🏢
+BARRACÃO PARA LOCAÇÃO – ÓTIMA OPORTUNIDADE!
+Excelente opção para quem busca um espaço amplo e versátil para instalar seu negócio ou desenvolver suas atividades comerciais.
+Características do imóvel:
+Barracão amplo, com aproximadamente 150 m² de área interna.
+Área externa com aproximadamente 120 m².
+Banheiro.
+Escritório.
+Cozinha.
+Um espaço que oferece comodidade e possibilidades para o seu negócio!
+💰
+Valor da locação: R$ 3.000,00.
+Fim do imóvel Cód. 76.
 ============================================================
 Imóvel Cód. I9Z266 — Casa para alugar no bairro Vila Tonini, Jacutinga/MG
 Código: I9Z266
