@@ -1,7 +1,7 @@
 {
  "atualizado": "26/11/2026",
  "fonte": "https://www.imobiliariamilano.com.br",
- "total": 94,
+ "total": 93,
  "imoveis": [
   {
    "codigo": "53",
@@ -649,48 +649,6 @@
    "pagina": "https://www.imobiliariamilano.com.br/imovel/loja-centro-jacutinga-locacao-id-140"
   },
   {
-   "codigo": "58",
-   "tipo": "Loja / Ponto comercial",
-   "finalidades": [
-    "Aluguel"
-   ],
-   "bairro": "Centro",
-   "cidade": "Jacutinga/MG",
-   "valor_venda": null,
-   "valor_aluguel": "R$ 1.650,00/mês",
-   "quartos": null,
-   "suites": null,
-   "banheiros": "1",
-   "vagas": null,
-   "area_total": null,
-   "area_construida": null,
-   "itens": [],
-   "descricao": "🏢 SALA COMERCIAL PARA LOCAÇÃO\nSala comercial com aproximadamente 35 m², contendo:\nSala comercial;\nBanheiro.\n💰 VALOR: R$ 1.650,00",
-   "link": "https://www.imobiliariamilano.com.br/imoveis?codigo=58",
-   "pagina": "https://www.imobiliariamilano.com.br/imovel/loja-centro-jacutinga-locacao-id-141"
-  },
-  {
-   "codigo": "66",
-   "tipo": "Loja / Ponto comercial",
-   "finalidades": [
-    "Aluguel"
-   ],
-   "bairro": "Centro",
-   "cidade": "Jacutinga/MG",
-   "valor_venda": null,
-   "valor_aluguel": "R$ 1.950,00/mês",
-   "quartos": null,
-   "suites": null,
-   "banheiros": "1",
-   "vagas": null,
-   "area_total": null,
-   "area_construida": null,
-   "itens": [],
-   "descricao": "🏢\nLOJA COMERCIAL PARA LOCAÇÃO – CENTRO!\nExcelente opção para quem busca um espaço comercial bem localizado!\nO imóvel conta com:\nSala comercial com aproximadamente 25 m²;\nCozinha;\n01 banheiro.\n💰\nVALOR: R$ 1.950,00\nEntre em contato com a Milano Imóveis",
-   "link": "https://www.imobiliariamilano.com.br/imoveis?codigo=66",
-   "pagina": "https://www.imobiliariamilano.com.br/imovel/loja-centro-jacutinga-locacao-id-149"
-  },
-  {
    "codigo": "72",
    "tipo": "Loja / Ponto comercial",
    "finalidades": [
@@ -1006,6 +964,27 @@
    "pagina": "https://www.imobiliariamilano.com.br/imovel/galpao-cidade-jardim-jacutinga-locacao-id-63"
   },
   {
+   "codigo": "77",
+   "tipo": "Casa",
+   "finalidades": [
+    "Aluguel"
+   ],
+   "bairro": "Coronel Renno",
+   "cidade": "Jacutinga/MG",
+   "valor_venda": null,
+   "valor_aluguel": "R$ 1.300,00/mês",
+   "quartos": "2",
+   "suites": null,
+   "banheiros": "1",
+   "vagas": "1",
+   "area_total": null,
+   "area_construida": null,
+   "itens": [],
+   "descricao": "🏡\nCASA PARA LOCAÇÃO\n• 02 quartos;\n• Sala;\n• Cozinha;\n• Banheiro;\n• Área de serviço;\n• Pequeno cômodo externo nos fundos;\n• Quintal;\n• Garagem coberta.\n💰\nVALOR: R$ 1.300,00",
+   "link": "https://www.imobiliariamilano.com.br/imoveis?codigo=77",
+   "pagina": "https://www.imobiliariamilano.com.br/imovel/casa-2-quartos-coronel-renno-jacutinga-locacao-id-160"
+  },
+  {
    "codigo": "38",
    "tipo": "Galpão / Barracão",
    "finalidades": [
@@ -1215,6 +1194,27 @@
    "descricao": "🏡\nCASA PARA LOCAÇÃO COM BARRACÃO!\nUma ótima oportunidade para quem busca espaço e praticidade!\nO imóvel conta com:\n• 03 quartos, sendo 01 suíte;\n• Sala;\n• Cozinha;\n• Banheiro social;\n• Área de serviço;\n• Quintal;\n• Barracão;\n• Garagem coberta.\n💰\nValor da locação: R$ 2.600,00\n📲 Entre em contato com a nossa equipe",
    "link": "https://www.imobiliariamilano.com.br/imoveis?codigo=73",
    "pagina": "https://www.imobiliariamilano.com.br/imovel/casa-3-quartos-flamboyant-jacutinga-locacao-id-156"
+  },
+  {
+   "codigo": "78",
+   "tipo": "Casa",
+   "finalidades": [
+    "Aluguel"
+   ],
+   "bairro": "Flamboyant",
+   "cidade": "Jacutinga/MG",
+   "valor_venda": null,
+   "valor_aluguel": "R$ 1.500,00/mês",
+   "quartos": "2",
+   "suites": "1",
+   "banheiros": "2",
+   "vagas": "1",
+   "area_total": null,
+   "area_construida": null,
+   "itens": [],
+   "descricao": "🏡\nCasa para locação\nÓtima opção para quem busca conforto e praticidade! O imóvel conta com ambientes bem distribuídos, oferecendo tudo o que você precisa para o dia a dia.\nCaracterísticas do imóvel:\n02 quartos, sendo 01 suíte;\nSala;\nCozinha;\nBanheiro social;\nÁrea de serviço;\nGaragem coberta.\n💰\nValor da locação: R$ 1.500,00 + IPTU.",
+   "link": "https://www.imobiliariamilano.com.br/imoveis?codigo=78",
+   "pagina": "https://www.imobiliariamilano.com.br/imovel/casa-2-quartos-flamboyant-jacutinga-locacao-id-161"
   },
   {
    "codigo": "I9Z117",
@@ -1578,27 +1578,6 @@
    "descricao": "🏡\nImóvel de Alto Padrão à Venda — Elegância, Conforto e Praticidade!\n✨\nUm imóvel pensado para quem busca conforto, elegância e praticidade no dia a dia.\nDestaques do imóvel:\n• 03 quartos, sendo 01 suíte\n• 02 quartos com móveis planejados\n• Sala de estar ampla e sala de jantar integrada\n• Cozinha planejada de alto padrão\n• Área gourmet para receber família e amigos\n• Garagem coberta com portão eletrônico\n• Jardim com projeto de iluminação\n• Fachada moderna e excelente acabamento\n📐\nTerreno:\n200 m²\n🏠\nÁrea construída:\naproximadamente 120 m²\n📍\nExcelente localização, em uma região valorizada da cidade.\n💰\nValor: R$ 690.000,00\n📞\nEntre em contato com a Milano Imóveis e agende sua visita!",
    "link": "https://www.imobiliariamilano.com.br/imoveis?codigo=14",
    "pagina": "https://www.imobiliariamilano.com.br/imovel/casa-3-quartos-nova-jacutinga-jacutinga-venda-id-97"
-  },
-  {
-   "codigo": "45",
-   "tipo": "Casa",
-   "finalidades": [
-    "Aluguel"
-   ],
-   "bairro": "Nova Jacutinga",
-   "cidade": "Jacutinga/MG",
-   "valor_venda": null,
-   "valor_aluguel": "R$ 1.600,00/mês",
-   "quartos": "2",
-   "suites": null,
-   "banheiros": "1",
-   "vagas": "1",
-   "area_total": null,
-   "area_construida": null,
-   "itens": [],
-   "descricao": "🏠\nIMÓVEL DISPONÍVEL PARA LOCAÇÃO\nO imóvel conta com:\n• 02 quartos\n• Sala ampla\n• Cozinha ampla\n• Banheiro\n• Área de serviço\n• Garagem coberta\n• Quintal\n💰\nAluguel: R$ 1.600,00\n📲 Entre em contato com a\nMilano Imóveis",
-   "link": "https://www.imobiliariamilano.com.br/imoveis?codigo=45",
-   "pagina": "https://www.imobiliariamilano.com.br/imovel/casa-2-quartos-nova-jacutinga-jacutinga-locacao-id-128"
   },
   {
    "codigo": "47",
