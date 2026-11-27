@@ -1,7 +1,7 @@
 {
  "atualizado": "27/11/2026",
  "fonte": "https://www.imobiliariamilano.com.br",
- "total": 93,
+ "total": 92,
  "imoveis": [
   {
    "codigo": "53",
@@ -1110,27 +1110,6 @@
    "descricao": "CASA DE ALTO PADRÃO À VENDA\nImóvel de alto padrão, amplo e completo, ideal para quem busca conforto, sofisticação, lazer e espaço. Localizado em um dos melhores bairros de Jacutinga - MG\nÁrea interna\n03 quartos, sendo 02 suíte;\nSuíte com closet, banheira, móveis planejados e ar-condicionado;\n02 banheiros;\nSala de estar;\nCozinha com móveis planejados;\nLavanderia;\nSacada com uma bela vista.\nÁrea de lazer\nPiscina;\nÁrea de lazer com churrasqueira;\nSalão de festas;\nQuarto para visitas;\nBanheiro no salão de festas.\nGaragem\nGaragem para 02 veículos ou mais.\nÁrea externa e terrenos\nTerreno de 399 m² onde está localizada a casa;\nSegundo terreno de 399 m² aos fundos, proporcionando ainda mais espaço e possibilidades de aproveitamento.",
    "link": "https://www.imobiliariamilano.com.br/imoveis?codigo=18",
    "pagina": "https://www.imobiliariamilano.com.br/imovel/casa-3-quartos-flamboyant-jacutinga-venda-id-101"
-  },
-  {
-   "codigo": "32",
-   "tipo": "Casa",
-   "finalidades": [
-    "Aluguel"
-   ],
-   "bairro": "flamboyant",
-   "cidade": "Jacutinga/MG",
-   "valor_venda": null,
-   "valor_aluguel": "R$ 1.250,00/mês",
-   "quartos": "2",
-   "suites": "1",
-   "banheiros": "1",
-   "vagas": "1",
-   "area_total": null,
-   "area_construida": null,
-   "itens": [],
-   "descricao": "🏡 CASA PARA LOCAÇÃO\n•\n02 quartos, sendo 01 suíte\n•\nSala\n•\nCozinha\n•\nBanheiro\n•\nÁrea de serviço\n•\nQuintal\n•\nEntrada para carro\nValor: R$ 1.250,00\nEntre em contato conosco e faça uma visita!",
-   "link": "https://www.imobiliariamilano.com.br/imoveis?codigo=32",
-   "pagina": "https://www.imobiliariamilano.com.br/imovel/casa-2-quartos-flamboyant-jacutinga-locacao-id-115"
   },
   {
    "codigo": "62",
